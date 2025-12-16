@@ -4,15 +4,15 @@
 * **Last updated**: 2025-11-14
 * **Status**: Complete-ish (There are no `all_*` files or CSV and JSON variants, but "main" classified files have been aggregated and validated; zero empty types have been handled)
 * **To Do:**
-- 1. Create `all_*` aggregation files across all format types
-- 2. Create JSON and CSV variants
+  - Create `all_*` aggregation files across all format types
+  - Create JSON and CSV variants
 * **Notes:**
-- Inherits all applicable metadata from `raw/`
-- New attribute, `type`, added to indicate a given note's classification; this attribute is not in `raw/` files.
-- Only **XML** format available (See `Status` and `To Do` above)
-- The **XML** has root `<records>` element with `path` attribute; hierarchical structure with `<record>` elements containing `<title>` and multiple `<note type="..." num="...">` children.
-- Main classified files contain only records where all notes have non-empty type values.
-- Records with at least one empty type value (`type=""`) are isolated in `classified/empty_types/` subdirectory.
+  - Inherits all applicable metadata from `raw/`
+  - New attribute, `type`, added to indicate a given note's classification; this attribute is not in `raw/` files.
+  - Only **XML** format available (See `Status` and `To Do` above)
+  - The **XML** has root `<records>` element with `path` attribute; hierarchical structure with `<record>` elements containing `<title>` and multiple `<note type="..." num="...">` children.
+  - Main classified files contain only records where all notes have non-empty type values.
+  - Records with at least one empty type value (`type=""`) are isolated in `classified/empty_types/` subdirectory.
 
 ## Data Sources
 
