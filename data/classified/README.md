@@ -14,6 +14,7 @@
   - Main classified files contain only records where all notes have non-empty type values.
   - Records with at least one empty type value (`type=""`) are isolated in `classified/empty_types/` subdirectory.
 
+---
 ## Data Sources
 
 | Source | Total Records | Total Notes | Type Distribution (w/o/a) | Hybrids (aw/ow/ao) | Unknown (?) |
@@ -35,6 +36,7 @@ Records with at least one empty type value are isolated in `classified/empty_typ
 | zoe_with_empty_types | 615 | 3,447 | 3,447 |
 | **Total (empty_types)** | **773** | **3,698** | **3,698** |
 
+---
 ## Classification Status
 
 ### Main Files (`classified/by_format/XML/`)
@@ -47,6 +49,7 @@ Records with at least one empty type value are isolated in `classified/empty_typ
 - Awaiting further classification work
 - Binary split: entire record moved if any note has empty type
 **Note:** Original `martin` and `zoe` classified files contained 551 and 2,349 records respectively. Main classified files now contain only records with complete classifications, not partials.
+---
 
 ## Structure Examples
 
@@ -77,7 +80,7 @@ Records with at least one empty type value are isolated in `classified/empty_typ
   ...
 </records>
 ```
-
+---
 ## Validation Reports
 
 Detailed validation reports are available in `reports_2025-12-11-14/`:
