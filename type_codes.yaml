@@ -1,0 +1,109 @@
+# MARC 500 Field Classification Schema
+# Project Name: Notes Classification 
+# Purpose: Classification of bibliographic notes (in MARC 500 field, subfield-agnostic) based on ontological scope
+# Author: Will Nyarko
+# Date created: 2025-08-08
+# Date last updated: 2025-12-16
+# Status: Active
+# Notes:
+## A. Top-level context
+### - The Notes Classification project is a member- (or, human-) first, automation-later classification project.
+### - Therefore, members involved with this work physically classify notes on the selected bibliographic dataset, in preparation for future automated processing on much larger datasets.
+### - The `Notes Classification` project occurs two levels 'below another project': its grandparent project of `org-wide linked data policy advising and implementation` and its parent project of `linked data/LUX mapping`.
+### - Its parent project, `linked data/LUX mapping`, shares a horizontal relationship with the `Copy-specific Data` project.
+### - The team in charge of the grandparent 'project' -> Linked LibraryData Advisory Group (LLDAG)
+### - The team in charge of the parent 'project' -> LUX Metadata Mapping Task Force (LMMTF)
+### - The team in charge of the horizontal 'project' to the parent 'project' -> Copy-Specific Data Task Force (CSDTF)
+### - By having these ancestors, the Notes Classification project inherits the core goals of its ancestors.
+
+## B.Project-level context
+### - This YAML file defines the classes for the Notes Classification project.
+#### - The primary classes are: Work, Object, and Administrative.
+#### - The hybrid classes are: Object + Work, Administrative + Work, Administrative + Object.
+#### - The triage class is: Unknown.
+
+### - Most the classes (and their encodings) were emergent as the project progressed. In other words, the current 7 classes (together) were not a priori defined before active, team-wide work began. implies that at least one person has 'visited' the note and applied a classification code to it.  It became useful to 'formalize' (even while working within the bounds of our operational frame) for convenience and efficiency, trusting that LRM-ness that conceptually undergirds our classification approach will accommodate any changes we may need to make as we learn more from experience. 
+### - 'On emergent class definition': as members came across notes where specifying one particular class would be insufficient, the hybrid classes became useful to formalize (even while working within the bounds of our team's operational frame)
+### - 'On emergent encoding definition': initially, a note determined to be 'object-level' would be encoded as an empty string ("") as value of the attribute where the note occurs (within the text node of the note's note element). This was helpful to distinguish between a visited note and an unvisited one.
+### - It cannot be known what a given note would be classified as before a visit to it. Therefore, we approach a given note as a 'blank slate'. This is because despite MARC's specification about what can go into a 500 field, there is a sizeable amount of freedom given to the cataloger to use their expertise and available context at the time of creating the field's content. Local practices have evolved too. Our team does not have access to the catalogers and their contexts, and we are dealing with free-text fields.
+### - Because 'it cannot be know what a given note would be classified as before a visit to it' has completed, the steps under "Classification Process" should not be assumed as a signal for any given note tending toward a certain direction. For instance, in a sense, one may think that because the note is found at document level, a note may lean 'object-level': this is wrong and dangerous. At best, the decision framework this author is using is merely an attempt to infuse convenience into respecting the open-endedness we must use to approach any given note. Since we are only using the notes themselves without extra contexts coming from outside the 500 field + the fact that we are agnostic to 500 subfielding, it is best to be explicit about all these to ward off any wrong assumptions.
+### - It is also out of scope to directly edit the notes in the catalog record. We are not splitting notes so that we can easily assign (primary) classes to them.
+### - All 'description' fields within the classes, and all content starting at `Description*` till the end of the file are personal, self-derived, best-effort estimations by this file's author; they should not be considered 'official' or validated by the rest of the team.
+### - What constitutes what 'a note is about' and what constitutes a 'substantive signal' are subjectively obtained and therefore cannot be objectively defined in this document.
+### - This means that the descriptions, guidelines, and boundary tests are all best-effort compressions learned from combining the contexts learned from meetings, notes, and discussions with the team. They must not be seen as absolute.
+### - The vertical arrangment of the classes in this YAML file (especially within the primary_classes section) is deliberate to reflect the LRM hierarchy (starting from abstract to concrete). The hybrids inherit this hierarchy too, with an extra touch to prefer vowels to come before the only consonant here. None of these is a requirement.
+### - The only member of the triage class, "?", which has in its description "...even provisionally", implies that during a visit to a note, a member tries their best to assign a classification code to a note. If they cannot do so by their own judgment, they then resort to the team for their evaluation with the hope that traveling upwards in this hierarchy, at least a hybrid class can be assigned.
+### - There is currently no hybrid class with the "?" class member.
+### - The boundary tests are a set of questions that help to determine the primary class and hybrid class for a given note.
+### - The principles are a set of guiding principles for the Notes Classification project.
+
+primary_classes:
+  w:
+    name: "Work"
+    description: "When a note is about the intellectual content of the resource: its conception, realization, or meaning, independent of any particular copy."
+    
+  o:
+    name: "Object"
+    description: "When a note is about the physical instantiation of the resource: the particular item in hand and its tangible characteristics."
+    
+  a:
+    name: "Administrative"
+    description: "When a note is about the context, process, or conditions of description, management, or access for the resource or its record, rather than intellectual content or a particular physical instance."
+
+hybrid_classes:
+  ow:
+    name: "Object + Work"
+    description: "When a single note contains substantive signals of both object-level and work-level content."
+    
+  aw:
+    name: "Administrative + Work"
+    description: "When a single note contains substantive signals of both administrative and work-level content."
+    
+  ao:
+    name: "Administrative + Object"
+    description: "When a single note contains substantive signals of both administrative and object-level content."
+
+triage_class:
+  "?":
+    name: "Unknown"
+    description: "When no class can be assigned even provisionally."
+
+# Decision framework: Apply in order
+classification_process:
+  - step: 1
+    action: "Attempt to assign a primary class (w, o, a)"
+    guideline: "Primary classes are preferred when the note's scope clearly maps to a single ontological level."
+    
+  - step: 2
+    action: "If substantive signals from two domains are present, assign appropriate hybrid class"
+    guideline: "Hybrid classes acknowledge that catalogers often combine perspectives in single notes."
+    
+  - step: 3
+    action: "If classification cannot be determined, assign '?'"
+    guideline: "The unknown class provides an honest category for genuinely ambiguous cases."
+
+# Distinguishing tests for boundary cases
+boundary_tests:
+  work_vs_object:
+    question: "Would this statement be true for all copies of this work, or only for this particular physical item?"
+    w_signal: "True for all copies - describes intellectual structure, content, or organization"
+    o_signal: "True only for this item - describes physical materials, marks, or condition"
+    
+  admin_vs_object:
+    question: "Is this describing what the physical item IS, or documenting an institutional action/process about managing or describing it?"
+    a_signal: "Documents a contextual event, process, or decision about description or management"
+    o_signal: "Describes an observable attribute, characteristic, or feature of the physical object"
+    note: "Provenance can blur this boundary - consider whether the note emphasizes object history (o) or institutional acquisition action (a)"
+    
+  admin_vs_work:
+    question: "Is this about the intellectual content itself, or about how that content is being described or accessed?"
+    w_signal: "Describes the work's conception, expression, or intellectual properties"
+    a_signal: "Describes cataloging decisions, access conditions, or record management"
+
+# Guiding principles
+principles:
+  - "Reason from ontological substance within the note text, not from lexical patterns or keywords"
+  - "Consider what level of reality the note describes: abstract/intellectual (w), concrete/physical (o), or meta/documentary (a)"
+  - "When in doubt between primary classes, consider if substantive signals from both domains justify a hybrid"
+  - "Consistency matters, but honest assessment of ambiguity (?) is preferable to forced classification"
+  - "Trust expert judgment while applying systematic reasoning"

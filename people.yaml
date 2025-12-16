@@ -1,0 +1,30 @@
+people:
+  - id: "wn"
+    name: "Will Nyarko"
+    email: "william.nyarko@yale.edu"
+    roles: ["classifier", "reviewer"]
+
+  - id: "ml"
+    name: "Martin Lovell"
+    email: "martin.lovell@yale.edu"
+    roles: ["classifier", "reviewer"]
+
+  - id: "zid"
+    name: "Zoe Dobbs"
+    email: "zoe.dobbs@yale.edu"
+    roles: ["classifier", "reviewer"]
+
+  - id: "dm"
+    name: "Daniel Mugaburu"
+    email: "daniel.mugaburu@yale.edu"
+    roles: ["classifier", "reviewer"]
+
+  - id: "tt"
+    name: "Timothy Thompson"
+    email: "timothy.thompson@yale.edu"
+    roles: ["classifier", "reviewer"]
+
+  - id: "if"
+    name: "Irma Fraticelli"
+    email: "irma.fraticelli@yale.edu"
+    roles: ["reviewer"]
