@@ -1,12 +1,12 @@
 # Classified files
 
-**Purpose**: Bibliographic records with notes classified by type (w/o/a and hybrids), organized by person
-**Last updated**: 2025-11-14
-**Status**: Complete-ish (There are no `all_*` files or CSV and JSON variants, but "main" classified files have been aggregated and validated; zero empty types have been handled)
-**To Do:**
+* **Purpose**: Bibliographic records with notes classified by type (w/o/a and hybrids), organized by person
+* **Last updated**: 2025-11-14
+* **Status**: Complete-ish (There are no `all_*` files or CSV and JSON variants, but "main" classified files have been aggregated and validated; zero empty types have been handled)
+* **To Do:**
 - 1. Create `all_*` aggregation files across all format types
 - 2. Create JSON and CSV variants
-**Notes:**
+* **Notes:**
 - Inherits all applicable metadata from `raw/`
 - New attribute, `type`, added to indicate a given note's classification; this attribute is not in `raw/` files.
 - Only **XML** format available (See `Status` and `To Do` above)
