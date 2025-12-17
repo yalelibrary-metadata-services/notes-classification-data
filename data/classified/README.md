@@ -20,11 +20,11 @@
 | Source | Total Records | Total Notes | Type Distribution (w/o/a) | Hybrids (aw/ow/ao) | Unknown (?) |
 |---|---:|---:|---|---|---:|
 | daniel_classified | 500 | 1,011 | 58 / 397 / 551 | 3 / 0 / 1 | 1 |
-| martin_classified | 393 | 778 | 130 / 45 / 566 | 3 / 31 / 0 | 3 |
+| martin_classified | 393 | 598 | 116 / 42 / 408 | 2 / 29 / 0 | 1 |
 | tim_classified | 21 | 59 | 18 / 30 / 5 | 2 / 3 / 1 | 0 |
 | will_classified | 500 | 870 | 100 / 713 / 48 | 1 / 2 / 6 | 0 |
-| zoe_classified | 1,734 | 7,831 | 889 / 5,247 / 1,588 | 7 / 93 / 7 | 0 |
-| **Total (main files)** | **3,148** | **10,549** | **1,195 / 6,432 / 2,758** | **16 / 129 / 15** | **4** |
+| zoe_classified | 1,734 | 4,418 | 475 / 3,258 / 578 | 7 / 93 / 7 | 0 |
+| **Total (main files)** | **3,148** | **6,956** | **767 / 4,440 / 1,590** | **15 / 127 / 15** | **2** |
 
 ### Empty Types Subdirectory
 
@@ -32,15 +32,15 @@ Records with at least one empty type value are isolated in `classified/empty_typ
 
 | Source | Total Records | Total Notes | Empty Type Notes |
 |---|---:|---:|---:|
-| martin_with_empty_types | 158 | 251 | 251 |
-| zoe_with_empty_types | 615 | 3,447 | 3,447 |
-| **Total (empty_types)** | **773** | **3,698** | **3,698** |
+| martin_with_empty_types | 158 | 431 | 251 |
+| zoe_with_empty_types | 615 | 6,860 | 3,447 |
+| **Total (empty_types)** | **773** | **7,291** | **3,698** |
 
 ---
 ## Classification Status
 
 ### Main Files (`classified/by_format/XML/`)
-- ✓ **100% type attribute coverage** - All 10,549 notes have `type` attribute present
+- ✓ **100% type attribute coverage** - All 6,956 notes have `type` attribute present
 - ✓ **Zero empty types** - All type values are non-empty (w/o/a/hybrids/?)
 - ✓ **Path attributes updated** - All files have correct `path` attribute on root `<records>` element
 
