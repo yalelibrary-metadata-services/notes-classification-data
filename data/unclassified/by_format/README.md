@@ -1,7 +1,7 @@
 # Unclassified files
 
 **Purpose:** Snapshot of records not yet classified  
-**Status:** Complete  
+**Status:** Active 
 **Last updated:** 2025-12-17
 
 *See root [`README.md`](../../../../README.md) for project workflow and context.*

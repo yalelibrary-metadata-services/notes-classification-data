@@ -1,7 +1,7 @@
 # Classified files
 
 **Purpose:** Bibliographic records with notes classified by type (w/o/a and hybrids)  
-**Status:** Complete  
+**Status:** Active  
 **Last updated:** 2025-12-17
 
 *See root [`README.md`](../../README.md) for project workflow and context.*
