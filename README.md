@@ -1,4 +1,4 @@
-# Notes Classification Project
+# Notes Classification Project Data
 
 **Purpose:** Classification of bibliographic notes (MARC 500 field, subfield-agnostic) based on ontological scope  
 **Status:** Active  
