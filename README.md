@@ -68,7 +68,9 @@ _temporary_staging/ → preprocessing → data/raw/ → data/classified/ → dat
 | classified | 3,921 | 14,247 | 10,549 | 3,698 |
 | unclassified | 7,849 | 35,926 | 0 | 35,926 |
 
-*Verification: 11,770 = 3,921 + 7,849 | 50,173 = 14,247 + 35,926*
+*Verification:* 
+- **11,770** = 3,921 + 7,849
+- **50,173** = 14,247 + 35,926
 
 ### Type Distribution (10,549 Classified Notes)
 
