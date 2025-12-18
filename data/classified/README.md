@@ -1,18 +1,45 @@
 # Classified files
 
-* **Purpose**: Bibliographic records with notes classified by type (w/o/a and hybrids), organized by person
-* **Last updated**: 2025-12-17
-* **Status**: Complete
-* **Notes:**
-  - New attribute, `type`, added to indicate a given note's classification; this attribute is not in `raw/` files.
-  - The **XML** has root `<records>` element with `path` attribute; hierarchical structure with `<record>` elements containing `<title>` and multiple `<note type="..." num="...">` children.
-  - **CSV**: Flat structure with header row; one row per note containing `bib_id`, `title`, `note_num`, `note`, `type` (plus `source` column for aggregated files).
-  - **JSON**: Root array of record objects; each record contains `bib_id`, `title`, and `notes` array with `text`, `note_num`, `type` (plus `source` field for aggregated files).
-  - **fully_classified** files contain only records where all notes have non-empty values for @type.
-  - **partially_classified** files contain records with at least one non-empty and one empty type note.
+**Purpose:** Bibliographic records with notes classified by type (w/o/a and hybrids)  
+**Status:** Complete  
+**Last updated:** 2025-12-17
+
+*See root [`README.md`](../../README.md) for project workflow and context.*
 
 ---
-## Data Sources
+
+## Overview
+
+Records with classification applied. New `type` attribute added to notes (not present in `raw/` files). Organized into `fully_classified/` (all notes typed) and `partially_classified/` (mix of typed and empty).
+
+**Statistics:** 3,921 records, 14,247 notes (10,549 typed, 3,698 empty)
+
+---
+
+## Structure
+
+```
+classified/
+├── fully_classified/        # 3,148 records (all notes typed)
+│   ├── by_format/         # XML | CSV | JSON
+│   └── by_type/           # CSV by type (w/o/a/hybrids/unknown)
+│
+├── partially_classified/   # 773 records (mix of typed + empty)
+│   ├── by_format/         # XML | CSV | JSON
+│   └── by_type/           # CSV by type
+│
+└── reports/               # Validation and analysis
+```
+
+**Formats:**
+- **XML**: Root `<records>` with `path` attribute; `<record>` contains `<title>` and `<note type="..." num="...">` children
+- **CSV**: One row per note: `bib_id`, `title`, `note_num`, `note`, `type` (plus `source` for aggregated files)
+- **JSON**: Array of records with `bib_id`, `title`, `notes` array (`text`, `note_num`, `type`) (plus `source` for aggregated files)
+- **by_type/**: CSV files organized by classification type (CSV only for ease of use)
+
+---
+
+## Statistics
 
 ### Summary
 
@@ -23,7 +50,7 @@
 
 ### Fully Classified
 
-Records where all notes have non-empty type values are located in `classified/fully_classified/by_format/`:
+Records where all notes have non-empty type values:
 
 | Source | Total Records | Total Notes | w | o | a | aw | ow | ao | Unknown (?) |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -34,39 +61,38 @@ Records where all notes have non-empty type values are located in `classified/fu
 | zoe_classified | 1,734 | 4,418 | 475 | 3,258 | 578 | 7 | 93 | 7 | 0 |
 | **Total** | **3,148** | **6,956** | **767** | **4,440** | **1,590** | **15** | **127** | **15** | **2** |
 
-*Type Distribution: w (work), o (object), a (administrative). Hybrids: aw (administrative-work), ow (object-work), ao (administrative-object).*
+*Type codes: w (work), o (object), a (administrative). Hybrids: aw, ow, ao. See `config/type_codes.yaml`.*
 
 ### Partially Classified
 
-Records with both empty and non-empty type notes (binary split) are located in `classified/partially_classified/by_format/`:
+Records with both empty and non-empty type notes (binary split: entire record moved if any note has empty type):
 
 | Source | Total Records | Total Notes | Empty Type Notes | w | o | a | aw | ow | ao | Unknown (?) |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| combined | 773 | 7291 | 3698 | 428 | 1992 | 1168 | 1 | 2 | 0 | 2 |
-| typed_only | 773 | 3593 | 0 | 428 | 1992 | 1168 | 1 | 2 | 0 | 2 |
-| empties_only | 773 | 3698 | 3698 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| combined | 773 | 7,291 | 3,698 | 428 | 1,992 | 1,168 | 1 | 2 | 0 | 2 |
+| typed_only | 773 | 3,593 | 0 | 428 | 1,992 | 1,168 | 1 | 2 | 0 | 2 |
+| empties_only | 773 | 3,698 | 3,698 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | martin_only | 158 | 431 | 251 | 14 | 3 | 158 | 1 | 2 | 0 | 2 |
-| zoe_only | 615 | 6860 | 3447 | 414 | 1989 | 1010 | 0 | 0 | 0 | 0 |
+| zoe_only | 615 | 6,860 | 3,447 | 414 | 1,989 | 1,010 | 0 | 0 | 0 | 0 |
 | **Total** | **773** | **7,291** | **3,698** | **428** | **1,992** | **1,168** | **1** | **2** | **0** | **2** |
 
 ---
+
 ## Structure Examples
 
-### fully_classified file example
+### fully_classified
 ```xml
 <?xml version='1.0' encoding='utf-8'?>
 <records path="classified/fully_classified/by_format/XML/daniel_classified.xml">
   <record bib="17516867">
     <title>The "last best west" Canada west : homes for millions.</title>
     <note type="w" num="1">From collection: Canada Pamphlets</note>
-    <note type="a" num="2">Please note: Some of the metadata for this document has been taken from the Glenbow Museum catalogue.</note>
-    <note type="a" num="3">Title from publisher's website.</note>
+    <note type="a" num="2">Please note: Some of the metadata...</note>
   </record>
-  ...
 </records>
 ```
 
-### partially_classified file example
+### partially_classified
 ```xml
 <?xml version='1.0' encoding='utf-8'?>
 <records path="classified/partially_classified/by_format/XML/combined.xml">
@@ -76,13 +102,14 @@ Records with both empty and non-empty type notes (binary split) are located in `
     <note type="" num="2">Unclassified note</note>
     <note type="a" num="3">Classified note</note>
   </record>
-  ...
 </records>
 ```
+
 ---
+
 ## Validation Reports
 
 - `reports/reports_2025-12-17/` - Latest validation reports including meta-validation and by-type accounting
-- `reports/reports_2025-11-14/` - Initial validation and processing reports covering metadata accuracy, statistics, type presence analysis, empty type handling, and final reorganization
+- `reports/reports_2025-11-14/` - Initial validation and processing reports
 
 *Note: File and folder names referenced in past reports may have changed due to reorganization.*
