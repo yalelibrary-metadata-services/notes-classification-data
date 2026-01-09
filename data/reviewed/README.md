@@ -2,7 +2,7 @@
 
 **Purpose:** Records that have undergone manual review and correction  
 **Status:** Active  
-**Last updated:** 2025-12-23
+**Last updated:** 2026-01-09
 
 *See root [`README.md`](../../README.md) for project workflow and context.*
 

@@ -2,7 +2,7 @@
 
 **Purpose:** Classification of bibliographic notes (MARC 500 field, subfield-agnostic) based on ontological scope  
 **Status:** Active  
-**Last updated:** 2025-12-17
+**Last updated:** 2026-01-09
 
 ---
 
@@ -53,7 +53,7 @@ _temporary_staging/ → preprocessing → data/raw/ → data/classified/ → dat
 - **`data/classified/`**: Records with classification applied (3,921 records)
   - **fully_classified**: All notes have type values (3,148 records)
   - **partially_classified**: Mix of typed and empty type notes (773 records)
-- **`data/reviewed/`**: Second classifier review (deferred; see `_temporary_staging/reviewed/`)
+- **`data/reviewed/`**: Second classifier review with normalized classification files
 - **`data/unclassified/`**: Snapshot of records not yet classified (7,849 records)
 
 **Partially Classified:** Records containing both typed and empty type notes. Binary split: entire record moved if any note has empty type. Unlike `unclassified/`, these records have at least one typed note.
