@@ -28,8 +28,8 @@ unclassified/
 
 **Formats:**
 - **XML**: Root `<records>` with `path` attribute; `<record>` contains `<title>` and `<note type="" num="...">` children
-- **CSV**: One row per note: `bib_id`, `title`, `note_num`, `note`, `type` (empty), `source`
-- **JSON**: Array of records with `bib_id`, `title`, `notes` array (`text`, `note_num`, `type: ""`), `source`
+- **CSV**: One row per note: `bib`, `title`, `note_num`, `note`, `type` (empty), `source`
+- **JSON**: Array of records with `bib`, `title`, `notes` array (`text`, `note_num`, `type: ""`), `source`
 
 ---
 
