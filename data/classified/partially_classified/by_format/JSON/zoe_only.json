@@ -1,6 +1,5 @@
 [
   {
-    "bib_id": "13195070",
     "title": "880-02 Rashf al-zulāl min al-siḥr al-ḥalāl : manuscript / Jalāl al-Dīn al-Suyūṭī.",
     "notes": [
       {
@@ -54,10 +53,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13195070"
   },
   {
-    "bib_id": "13195220",
     "title": "Biographies of Muslim leaders : manuscript.",
     "notes": [
       {
@@ -331,10 +330,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13195220"
   },
   {
-    "bib_id": "13195313",
     "title": "880-02 al-Fatʹḥ al-mubīn bi-sharḥ al-Arbaʻīn : manuscript / Shihāb al-Dīn Aḥmad ibn Muḥammad ibn Ḥajar al-Haythamī.",
     "notes": [
       {
@@ -408,10 +407,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13195313"
   },
   {
-    "bib_id": "13195320",
     "title": "880-02 al-Īḍāḥ fī al-nikāḥ wa-al-bāh : manuscript / Jalāl al-Dīn al-Suyūṭī.",
     "notes": [
       {
@@ -485,10 +484,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13195320"
   },
   {
-    "bib_id": "13195481",
     "title": "880-02 ʻAlam al-malāḥah fī ʻilm al-filāḥah : manuscript / ʻAbd al-Ghanī al-Nābulusī.",
     "notes": [
       {
@@ -562,10 +561,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13195481"
   },
   {
-    "bib_id": "13195482",
     "title": "880-02 Taqyīdāt ʻalá Sharḥ al-ʻAllāmah al-Saʻd ʻalá matn al-ʻAqāʼid al-Nasafīyah : manuscript / Muḥammad ibn Aḥmad ibn ʻArafah al-Dasūqī al-Mālikī.",
     "notes": [
       {
@@ -619,10 +618,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13195482"
   },
   {
-    "bib_id": "13195483",
     "title": "880-02 Mukhtaṣar Qawāʻid al-Zarkashī : manuscript / ʻAbd al-Wahhāb ibn Aḥmad al-Shaʻrānī.",
     "notes": [
       {
@@ -691,10 +690,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13195483"
   },
   {
-    "bib_id": "13195484",
     "title": "880-03 al-Maqāmāt al-Ḥarīrīyah : manuscript / al-Qāsim ibn ʻAlī al-Ḥarīrī.",
     "notes": [
       {
@@ -753,10 +752,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13195484"
   },
   {
-    "bib_id": "13195485",
     "title": "880-02 Ḥāshiyat al-Amīr al-Kabīr ʻalá Sharḥ al-Samarqandīyah lil-Mullawī : manuscript / Muḥammad ibn Muḥammad al-Amīr al-Kabīr.",
     "notes": [
       {
@@ -820,10 +819,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13195485"
   },
   {
-    "bib_id": "13195489",
     "title": "880-03 al-Risālah al-Qushayrīyah : manuscript / ʻAbd al-Karīm ibn Hawāzin al-Qushayrī.",
     "notes": [
       {
@@ -887,10 +886,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13195489"
   },
   {
-    "bib_id": "13202255",
     "title": "Sir Harry Trelawny diary : manuscript.",
     "notes": [
       {
@@ -909,10 +908,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13202255"
   },
   {
-    "bib_id": "13202368",
     "title": "880-02 Fatʹḥ al-mutaʻāl ʻalá al-qaṣīdah al-musammāh bi-Lāmīyat al-afʻāl : manuscript / Ḥamad ibn Muḥammad al-Ṣaʻīdī al-Mālikī.",
     "notes": [
       {
@@ -961,10 +960,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13202368"
   },
   {
-    "bib_id": "13202374",
     "title": "880-02 al-Jawhar al-maknūn fī ṣadaf al-thalāthat al-funūn : manuscript / ʻAbd al-Raḥmān ibn Muḥammad al-Akhḍarī.",
     "notes": [
       {
@@ -1028,10 +1027,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13202374"
   },
   {
-    "bib_id": "13202376",
     "title": "880-02 al-Minaḥ al-Ilāhīyah bi-sharḥ baʻḍ al-awrād al-Bakrīyah : manuscript / ʻAlī ibn ʻAbd al-Barr al-Wanāʼī.",
     "notes": [
       {
@@ -1095,10 +1094,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13202376"
   },
   {
-    "bib_id": "13202380",
     "title": "880-02 Risālah fī sharḥ qawlihi taʻālá Innamā yaʻmuru masājida Allāh : manuscript / ʻUmar ibn ʻAlī al-Ṭaḥlāwī.",
     "notes": [
       {
@@ -1152,10 +1151,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13202380"
   },
   {
-    "bib_id": "13202389",
     "title": "880-02 al-Maqālah al-sanīyah li-dalāʼil al-ashkāl al-ramlīyah : manuscript / Abū ʻAbd Allāh al-Zinātī.",
     "notes": [
       {
@@ -1209,10 +1208,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13202389"
   },
   {
-    "bib_id": "13202396",
     "title": "880-02 al-Aḥkām al-muhimmah fī shurūṭ Ahl al-Dhimmah : manuscript / Ḍiyāʼ al-Dīn Abū al-Hudá ʻAlamī.",
     "notes": [
       {
@@ -1271,10 +1270,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13202396"
   },
   {
-    "bib_id": "13211813",
     "title": "880-01 Ashkāl al-taʼsīs min Kitāb Iqlīdis : manuscript.",
     "notes": [
       {
@@ -1333,10 +1332,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13211813"
   },
   {
-    "bib_id": "13211824",
     "title": "880-02 Faṣl al-khiṭāb fī uṣūl lughat al-Aʻrāb : manuscript / Nāṣīf ibn ʻAbd Allāh al-Yāzijī al-Lubnānī.",
     "notes": [
       {
@@ -1395,10 +1394,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13211824"
   },
   {
-    "bib_id": "13211828",
     "title": "880-02 Ikmāl al-dīn wa-itmām al-niʻmah : manuscript / Abū Jaʻfar Muḥammad ibn ʻAlī ibn al-Ḥusayn ibn Mūsá ibn Bābawayh al-Qummī.",
     "notes": [
       {
@@ -1467,10 +1466,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13211828"
   },
   {
-    "bib_id": "13211829",
     "title": "880-02 Irshād al-sārī fī sharḥ al-Bukhārī. Volume 2 : manuscript / Aḥmad ibn Muḥammad al-Qasṭallānī.",
     "notes": [
       {
@@ -1539,10 +1538,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13211829"
   },
   {
-    "bib_id": "13211834",
     "title": "880-02 Ḥāshiyah ʻalá Marāqī al-falāḥ : manuscript / Aḥmad ibn Muḥammad al-Ṭahṭāwī.",
     "notes": [
       {
@@ -1606,10 +1605,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13211834"
   },
   {
-    "bib_id": "13211838",
     "title": "880-02 Marāqī al-falāḥ bi-imdād al-Fattāḥ sharḥ Nūr al-īḍāḥ wa-najāt al-arwāḥ : manuscript / Ḥasan ibn ʻAmmār al-Shurunbulālī.",
     "notes": [
       {
@@ -1678,10 +1677,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13211838"
   },
   {
-    "bib_id": "13215328",
     "title": "[Psalter].",
     "notes": [
       {
@@ -1700,10 +1699,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13215328"
   },
   {
-    "bib_id": "13215435",
     "title": "An inventory of the household furniture &c belonging to Mr. Stamford at the Scots Arms Little Hermitage Street taken & sold by appraisement to Mr. Willm. Finlay ..., the 31st of Jany. 1799 : manuscript.",
     "notes": [
       {
@@ -1717,10 +1716,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13215435"
   },
   {
-    "bib_id": "13224126",
     "title": "John Ray annotations in Ausonius Popma's De usu antiquae locutionis libri duo : manuscript.",
     "notes": [
       {
@@ -1744,10 +1743,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13224126"
   },
   {
-    "bib_id": "13225978",
     "title": "880-03 Tafsīr Abī al-Saʻūd : al-musammá Irshād al-ʻaql al-salīm ilá mazāyā al-Kitāb al-Karīm : manuscript / Muḥammad ibn Muḥammad Abū al-Saʻūd.",
     "notes": [
       {
@@ -1801,10 +1800,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13225978"
   },
   {
-    "bib_id": "13225986",
     "title": "880-02 Multaqá al-abḥur : manuscript / Ibrāhīm ibn Muḥammad al-Ḥalabī.",
     "notes": [
       {
@@ -1873,10 +1872,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13225986"
   },
   {
-    "bib_id": "13226081",
     "title": "880-03 al-Tabṣirah : manuscript / Abū al-Faraj ʻAbd al-Raḥmān ibn ʻAlī ibn al-Jawzī.",
     "notes": [
       {
@@ -1935,10 +1934,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13226081"
   },
   {
-    "bib_id": "13226093",
     "title": "Selections from the Qurʼan : manuscript.",
     "notes": [
       {
@@ -1992,10 +1991,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13226093"
   },
   {
-    "bib_id": "13226107",
     "title": "880-03 al-Kitābān al-rābiʻ wa-al-khāmis min al-Qānūn fī al-ṭibb : manuscript / Ibn Sīnā.",
     "notes": [
       {
@@ -2064,10 +2063,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13226107"
   },
   {
-    "bib_id": "13226110",
     "title": "880-02 Tuḥfat al-ṭullāb bi-sharḥ Taḥrīr tanqīḥ al-Lubāb : manuscript / Abū Yaḥyá Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -2116,10 +2115,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13226110"
   },
   {
-    "bib_id": "13226126",
     "title": "Islamic prayers, invocations and decorations : manuscript.",
     "notes": [
       {
@@ -2163,10 +2162,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13226126"
   },
   {
-    "bib_id": "13226136",
     "title": "880-02 al-Durrah al-muḍīʼah fī qirāʼāt al-aʼimmah al-thalāthah al-marḍīyah : manuscript / Muḥammad ibn Muḥammad ibn al-Jazarī.",
     "notes": [
       {
@@ -2220,10 +2219,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13226136"
   },
   {
-    "bib_id": "13226140",
     "title": "880-02 Ḥawāshin ʻalá mawāḍiʻ min Sharḥ Taṣrīf al-ʻIzzī : manuscript.",
     "notes": [
       {
@@ -2287,10 +2286,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13226140"
   },
   {
-    "bib_id": "13228404",
     "title": "880-02 al-Taʻrīfāt : manuscript / ʻAlī ibn Muḥammad al-Sayyid al-Sharīf al-Jurjānī.",
     "notes": [
       {
@@ -2384,10 +2383,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13228404"
   },
   {
-    "bib_id": "13271739",
     "title": "880-01 Ḥadīth Miʻrāj Muḥammad Rasūl Allāh : manuscript.",
     "notes": [
       {
@@ -2436,10 +2435,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13271739"
   },
   {
-    "bib_id": "13271747",
     "title": "Islamic laws, doctrines, prayers and literature : manuscript.",
     "notes": [
       {
@@ -2718,10 +2717,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13271747"
   },
   {
-    "bib_id": "13271828",
     "title": "880-02 Tāj al-tarājim fī ṭabaqāt al-Ḥanafīyah : manuscript / al-Qāsim ibn ʻAbd Allāh ibn Quṭlūbughā.",
     "notes": [
       {
@@ -2790,10 +2789,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13271828"
   },
   {
-    "bib_id": "13271876",
     "title": "880-02 ʻIqd al-laʼālī li-Badʼ al-amālī : manuscript / Raḍī al-Dīn Abū al-Qāsim ibn al-Ḥusayn al-Bakrī al-Maqdisī.",
     "notes": [
       {
@@ -2857,10 +2856,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13271876"
   },
   {
-    "bib_id": "13271915",
     "title": "880-03 al-Isʻāf fī aḥkām al-awqāf : manuscript / Ibrāhīm ibn Mūsá al-Ṭarābulusī.",
     "notes": [
       {
@@ -2929,10 +2928,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13271915"
   },
   {
-    "bib_id": "13271970",
     "title": "880-02 Zīj-i Gūrgānī : manuscript / Ulugh Beg.",
     "notes": [
       {
@@ -2976,10 +2975,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13271970"
   },
   {
-    "bib_id": "13272009",
     "title": "Islamic prayers, Qurʼan recitation and Sufi literature : manuscript.",
     "notes": [
       {
@@ -3178,10 +3177,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272009"
   },
   {
-    "bib_id": "13272017",
     "title": "Prayers and invocations for seeking God's protection : manuscript.",
     "notes": [
       {
@@ -3240,10 +3239,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272017"
   },
   {
-    "bib_id": "13272018",
     "title": "Biography of the Nasrides rulers : manuscript.",
     "notes": [
       {
@@ -3297,10 +3296,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272018"
   },
   {
-    "bib_id": "13272027",
     "title": "880-01 Qiṣṣat futūḥ Ifrīqīyah. Al-Sifr 1 : manuscript.",
     "notes": [
       {
@@ -3364,10 +3363,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272027"
   },
   {
-    "bib_id": "13272039",
     "title": "Islamic doctrines : manuscript.",
     "notes": [
       {
@@ -3441,10 +3440,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272039"
   },
   {
-    "bib_id": "13272069",
     "title": "Treatises on magic, astrology, alchemy and Sufism : manuscript.",
     "notes": [
       {
@@ -3548,10 +3547,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272069"
   },
   {
-    "bib_id": "13272076",
     "title": "880-03 Fatʹḥ al-qarīb al-mujīb fī sharḥ alfāẓ al-Taqrīb : manuscript / Abū ʻAbd Allāh Muḥammad ibn Qāsim al-Ghazzī.",
     "notes": [
       {
@@ -3610,10 +3609,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272076"
   },
   {
-    "bib_id": "13272103",
     "title": "Islamic philosophical and doctrinal treatises : manuscript.",
     "notes": [
       {
@@ -3762,10 +3761,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272103"
   },
   {
-    "bib_id": "13272112",
     "title": "880-01 Takmilat Tafsīr al-Qurʼān al-Karīm : manuscript.",
     "notes": [
       {
@@ -3819,10 +3818,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272112"
   },
   {
-    "bib_id": "13272119",
     "title": "880-02 Ijāzah min ʻAlī Riḍā ibn Yūnus al-Jānakī al-Fātsawī al-Fazmawī ilá tilmīdhihi al-Ḥājj ʻAbd al-Qādir ibn ʻAlī al-Bāzārjīfī : manuscript / ʻAlī Riḍā ibn Yūnus al-Jānakī al-Fātsawī al-Istānbūlī.",
     "notes": [
       {
@@ -3871,10 +3870,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272119"
   },
   {
-    "bib_id": "13272170",
     "title": "880-02 Ijāzah min ʻUthmān Nūrī ibn Muḥammad Amīn al-Miyāwardī ilá tilmīdhihi ʻUmar Luṭfī ibn Muḥammad Ḥilmī al-Arkhawī : manuscript / Abū Muḥammad al-Dhihnī ʻUthmān Nūrī al-Ḥanafī al-Miyāwardī.",
     "notes": [
       {
@@ -3938,10 +3937,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272170"
   },
   {
-    "bib_id": "13272198",
     "title": "880-03 Kitāb Tahāfut al-falāsifah wa-al-radd ʻalayhim : manuscript / taṣnīf al-Shaykh al-Imām Abī Ḥāmid Muḥammad ibn Muḥammad ibn Muḥammad al-Ghazzālī.",
     "notes": [
       {
@@ -4000,10 +3999,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272198"
   },
   {
-    "bib_id": "13272204",
     "title": "880-02 al-Qurʼān al-Karīm : manuscript.",
     "notes": [
       {
@@ -4047,10 +4046,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272204"
   },
   {
-    "bib_id": "13272218",
     "title": "880-02 al-ʻUyūn al-sawāhir fī rawḍat al-zawāhir : manuscript / Masʻūd ibn al-Sayyid Ḥijāzī Masʻūd.",
     "notes": [
       {
@@ -4114,10 +4113,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272218"
   },
   {
-    "bib_id": "13272234",
     "title": "880-02 Mukhtaṣar Ghunyat al-mutamallī : manuscript / Ibrāhīm ibn Muḥammad ibn Ibrāhīm al-Ḥalabī.",
     "notes": [
       {
@@ -4181,10 +4180,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13272234"
   },
   {
-    "bib_id": "13274083",
     "title": "[Bill of A. & M. Bradley Dresses, Manchester, for purchases by Mrs. Davenport].",
     "notes": [
       {
@@ -4203,10 +4202,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13274083"
   },
   {
-    "bib_id": "13275461",
     "title": "880-03 Dalāʼil al-khayrāt wa-shawāriq al-anwār fī al-ṣalāh ʻalá al-Nabī al-mukhtār : manuscript / Muḥammad ibn Sulaymān al-Jazūlī.",
     "notes": [
       {
@@ -4260,10 +4259,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13275461"
   },
   {
-    "bib_id": "13275543",
     "title": "880-01 Kitāb thābit fī aḥkām al-buyūʻ : manuscript.",
     "notes": [
       {
@@ -4317,10 +4316,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13275543"
   },
   {
-    "bib_id": "13275548",
     "title": "Islamic prayers and invocations : manuscript.",
     "notes": [
       {
@@ -4359,10 +4358,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13275548"
   },
   {
-    "bib_id": "13275552",
     "title": "880-03 Raḥmat al-ummah fī ikhtilāf al-aʼimmah : manuscript / taʼlīf Muḥammad ibn ʻAbd al-Raḥmān ibn al-Ḥusayn al-Qurshī al-ʻUthmānī.",
     "notes": [
       {
@@ -4446,10 +4445,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13275552"
   },
   {
-    "bib_id": "13284043",
     "title": "[Shipping receipt for bales of cottonwool shipped board the Adolphus].",
     "notes": [
       {
@@ -4468,10 +4467,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13284043"
   },
   {
-    "bib_id": "13297024",
     "title": "880-03 Dalāʼil al-khayrāt wa-shawāriq al-anwār fī al-ṣalāh ʻalá al-Nabī al-mukhtār : manuscript / Muḥammad ibn Sulaymān al-Jazūlī.",
     "notes": [
       {
@@ -4525,10 +4524,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297024"
   },
   {
-    "bib_id": "13297029",
     "title": "Treatises on God's unity and other Islamic doctrinal issues : manuscript.",
     "notes": [
       {
@@ -4687,10 +4686,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297029"
   },
   {
-    "bib_id": "13297079",
     "title": "880-02 Sharḥ-i bīst bāb-i asṭurlāb : manuscript / ʻAbd al-ʻAlī ibn Muḥammad ibn Ḥusayn al-Birjandī.",
     "notes": [
       {
@@ -4774,10 +4773,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297079"
   },
   {
-    "bib_id": "13297083",
     "title": "880-02 Majmaʻ al-baḥrayn wa-multaqá al-nayyirayn : manuscript / Aḥmad ibn ʻAlī ibn al-Sāʻātī.",
     "notes": [
       {
@@ -4841,10 +4840,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297083"
   },
   {
-    "bib_id": "13297180",
     "title": "Writings on Islamic literature : manuscript.",
     "notes": [
       {
@@ -5113,10 +5112,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297180"
   },
   {
-    "bib_id": "13297188",
     "title": "Treatises on magic, the occult and Arabic grammar : manuscript.",
     "notes": [
       {
@@ -5220,10 +5219,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297188"
   },
   {
-    "bib_id": "13297212",
     "title": "880-02 Sharḥ al-ṣadr bi-Ghazwat Badr : manuscript / ʻAbd Allāh ibn Muḥammad al-Shabrāwī.",
     "notes": [
       {
@@ -5307,10 +5306,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297212"
   },
   {
-    "bib_id": "13297360",
     "title": "Amulet : manuscript.",
     "notes": [
       {
@@ -5339,10 +5338,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297360"
   },
   {
-    "bib_id": "13297525",
     "title": "880-03 al-Futūwah wa-maʻrifat al-ṭarīq wa-arkān al-sharīʻah ʻalá al-taḥqīq : manuscript / Muḥammad ibn ʻAlāʼ al-Dīn al-Ḥusaynī al-Riḍawī.",
     "notes": [
       {
@@ -5436,10 +5435,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297525"
   },
   {
-    "bib_id": "13297565",
     "title": "880-02 al-Juzw al-thāmin min tajziʼat al-ʻashrah min Kitāb Allāh al-Karīm : manuscript.",
     "notes": [
       {
@@ -5483,10 +5482,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297565"
   },
   {
-    "bib_id": "13297694",
     "title": "Virtues of the month of Rajab and other holy months and days with folkoloric Islamic tales : manuscript.",
     "notes": [
       {
@@ -5535,10 +5534,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297694"
   },
   {
-    "bib_id": "13297836",
     "title": "880-02 Ḥāshiyat al-Ṣabbān ʻalá Sharḥ al-Ushmūnī ʻalá Alfīyat Ibn Mālik : manuscript / Muḥammad ibn ʻAlī al-Ṣabbān.",
     "notes": [
       {
@@ -5612,10 +5611,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13297836"
   },
   {
-    "bib_id": "13304902",
     "title": "Coptic saints and martyrs hagiographies and legends : manuscript.",
     "notes": [
       {
@@ -5684,10 +5683,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13304902"
   },
   {
-    "bib_id": "13319696",
     "title": "Thomas Cornthwaite sermons : manuscript.",
     "notes": [
       {
@@ -5716,10 +5715,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13319696"
   },
   {
-    "bib_id": "13319841",
     "title": "Notebook concerning Euclid's geometry : manuscript.",
     "notes": [
       {
@@ -5738,10 +5737,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13319841"
   },
   {
-    "bib_id": "13320112",
     "title": "Lectures on logic : manuscript.",
     "notes": [
       {
@@ -5765,10 +5764,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13320112"
   },
   {
-    "bib_id": "13320157",
     "title": "Aboriginal Britons : a prize poem, spoken in the theatre at Oxford, July 8th, 1791 : manuscript.",
     "notes": [
       {
@@ -5792,10 +5791,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13320157"
   },
   {
-    "bib_id": "13323023",
     "title": "Vindication of the character and conduct of Sir William Waller, knight : manuscript.",
     "notes": [
       {
@@ -5819,10 +5818,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13323023"
   },
   {
-    "bib_id": "13330252",
     "title": "Omar ibn Said letter : manuscript.",
     "notes": [
       {
@@ -5841,10 +5840,10 @@
         "type": "a"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330252"
   },
   {
-    "bib_id": "13330288",
     "title": "Collection of writings in Arabic and Persian : manuscript.",
     "notes": [
       {
@@ -6083,10 +6082,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330288"
   },
   {
-    "bib_id": "13330352",
     "title": "880-02 Mukhtaṣar Sharḥ Talkhīṣ al-Miftāḥ : manuscript / Masʻūd ibn ʻUmar al-madʻū bi-Saʻd al-Taftāzānī.",
     "notes": [
       {
@@ -6135,10 +6134,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330352"
   },
   {
-    "bib_id": "13330375",
     "title": "880-02 Manẓūmah fī al-buyūʻ : manuscript / ʻAlī ibn ʻAbd Allāh al-Munayyir.",
     "notes": [
       {
@@ -6202,10 +6201,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330375"
   },
   {
-    "bib_id": "13330441",
     "title": "880-02 Wird al-aqṭāb : manuscript / ʻAbd al-Wahhāb ibn Aḥmad al-Shaʻrānī.",
     "notes": [
       {
@@ -6274,10 +6273,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330441"
   },
   {
-    "bib_id": "13330447",
     "title": "880-02 Manẓūmah Lāmīyah fī madḥ Khayr al-Brīyah : manuscript / Sharaf al-Dīn Muḥammad ibn Saʻīd al-Būṣīrī.",
     "notes": [
       {
@@ -6341,10 +6340,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330447"
   },
   {
-    "bib_id": "13330456",
     "title": "880-02 Takhmīs al-qaṣīdah al-Witrīyah fī madḥ Ashraf al-Barīyah : manuscript / al-Sirāj al-Warrāq, Abū Ḥafṣ ʻUmar ibn Muḥammad.",
     "notes": [
       {
@@ -6413,10 +6412,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330456"
   },
   {
-    "bib_id": "13330463",
     "title": "880-02 Risālah fī ism Allāh al-aʻẓam : manuscript / Zayn al-Dīn Mūsá ibn Muḥammad al-Qulaybī al-Mālikī al-ʻUmarī al-Ghawthī.",
     "notes": [
       {
@@ -6475,10 +6474,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330463"
   },
   {
-    "bib_id": "13330469",
     "title": "880-03 Masāʼil Ibn Hishām : manuscript / ʻAbd Allāh ibn Yūsuf ibn Hishām.",
     "notes": [
       {
@@ -6567,10 +6566,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330469"
   },
   {
-    "bib_id": "13330485",
     "title": "880-03 Tāj al-mulūk wa-bughyat al-mālik wa-al-mamlūk : manuscript / Muḥammad ibn al-Ḥājj al-Kabīr al-Tilimsānī.",
     "notes": [
       {
@@ -6639,10 +6638,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330485"
   },
   {
-    "bib_id": "13330493",
     "title": "880-02 al-Fawāʼid fī al-ṣilāt wa-al-ʻawāʼid : manuscript / Aḥmad ibn Aḥmad al-Sharjī al-Zabīdī.",
     "notes": [
       {
@@ -6701,10 +6700,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330493"
   },
   {
-    "bib_id": "13330535",
     "title": "880-03 al-Risālat al-Qushayrīyah fī al-taṣawwuf : manuscript / ʻAbd al-Karīm ibn Hawāzin al-Qushayrī.",
     "notes": [
       {
@@ -6758,10 +6757,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330535"
   },
   {
-    "bib_id": "13330544",
     "title": "880-02 Futūḥāt al-rashīd ʻalá Khulāṣat al-tawḥīd : manuscript / Muḥammad al-Damanhūrī.",
     "notes": [
       {
@@ -6830,10 +6829,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330544"
   },
   {
-    "bib_id": "13330548",
     "title": "880-02 Ḍawʼ al-maʻālī li-Badʼ al-amālī : manuscript / ʻAlī ibn Sulṭān Muḥammad al-Qārī.",
     "notes": [
       {
@@ -6882,10 +6881,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330548"
   },
   {
-    "bib_id": "13330590",
     "title": "880-02 al-Alfāẓ al-qalīlah fī al-ʻulūm al-jalīlah : manuscript / ʻAbd al-Raḥmān ibn Shihāb al-Dīn Khalīfah.",
     "notes": [
       {
@@ -6944,10 +6943,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330590"
   },
   {
-    "bib_id": "13330592",
     "title": "880-02 al-Kalām al-yasīr fī ʻilāj al-maqʻadah wa-al-bawāsīr : manuscript / Aḥmad ibn ʻAbd al-Munʻim al-Damanhūrī.",
     "notes": [
       {
@@ -7011,10 +7010,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330592"
   },
   {
-    "bib_id": "13330593",
     "title": "880-02 Fatʹḥ al-murīd li-Khulāṣat al-tawḥīd : manuscript / Aḥmad ibn Muḥammad al-Faraqī al-Zakī.",
     "notes": [
       {
@@ -7068,10 +7067,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330593"
   },
   {
-    "bib_id": "13330595",
     "title": "880-02 Muḥāḍarat al-abrār wa-musāmarat al-akhyār : manuscript / Ibn al-ʻArabī.",
     "notes": [
       {
@@ -7130,10 +7129,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330595"
   },
   {
-    "bib_id": "13330598",
     "title": "880-03 al-Taysīr li-ḥifẓ madhāhib al-qurrāʼ al-sabʻah : manuscript / Abū ʻAmr ʻUthmān ibn Saʻīd al-Dānī.",
     "notes": [
       {
@@ -7202,10 +7201,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330598"
   },
   {
-    "bib_id": "13330599",
     "title": "880-03 Kitāb al-Ḥikam : manuscript / Ibn ʻAṭāʼ Allāh al-Iskandarī.",
     "notes": [
       {
@@ -7314,10 +7313,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330599"
   },
   {
-    "bib_id": "13330602",
     "title": "880-02 Tadhkirat ulī al-albāb bi-maʻrifat al-ādāb : manuscript / Muḥammad ʻAbd al-Raʼūf ibn Tāj al-ʻĀrifīn al-Munāwī al-Ḥaddādī.",
     "notes": [
       {
@@ -7371,10 +7370,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330602"
   },
   {
-    "bib_id": "13330603",
     "title": "880-02 Kashf al-qināʻ ʻan Matn wa-Sharḥ Abī Shujāʻ : manuscript / ʻAbd al-Raḥmān ibn Muḥammad al-Maḥallī al-Azʹharī.",
     "notes": [
       {
@@ -7448,10 +7447,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13330603"
   },
   {
-    "bib_id": "13331106",
     "title": "880-02 Tuḥfat al-ṭullāb bi-Sharḥ Taḥrīr Tanqīḥ al-Lubāb : manuscript / Abū Yaḥyá Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -7515,10 +7514,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13331106"
   },
   {
-    "bib_id": "13331108",
     "title": "880-03 Sharḥ Jamʻ al-jawāmiʻ : manuscript / al-Jalāl al-Maḥallī.",
     "notes": [
       {
@@ -7592,10 +7591,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13331108"
   },
   {
-    "bib_id": "13331114",
     "title": "880-02 Shirʻat al-Islām ilá dār al-salām : manuscript / Muḥammad ibn Abī Bakr Imāmʹzādah.",
     "notes": [
       {
@@ -7679,10 +7678,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13331114"
   },
   {
-    "bib_id": "13331126",
     "title": "880-02 Sharḥ al-Fiqh al-akbar : manuscript / Abū al-Muntahá Aḥmad ibn Muḥammad al-Maghnīsāwī.",
     "notes": [
       {
@@ -7741,10 +7740,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13331126"
   },
   {
-    "bib_id": "13331136",
     "title": "880-03 Fatḥ al-qarīb al-mujīb fī sharḥ alfāẓ al-Taqrīb : manuscript / Shams al-Dīn Abū ʻAbd Allāh Muḥammad ibn Qāsim al-Shāfiʻī.",
     "notes": [
       {
@@ -7793,10 +7792,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13331136"
   },
   {
-    "bib_id": "13331151",
     "title": "880-02 al-Mafākhir al-ʻalīyah fī al-maʼāthir al-Shādhilīyah : manuscript / Aḥmad ibn Muḥammad ibn ʻIyād al-Shāfiʻī al-Shādhilī.",
     "notes": [
       {
@@ -7865,10 +7864,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13331151"
   },
   {
-    "bib_id": "13336151",
     "title": "880-02 Ket. y. tḥineh Goyṭin : manuscript.",
     "notes": [
       {
@@ -7892,10 +7891,10 @@
         "type": "a"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13336151"
   },
   {
-    "bib_id": "13339416",
     "title": "Of God : manuscript.",
     "notes": [
       {
@@ -7939,10 +7938,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13339416"
   },
   {
-    "bib_id": "13340682",
     "title": "Annales du Skat : manuscript.",
     "notes": [
       {
@@ -7961,10 +7960,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13340682"
   },
   {
-    "bib_id": "13341831",
     "title": "Philip Papillon themes and poems : manuscript.",
     "notes": [
       {
@@ -7983,10 +7982,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13341831"
   },
   {
-    "bib_id": "13345182",
     "title": "Queries concerning a treaty : manuscript.",
     "notes": [
       {
@@ -8010,10 +8009,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13345182"
   },
   {
-    "bib_id": "13345233",
     "title": "William Hodgett account book : manuscript.",
     "notes": [
       {
@@ -8032,10 +8031,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13345233"
   },
   {
-    "bib_id": "13375332",
     "title": "880-03 Fatḥ al-qarīb al-mujīb fī sharḥ alfāẓ al-Taqrīb : manuscript / Ibn Qāsim al-Ghazzī.",
     "notes": [
       {
@@ -8089,10 +8088,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13375332"
   },
   {
-    "bib_id": "13375342",
     "title": "880-02 Qurrat al-ʻayn li-sharḥ Waraqāt Imām al-Ḥaramayn : manuscript / Muḥammad ibn Muḥammad al-Ḥaṭṭāb.",
     "notes": [
       {
@@ -8141,10 +8140,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13375342"
   },
   {
-    "bib_id": "13375344",
     "title": "880-02 Ḍawʼ al-maʻālī li-Badʼ al-amālī : manuscript / ʻAlī ibn Sulṭān Muḥammad al-Qārī.",
     "notes": [
       {
@@ -8198,10 +8197,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13375344"
   },
   {
-    "bib_id": "13375346",
     "title": "880-02 Alfīyat al-taṣawwuf : manuscript / Muṣṭafá ibn Kamāl al-Dīn al-Bakrī al-Khalwatī al-Ṣiddīqī.",
     "notes": [
       {
@@ -8280,10 +8279,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13375346"
   },
   {
-    "bib_id": "13375464",
     "title": "880-02 Bushrá al-kaʼīb bi-liqāʼ al-ḥabīb : manuscript / Jalāl al-Dīn al-Suyūṭī.",
     "notes": [
       {
@@ -8352,10 +8351,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13375464"
   },
   {
-    "bib_id": "13375968",
     "title": "880-02 al-Shifā bi-taʻrīf ḥuqūq al-Muṣṭafá : manuscript / ʻIyāḍ ibn Mūsá ibn ʻIyāḍ al-Yaḥṣubī.",
     "notes": [
       {
@@ -8444,10 +8443,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13375968"
   },
   {
-    "bib_id": "13375973",
     "title": "880-03 Kashf al-asrār ʻan ḥikam al-zuhūr wa-al-aṭyār : manuscript / ʻIzz al-Dīn ʻAbd al-Salām ibn Ghānim al-Maqdisī.",
     "notes": [
       {
@@ -8536,10 +8535,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13375973"
   },
   {
-    "bib_id": "13375977",
     "title": "880-02 Bahjat al-ḥusn al-waḥīd ʻalá Jawharat al-tawḥīd : manuscript / Aḥmad al-Mīhī al-Shabīnī al-Shāfiʻī al-Nuʻmānī.",
     "notes": [
       {
@@ -8598,10 +8597,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13375977"
   },
   {
-    "bib_id": "13376014",
     "title": "880-01 Ḥawāshin ʻalá Sharḥ al-Ujhūrī li-naẓmihi Faḍāʼil Ramaḍān : manuscript.",
     "notes": [
       {
@@ -8655,10 +8654,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376014"
   },
   {
-    "bib_id": "13376020",
     "title": "880-02 al-Qudūrī : manuscript / Aḥmad ibn Muḥammad al-Qudūrī.",
     "notes": [
       {
@@ -8722,10 +8721,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376020"
   },
   {
-    "bib_id": "13376024",
     "title": "880-02 Nūr al-hidāyah wa-al-ʻirfān fī sirr al-rābiṭah wa-al-tawajjuh wa-Khatm al-Khawājakān : manuscript / Muḥammad Asʻad ibn Maḥmūd al-Khālidī al-ʻUthmānī.",
     "notes": [
       {
@@ -8774,10 +8773,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376024"
   },
   {
-    "bib_id": "13376046",
     "title": "880-02 al-Anwār al-Azʹharīyah al-muḥīṭah bi-al-khuṭab al-minbarīyah : manuscript / Ibrāhīm ibn Badawī al-Naḥḥās al-Shāfiʻī al-Azʹharī.",
     "notes": [
       {
@@ -8826,10 +8825,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376046"
   },
   {
-    "bib_id": "13376053",
     "title": "880-02 Ḥāshiyat al-Kastalī ʻalá Sharḥ al-ʻAqāʼid al-Nasafīyah lil-Taftāzānī : manuscript / Muṣliḥ al-Dīn Muṣṭafá ibn Maḥmūd al-Qasṭallānī.",
     "notes": [
       {
@@ -8888,10 +8887,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376053"
   },
   {
-    "bib_id": "13376058",
     "title": "880-02 Risālat fī al-Basmalah : manuscript / Ismāʻīl ibn Ghunaym al-Jawharī.",
     "notes": [
       {
@@ -8950,10 +8949,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376058"
   },
   {
-    "bib_id": "13376066",
     "title": "880-02 Sharḥ al-Jazāʼirīyah fī ʻilm al-tawḥīd : manuscript / ʻAbd al-Raḥmān ibn ʻAbd al-Salām al-Ṣaffūrī al-Shāfiʻī.",
     "notes": [
       {
@@ -9012,10 +9011,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376066"
   },
   {
-    "bib_id": "13376074",
     "title": "880-02 Risālah fī al-tawḥīd : manuscript / Ibrāhīm ibn Muḥammad al-Bājūrī.",
     "notes": [
       {
@@ -9074,10 +9073,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376074"
   },
   {
-    "bib_id": "13376085",
     "title": "880-03 al-Mukhtār ʻalá madhhab al-Imām al-Aʻẓam : manuscript / ʻAbd Allāh ibn Maḥmūd al-Mawṣilī.",
     "notes": [
       {
@@ -9176,10 +9175,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376085"
   },
   {
-    "bib_id": "13376090",
     "title": "880-02 Irshād al-fāriḍ ilá Kashf al-ghawāmiḍ : manuscript / Badr al-Dīn Muḥammad ibn Muḥammad Sibṭ al-Māridīnī.",
     "notes": [
       {
@@ -9238,10 +9237,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376090"
   },
   {
-    "bib_id": "13376096",
     "title": "880-03 al-Juzʼ al-thānī min Sīrat al-Ḥalabī : manuscript / ʻAlī ibn Ibrāhīm Nūr al-Dīn al-Ḥalabī.",
     "notes": [
       {
@@ -9290,10 +9289,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376096"
   },
   {
-    "bib_id": "13376103",
     "title": "880-02 Mawlid al-Muṣṭafá : manuscript / Aḥmad ibn Muḥammad ibn Ḥajar al-Haythamī.",
     "notes": [
       {
@@ -9352,10 +9351,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13376103"
   },
   {
-    "bib_id": "13392287",
     "title": "880-02 Mawlid Rasūl Allāh : manuscript / Ḥasan ibn ʻAlī al-Madābighī.",
     "notes": [
       {
@@ -9419,10 +9418,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13392287"
   },
   {
-    "bib_id": "13392305",
     "title": "880-02 Sharḥ Manẓūmat Ibn Faraḥ : manuscript / Yaḥyá ibn ʻAbd al-Raḥmān al-Qarāfī.",
     "notes": [
       {
@@ -9486,10 +9485,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13392305"
   },
   {
-    "bib_id": "13392358",
     "title": "Treatises on miscellaneous Islamic doctrines : manuscript / li-Jalāl al-Dīn ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī.",
     "notes": [
       {
@@ -9583,10 +9582,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13392358"
   },
   {
-    "bib_id": "13392367",
     "title": "880-02 Sharḥ al-Isrāʼ : manuscript / Shihāb al-Dīn al-Qalyūbī al-Shāfiʻī.",
     "notes": [
       {
@@ -9635,10 +9634,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13392367"
   },
   {
-    "bib_id": "13392389",
     "title": "880-02 Mawlid al-Nabī : manuscript / Jaʻfar ibn Ḥasan al-Barzanjī.",
     "notes": [
       {
@@ -9707,10 +9706,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13392389"
   },
   {
-    "bib_id": "13392391",
     "title": "880-03 Sharḥ al-ʻAqāʼid al-Nasafīyah : manuscript / Masʻūd ibn ʻUmar al-Taftāzānī.",
     "notes": [
       {
@@ -9764,10 +9763,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13392391"
   },
   {
-    "bib_id": "13392392",
     "title": "880-03 Sharḥ ʻAqāʼid al-Imām al-Nasafī : manuscript / Masʻūd ibn ʻUmar al-Taftāzānī.",
     "notes": [
       {
@@ -9841,10 +9840,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13392392"
   },
   {
-    "bib_id": "13392394",
     "title": "880-02 Manẓūmat al-Ṣabbān fī muṣṭalaḥ al-Ḥadīth : manuscript / Muḥammad ibn ʻAlī al-Ṣabbān.",
     "notes": [
       {
@@ -9898,10 +9897,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13392394"
   },
   {
-    "bib_id": "13392398",
     "title": "880-02 Mukhtaṣar al-Shamāʼil al-Nabawīyah : manuscript / ʻAbd Allāh ibn Ḥijāzī al-Sharqāwī.",
     "notes": [
       {
@@ -9955,10 +9954,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13392398"
   },
   {
-    "bib_id": "13392401",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ al-Kharīdah al-bahīyah : manuscript / Muṣṭafá ibn Aḥmad al-ʻUqbāwī.",
     "notes": [
       {
@@ -10007,10 +10006,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13392401"
   },
   {
-    "bib_id": "13438547",
     "title": "Clumber Park Chartier.",
     "notes": [
       {
@@ -10044,10 +10043,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13438547"
   },
   {
-    "bib_id": "13490655",
     "title": "880-02 Ḥāshiyah ʻalá Qiṣṣat al-Miʻrāj : manuscript / Aḥmad ibn Muḥammad al-Dardīr.",
     "notes": [
       {
@@ -10116,10 +10115,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490655"
   },
   {
-    "bib_id": "13490656",
     "title": "880-02 Insān al-ʻuyūn fī sīrat al-Amīn al-Maʼmūn : manuscript / Nūr al-Dīn ʻAlī ibn Ibrāhīm al-Ḥalabī.",
     "notes": [
       {
@@ -10198,10 +10197,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490656"
   },
   {
-    "bib_id": "13490657",
     "title": "880-02 Nihāyat al-ṭalab fī sharḥ al-Muktasab fī zirāʻat al-dhahab : manuscript / Aydamar ibn ʻAbd Allāh al-Jaldakī.",
     "notes": [
       {
@@ -10315,10 +10314,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490657"
   },
   {
-    "bib_id": "13490659",
     "title": "880-02 ʻUyūn al-ḥaqāʼiq wa-īḍāḥ al-ṭarāʼiq : manuscript / Aḥmad ibn Muḥammad al-ʻIrāqī.",
     "notes": [
       {
@@ -10392,10 +10391,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490659"
   },
   {
-    "bib_id": "13490661",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ al-Risālat al-ʻAḍudīyah : manuscript / Muḥammad ibn Sālim al-Ḥifnī.",
     "notes": [
       {
@@ -10459,10 +10458,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490661"
   },
   {
-    "bib_id": "13490662",
     "title": "880-03 al-Juzʼ al-thālith min Tadhkirat al-Ḥakīm Dāwūd : manuscript / Dāʼūd ibn ʻUmar al-Anṭākī.",
     "notes": [
       {
@@ -10541,10 +10540,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490662"
   },
   {
-    "bib_id": "13490665",
     "title": "Treatises on Islamic law : manuscript.",
     "notes": [
       {
@@ -10873,10 +10872,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490665"
   },
   {
-    "bib_id": "13490668",
     "title": "880-02 Murshid al-mutaʼahhil : manuscript / Muḥammad ibn Quṭb al-Dīn Muḥammad al-Iznīqī.",
     "notes": [
       {
@@ -10925,10 +10924,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490668"
   },
   {
-    "bib_id": "13490684",
     "title": "Treatises on Islamic law according to the Shāfiʻī and Ḥanafī traditions : manuscript.",
     "notes": [
       {
@@ -11022,10 +11021,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490684"
   },
   {
-    "bib_id": "13490688",
     "title": "880-02 Fatʹḥ al-qarīb al-mujīb fī sharḥ alfāẓ al-Taqrīb : manuscript / Muḥammad ibn Qāsim al-Ghazzī.",
     "notes": [
       {
@@ -11079,10 +11078,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490688"
   },
   {
-    "bib_id": "13490692",
     "title": "880-02 Fatʹḥ al-qarīb al-mujīb fī sharḥ alfāẓ al-Taqrīb : manuscript / Muḥammad ibn Qāsim al-Ghazzī.",
     "notes": [
       {
@@ -11151,10 +11150,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490692"
   },
   {
-    "bib_id": "13490696",
     "title": "880-02 Kifāyat al-ṭālib al-rabbānī li-Risālat Ibn Abī Zayd al-Qayrawānī : manuscript / Abū al-Ḥasan al-Mālikī.",
     "notes": [
       {
@@ -11223,10 +11222,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490696"
   },
   {
-    "bib_id": "13490702",
     "title": "880-03 al-Juzʼ al-awwal min Sharḥ al-Mukhtaṣar li-Abī al-Ḍiyāʼ Khalīl ibn Isḥāq al-Jundī  : manuscript / Muḥammad ibn ʻAbd Allāh al-Kharshī.",
     "notes": [
       {
@@ -11290,10 +11289,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490702"
   },
   {
-    "bib_id": "13490706",
     "title": "880-02 Nawādir al-Qalyūbī  : manuscript / Shihāb al-Dīn Aḥmad ibn Aḥmad al-Qalyūbī.",
     "notes": [
       {
@@ -11352,10 +11351,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490706"
   },
   {
-    "bib_id": "13490710",
     "title": "880-02 al-Taʻrīfāt  : manuscript / ʻAlī ibn Muḥammad al-Sayyid al-Sharīf al-Jurjānī.",
     "notes": [
       {
@@ -11429,10 +11428,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490710"
   },
   {
-    "bib_id": "13490718",
     "title": "880-02 al-Ifṣāḥ fī ʻaqd al-nikāḥ : manuscript / Ḥusayn ibn Muḥammad al-Maḥallī.",
     "notes": [
       {
@@ -11491,10 +11490,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490718"
   },
   {
-    "bib_id": "13490725",
     "title": "880-03 Sharḥ al-Bahjah al-Wardīyah : manuscript / Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -11563,10 +11562,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490725"
   },
   {
-    "bib_id": "13490731",
     "title": "880-02 Ḥāshiyah ʻalá matn al-Sullam : manuscript / Ibrāhīm ibn Muḥammad al-Bājūrī.",
     "notes": [
       {
@@ -11620,10 +11619,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490731"
   },
   {
-    "bib_id": "13490743",
     "title": "880-02 Sharḥ al-Sullam al-murawnaq fī ʻilm al-manṭiq : manuscript / ʻAbd al-Raḥmān ibn Muḥammad al-Akhḍarī.",
     "notes": [
       {
@@ -11677,10 +11676,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490743"
   },
   {
-    "bib_id": "13490754",
     "title": "880-02 al-Lumʻah al-Māridīnīyah fī sharḥ al-Yāsamīnīyah : manuscript / Badr al-Dīn Muḥammad ibn Muḥammad Sibṭ al-Mārdīnī.",
     "notes": [
       {
@@ -11749,10 +11748,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490754"
   },
   {
-    "bib_id": "13490805",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ Īsāghūjī : manuscript / Muḥammad ibn Ibrāhīm al-Dalajī.",
     "notes": [
       {
@@ -11806,10 +11805,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490805"
   },
   {
-    "bib_id": "13490978",
     "title": "880-02 Akhbār Ibrāhīm ibn al-Mahdī wa-ukhtihi ʻUlayyah bint al-Mahdī wa-ashʻāruhumā : manuscript / jamʻ Abū Bakr Muḥammad ibn Yaḥyá al-Ṣūlī.",
     "notes": [
       {
@@ -11873,10 +11872,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13490978"
   },
   {
-    "bib_id": "13491005",
     "title": "880-03 Dīwān Ibn al-Fāriḍ : manuscript / edited by ʻAlī Sibṭ al-Shaykh Sharaf al-Dīn ʻUmar ibn al-Fāriḍ.",
     "notes": [
       {
@@ -11935,10 +11934,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13491005"
   },
   {
-    "bib_id": "13491017",
     "title": "880-02 Kanz al-dhakhāʼir wa-hadīyat al-musāfir ilá al-nūr al-sāfir : manuscript / Jalāl al-Dīn Muḥammad ibn Aḥmad ibn ʻAlī al-Maḥallī al-Samannūdī al-Shāfiʻī al-Rifāʻī.",
     "notes": [
       {
@@ -11997,10 +11996,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13491017"
   },
   {
-    "bib_id": "13491061",
     "title": "880-02 al-Minaḥ al-Makkīyah fī sharḥ al-Hamzīyah : manuscript / Aḥmad ibn Muḥammad ibn Ḥajar al-Haythamī.",
     "notes": [
       {
@@ -12084,10 +12083,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13491061"
   },
   {
-    "bib_id": "13497021",
     "title": "Note : to Richard Bull, ca. 1789 September.",
     "notes": [
       {
@@ -12106,10 +12105,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13497021"
   },
   {
-    "bib_id": "13508910",
     "title": "Album of embroidered fabric samples.",
     "notes": [
       {
@@ -12123,10 +12122,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13508910"
   },
   {
-    "bib_id": "13525055",
     "title": "880-02 al-Ṣalawāt al-birrīyah fī al-ṣalāh ʻalá khayr al-barīyah : manuscript / Muṣṭafá ibn Kamāl al-Dīn al-Bakrī al-Ṣiddīqī.",
     "notes": [
       {
@@ -12185,10 +12184,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525055"
   },
   {
-    "bib_id": "13525092",
     "title": "880-02 Sharḥ al-Sullam al-murawnaq fī ʻilm al-manṭiq : manuscript / Aḥmad ibn ʻAbd al-Fattāḥ al-Mullawī.",
     "notes": [
       {
@@ -12242,10 +12241,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525092"
   },
   {
-    "bib_id": "13525110",
     "title": "880-03 al-Maṭlaʻ : Sharḥ Īsāghūjī fī al-manṭiq : manuscript / Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -12294,10 +12293,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525110"
   },
   {
-    "bib_id": "13525136",
     "title": "880-02 Mukhtaṣar fī ʻilm al-ḥisāb : manuscript / ʻAbd al-Qādir ibn ʻAlī al-Sakhāwī.",
     "notes": [
       {
@@ -12361,10 +12360,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525136"
   },
   {
-    "bib_id": "13525144",
     "title": "880-02 al-Aḍwāʼ al-bahijah fī ibrāz daqāʼiq al-Munfarijah : manuscript / Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -12423,10 +12422,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525144"
   },
   {
-    "bib_id": "13525187",
     "title": "880-03 Mawrid al-ẓamʼān fī marsūm khaṭṭ al-Qurʼān : manuscript / Muḥammad ibn Muḥammad al-Kharrāz.",
     "notes": [
       {
@@ -12485,10 +12484,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525187"
   },
   {
-    "bib_id": "13525200",
     "title": "880-03 Nihāyat al-muḥtāj ilá sharḥ al-Minhāj : manuscript / Muḥammad ibn Aḥmad al-Ramlī.",
     "notes": [
       {
@@ -12537,10 +12536,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525200"
   },
   {
-    "bib_id": "13525216",
     "title": "880-03 al-Juzʼ al-thānī min Sharḥ al-Nuqāyah : manuscript / al-Qāsim ibn ʻAbd Allāh ibn Quṭlūbughā.",
     "notes": [
       {
@@ -12614,10 +12613,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525216"
   },
   {
-    "bib_id": "13525235",
     "title": "880-03 al-Juzʼ al-thānī min Ḥāshiyat al-Ṣaʻīdī ʻalá Sharḥ al-Kharshī ʻalá Mukhtaṣar Khalīl : manuscript / ʻAlī ibn Aḥmad al-Ṣaʻīdī al-ʻAdwī.",
     "notes": [
       {
@@ -12676,10 +12675,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525235"
   },
   {
-    "bib_id": "13525239",
     "title": "880-02 Sharḥ Umm al-barāhīn : manuscript / Muḥammad ibn Manṣūr al-Hudhudī.",
     "notes": [
       {
@@ -12743,10 +12742,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525239"
   },
   {
-    "bib_id": "13525249",
     "title": "880-02 Ḥāshiyah ʻalá sharḥ al-Sanūsī lil-ʻAqīdah al-ṣughrá : manuscript / ʻĪsá ibn ʻAbd al-Raḥmān al-Saktānī.",
     "notes": [
       {
@@ -12800,10 +12799,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525249"
   },
   {
-    "bib_id": "13525254",
     "title": "880-02 Ḥāshiyah ʻalá sharḥ Tuḥfat al-ikhwān fī fann al-bayān : manuscript / Muḥammad ibn ʻAlī al-Jirjāwī.",
     "notes": [
       {
@@ -12852,10 +12851,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525254"
   },
   {
-    "bib_id": "13525261",
     "title": "880-02 Sharḥ Umm al-barāhīn : manuscript / Muḥammad ibn Manṣūr al-Hudhudī.",
     "notes": [
       {
@@ -12914,10 +12913,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525261"
   },
   {
-    "bib_id": "13525272",
     "title": "880-02 Shajarat al-kawn : manuscript / Muḥyī al-Dīn ibn al-ʻArabī.",
     "notes": [
       {
@@ -12966,10 +12965,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525272"
   },
   {
-    "bib_id": "13525300",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ al-Hudhudī : manuscript / ʻAlī ibn Khiḍr ibn Aḥmad al-ʻAmrūsī.",
     "notes": [
       {
@@ -13028,10 +13027,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525300"
   },
   {
-    "bib_id": "13525303",
     "title": "880-02 Ḥuṣūl al-rifq bi-uṣūl al-rizq : manuscript / Jalāl al-Dīn ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī.",
     "notes": [
       {
@@ -13090,10 +13089,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525303"
   },
   {
-    "bib_id": "13525311",
     "title": "880-03 Sharḥ al-Ushmūnī ʻalá Alfīyat Ibn Mālik : manuscript / ʻAlī ibn Muḥammad al-Ushmūnī.",
     "notes": [
       {
@@ -13147,10 +13146,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525311"
   },
   {
-    "bib_id": "13525315",
     "title": "880-02 Taḥbīr al-muwashshīn fī al-taʻbīr bi-al-Sīn wa-al-Shīn : manuscript / Muḥammad ibn Yaʻqūb al-Fīrūzābādī.",
     "notes": [
       {
@@ -13214,10 +13213,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525315"
   },
   {
-    "bib_id": "13525317",
     "title": "880-02 al-Alfīyah : manuscript / Muḥammad ibn ʻAbd Allāh ibn Mālik.",
     "notes": [
       {
@@ -13281,10 +13280,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525317"
   },
   {
-    "bib_id": "13525322",
     "title": "880-02 al-Nukāt al-ḥisān ʻalá mā waqaʻa lil-Najm al-Ghayṭī ʻalá awāʼil Sūrat al-Dukhān wa-faḍāʼil Laylat al-Niṣf min Shaʻbān : manuscript / Nūr al-Dīn ʻAlī ibn Ibrāhīm al-Ḥalabī.",
     "notes": [
       {
@@ -13348,10 +13347,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13525322"
   },
   {
-    "bib_id": "13536617",
     "title": "Roger Pettiward account book, 1789 June 25 -1796 December 31 : manuscript.",
     "notes": [
       {
@@ -13365,10 +13364,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13536617"
   },
   {
-    "bib_id": "13537900",
     "title": "880-02 al-Anwār al-bahijah fī ẓuhūr kunūz al-Munfarijah : manuscript / ʻAbd al-Raḥmān ibn al-Ḥasan al-Maqābirī.",
     "notes": [
       {
@@ -13442,10 +13441,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13537900"
   },
   {
-    "bib_id": "13537991",
     "title": "880-02 Sharḥ al-Unmūdhaj fī al-naḥw : manuscript / Muḥammad ibn ʻAbd al-Ghanī al-Ardabīlī.",
     "notes": [
       {
@@ -13494,10 +13493,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13537991"
   },
   {
-    "bib_id": "13538058",
     "title": "880-03 Awḍaḥ al-masālik ilá Alfīyat Ibn Mālik : manuscript / ʻAbd Allāh ibn Yūsuf ibn Hishām.",
     "notes": [
       {
@@ -13556,10 +13555,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538058"
   },
   {
-    "bib_id": "13538543",
     "title": "880-03 Marāḥ al-arwāḥ : manuscript / Aḥmad ibn ʻAlī ibn Masʻūd.",
     "notes": [
       {
@@ -13613,10 +13612,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538543"
   },
   {
-    "bib_id": "13538560",
     "title": "880-02 Mukhtaṣar Sharḥ Talkhīṣ al-Miftāḥ : manuscript / Masʻūd ibn ʻUmar al-Taftāzānī.",
     "notes": [
       {
@@ -13680,10 +13679,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538560"
   },
   {
-    "bib_id": "13538590",
     "title": "880-02 Mukhtaṣar Sharḥ Talkhīṣ al-Miftāḥ : manuscript / Masʻūd ibn ʻUmar al-Taftāzānī.",
     "notes": [
       {
@@ -13737,10 +13736,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538590"
   },
   {
-    "bib_id": "13538597",
     "title": "880-02 Futūḥāt al-Rashīd ʻalá Khulāṣat al-tawḥīd : manuscript / Muḥammad al-Damanhūrī.",
     "notes": [
       {
@@ -13794,10 +13793,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538597"
   },
   {
-    "bib_id": "13538705",
     "title": "880-02 Sharḥ Lāmīyat al-afʻāl : manuscript / Muḥammad ibn Muḥammad Ibn al-Nāẓim.",
     "notes": [
       {
@@ -13861,10 +13860,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538705"
   },
   {
-    "bib_id": "13538710",
     "title": "880-02 al-Maqṣad al-asná fī sharḥ asmāʼ Allāh al-Ḥusná : manuscript / Abū Ḥāmid Muḥammad ibn Muḥammad al-Ghazzālī.",
     "notes": [
       {
@@ -13918,10 +13917,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538710"
   },
   {
-    "bib_id": "13538716",
     "title": "880-02 Bahjat al-sāmiʻīn wa-al-nāẓirīn bi-mawlid Sayyid al-awwalīn wa-al-ākharīn : manuscript / Muḥammad ibn Aḥmad al-Ghayṭī.",
     "notes": [
       {
@@ -13985,10 +13984,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538716"
   },
   {
-    "bib_id": "13538719",
     "title": "880-02 Ḥāshiyah ʻalá matn al-Sullam : manuscript / Ibrāhīm ibn Muḥammad al-Bājūrī.",
     "notes": [
       {
@@ -14042,10 +14041,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538719"
   },
   {
-    "bib_id": "13538726",
     "title": "880-02 Tashṭīr Burdat al-madīḥ : manuscript / Aḥmad ibn Ḥamad al-Sharqāwī.",
     "notes": [
       {
@@ -14104,10 +14103,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538726"
   },
   {
-    "bib_id": "13538734",
     "title": "880-02 al-Iqtiṣād fī kifāyat al-ʻiqād : manuscript / Aḥmad ibn al-ʻImād al-Aqfahsī.",
     "notes": [
       {
@@ -14186,10 +14185,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538734"
   },
   {
-    "bib_id": "13538745",
     "title": "880-02 Sharḥ al-Iqtiṣād fī kifāyat al-ʻiqād : manuscript / al-Ḥasan ibn Muḥammad al-Nassāb.",
     "notes": [
       {
@@ -14268,10 +14267,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538745"
   },
   {
-    "bib_id": "13538783",
     "title": "880-02 Taḥrīr al-fatāwī fī taṣḥīḥ al-Ḥāwī : manuscript / Maḥmūd ibn ʻAlī al-Qūnawī.",
     "notes": [
       {
@@ -14345,10 +14344,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13538783"
   },
   {
-    "bib_id": "13549879",
     "title": "Pustaha : manuscript.",
     "notes": [
       {
@@ -14362,10 +14361,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13549879"
   },
   {
-    "bib_id": "13560654",
     "title": "Annotations in Philosophiae naturalis principia mathematica : manuscript.",
     "notes": [
       {
@@ -14389,10 +14388,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13560654"
   },
   {
-    "bib_id": "13577594",
     "title": "Inventory of plate belonging to Sir John Harrington Bart. : made by Wakelin & Garrard Goldsmiths & Jewellers Panton Street Hay Market London 12th June 1798 : manuscript.",
     "notes": [
       {
@@ -14411,10 +14410,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13577594"
   },
   {
-    "bib_id": "13577880",
     "title": "H. B. glossary in English and Portuguese : manuscript.",
     "notes": [
       {
@@ -14428,10 +14427,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13577880"
   },
   {
-    "bib_id": "13578735",
     "title": "Document concerning the calculation of solstices and holy days : manuscript.",
     "notes": [
       {
@@ -14445,10 +14444,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13578735"
   },
   {
-    "bib_id": "13579565",
     "title": "Thomas Greene letter to Charles Lockyer, 1732 February 18 : manuscript.",
     "notes": [
       {
@@ -14462,10 +14461,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13579565"
   },
   {
-    "bib_id": "13584902",
     "title": "Kern aller Gebetter : manuscript.",
     "notes": [
       {
@@ -14489,10 +14488,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13584902"
   },
   {
-    "bib_id": "13585054",
     "title": "Von truckenen Obst : manuscript.",
     "notes": [
       {
@@ -14511,10 +14510,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585054"
   },
   {
-    "bib_id": "13585234",
     "title": "Mary Keightley album : manuscript.",
     "notes": [
       {
@@ -14533,10 +14532,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585234"
   },
   {
-    "bib_id": "13585307",
     "title": "880-02 Nubdhah mukhtaṣarah fī al-kitāb al-musammá al-Kawākib al-durrīyah fī al-qawāʻid al-sirrīyah : manuscript.",
     "notes": [
       {
@@ -14595,10 +14594,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585307"
   },
   {
-    "bib_id": "13585350",
     "title": "880-02 Ighāthat al-muḥtājīn min al-ummah al-Muḥammadīyah li-ḥall alfāẓ al-Istighāthah al-Būnīyah : manuscript / ʻAlī Makkī al-Khalwatī al-Ḥifnāwī.",
     "notes": [
       {
@@ -14727,10 +14726,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585350"
   },
   {
-    "bib_id": "13585396",
     "title": "880-02 Manāzil al-arwāḥ : manuscript / Abū ʻAbd Allāh Muḥammad ibn Sulaymān al-Kāfiyajī al-Ḥanafī.",
     "notes": [
       {
@@ -14789,10 +14788,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585396"
   },
   {
-    "bib_id": "13585427",
     "title": "880-01 Duʻāʼ Mnāhil al-raḥmah wa-kashf al-ghummah : manuscript.",
     "notes": [
       {
@@ -14836,10 +14835,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585427"
   },
   {
-    "bib_id": "13585456",
     "title": "880-03 al-Tanazzulāt al-Mawṣilīyah : manuscript / Muḥyī al-Dīn ibn al-ʻArabī.",
     "notes": [
       {
@@ -14943,10 +14942,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585456"
   },
   {
-    "bib_id": "13585458",
     "title": "880-02 Sharḥ Uṣūl al-Ḥadīth : manuscript / Dāwūd ibn Muḥammad al-Qarṣī al-Ḥanafī.",
     "notes": [
       {
@@ -15020,10 +15019,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585458"
   },
   {
-    "bib_id": "13585469",
     "title": "880-02 Kashf al-astār ʻan ʻilm ḥurūf al-ghubār : manuscript / Abū al-Ḥasan ʻAlī ibn Muḥammad al-Qalaṣādī.",
     "notes": [
       {
@@ -15097,10 +15096,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585469"
   },
   {
-    "bib_id": "13585516",
     "title": "880-02 Ḥāshiyah ʻalá matn al-Samarqandīyah : manuscript / Ibrāhīm ibn Muḥammad al-Bājūrī.",
     "notes": [
       {
@@ -15154,10 +15153,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585516"
   },
   {
-    "bib_id": "13585600",
     "title": "880-02 al-Adhkār lil-ikhwān al-akhyār wa-al-abnāʼ al-abrār : manuscript / Muḥammad ibn ʻAlī ibn al-Sarrāj.",
     "notes": [
       {
@@ -15236,10 +15235,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585600"
   },
   {
-    "bib_id": "13585607",
     "title": "880-02 Sharḥ al-Mawāqif : manuscript / al-Sayyid al-Sharīf ʻAlī ibn Muḥammad al-Jurjānī.",
     "notes": [
       {
@@ -15318,10 +15317,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585607"
   },
   {
-    "bib_id": "13585650",
     "title": "880-01 al-Durr al-manẓūm : manuscript.",
     "notes": [
       {
@@ -15375,10 +15374,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585650"
   },
   {
-    "bib_id": "13585683",
     "title": "880-01 Ṣuḥuf Ghāthādīmū al-Nabī : manuscript.",
     "notes": [
       {
@@ -15447,10 +15446,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585683"
   },
   {
-    "bib_id": "13585810",
     "title": "880-02 al-Arbaʻūn Ḥadīthan : manuscript / Abū Zakarīyā Yaḥyá ibn Sharaf al-Nawawī.",
     "notes": [
       {
@@ -15604,10 +15603,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585810"
   },
   {
-    "bib_id": "13585883",
     "title": "880-02 Ḥāshiyat al-Ṣabbān ʻalá Sharḥ al-Ushmūnī ʻalá Alfīyat Ibn Mālik : manuscript / Muḥammad ibn ʻAlī al-Ṣabbān.",
     "notes": [
       {
@@ -15666,10 +15665,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585883"
   },
   {
-    "bib_id": "13585945",
     "title": "880-02 Ḥāshiyat al-Ṣafatī ʻalá sharḥ Ibn Turkī ʻalá al-ʻAshmāwīyah : manuscript / Yūsuf ibn Saʻīd al-Ṣafatī.",
     "notes": [
       {
@@ -15733,10 +15732,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13585945"
   },
   {
-    "bib_id": "13586001",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ al-Kātī : manuscript / Muḥammad ibn Muḥammad al-Bardaʻī.",
     "notes": [
       {
@@ -15820,10 +15819,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586001"
   },
   {
-    "bib_id": "13586143",
     "title": "880-02 al-Fawāʼid al-muzʹhirah fī sharḥ al-Durrah al-muntaḍirah : manuscript / Aḥmad ibn Aḥmad al-Sujāʻī.",
     "notes": [
       {
@@ -15897,10 +15896,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586143"
   },
   {
-    "bib_id": "13586147",
     "title": "880-02 al-Wasīlah ilá kashf al-ʻAqīlah : manuscript / ʻAlam al-Dīn Abū al-Ḥasan ʻAlī ibn Muḥammad al-Sakhāwī.",
     "notes": [
       {
@@ -16149,10 +16148,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586147"
   },
   {
-    "bib_id": "13586151",
     "title": "880-03 Anwār al-tanzīl wa-asrār al-taʼwīl. Al-Juzʼ al-awwal : manuscript / ʻAbd Allāh ibn ʻUmar al-Bayḍāwī.",
     "notes": [
       {
@@ -16206,10 +16205,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586151"
   },
   {
-    "bib_id": "13586154",
     "title": "880-03 Anwār al-tanzīl wa-asrār al-taʼwīl. Al-Juzʼ al-thānī : manuscript / ʻAbd Allāh ibn ʻUmar al-Bayḍāwī.",
     "notes": [
       {
@@ -16268,10 +16267,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586154"
   },
   {
-    "bib_id": "13586479",
     "title": "880-03 Anwār al-tanzīl wa-asrār al-taʼwīl. Al-Juzʼ al-thālith : manuscript / ʻAbd Allāh ibn ʻUmar al-Bayḍāwī.",
     "notes": [
       {
@@ -16320,10 +16319,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586479"
   },
   {
-    "bib_id": "13586481",
     "title": "880-03 Anwār al-tanzīl wa-asrār al-taʼwīl. Al-Juzʼ al-rābiʻ : manuscript / ʻAbd Allāh ibn ʻUmar al-Bayḍāwī.",
     "notes": [
       {
@@ -16372,10 +16371,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586481"
   },
   {
-    "bib_id": "13586486",
     "title": "880-03 Anwār al-tanzīl wa-asrār al-taʼwīl. Al-Juzʼ al-awwal : manuscript / ʻAbd Allāh ibn ʻUmar al-Bayḍāwī.",
     "notes": [
       {
@@ -16449,10 +16448,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586486"
   },
   {
-    "bib_id": "13586491",
     "title": "880-02 al-Fawāʼid al-bahīyah : manuscript / Saʻd Allāh ibn ʻĪsá Saʻdī Chalabī.",
     "notes": [
       {
@@ -16521,10 +16520,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586491"
   },
   {
-    "bib_id": "13586501",
     "title": "880-02 Tafsīr al-Jalālayn : manuscript / Jalāl al-Dīn Muḥammad ibn Aḥmad al-Maḥallī, Jalāl al-Dīn ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī.",
     "notes": [
       {
@@ -16583,10 +16582,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586501"
   },
   {
-    "bib_id": "13586524",
     "title": "880-03 Muqtabas min Tafsīr al-Qurʼān. Al-Juzʼ al-rābiʻ : manuscript / ʻAlāʼ al-Dīn ʻAlī ibn Muḥammad ibn Ibrāhīm al-maʻrūf bi-al-Khāzin.",
     "notes": [
       {
@@ -16645,10 +16644,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586524"
   },
   {
-    "bib_id": "13586591",
     "title": "880-03 Ḥirz al-amānī wa-wajh al-tahānī : manuscript / al-Qāsim ibn Fīrruh al-Shāṭibī al-Ruʻaynī.",
     "notes": [
       {
@@ -16707,10 +16706,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586591"
   },
   {
-    "bib_id": "13586631",
     "title": "880-02 Sharḥ al-Shāṭibīyah : manuscript / Abū al-Faḍl Jalāl al-Dīn ʻAbd al-Raḥmān ibn Kamāl al-Dīn al-Suyūṭī.",
     "notes": [
       {
@@ -16759,10 +16758,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586631"
   },
   {
-    "bib_id": "13586659",
     "title": "880-02 Sirāj al-qārī al-mubtadī wa-tadhkār al-muqrī al-muntahī : manuscript / ʻAlī ibn ʻUthmān ibn al-Qāṣiḥ.",
     "notes": [
       {
@@ -16831,10 +16830,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586659"
   },
   {
-    "bib_id": "13586687",
     "title": "880-02 Muqaddimat Ḥafṣ : manuscript / Fāyid ibn Mubārak al-Abyārī.",
     "notes": [
       {
@@ -16883,10 +16882,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586687"
   },
   {
-    "bib_id": "13586703",
     "title": "880-03 Risālah sharīfah fī qirāʼat al-Imām Ḥafṣ : manuscript / Fāyid ibn Mubārak al-Abyārī.",
     "notes": [
       {
@@ -16940,10 +16939,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586703"
   },
   {
-    "bib_id": "13586707",
     "title": "880-03 al-Daqāʼiq al-muḥkamah fī sharḥ al-Muqaddimah : manuscript / Abū Yaḥyá Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -17012,10 +17011,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586707"
   },
   {
-    "bib_id": "13586710",
     "title": "880-01 Sharḥ al-Muqaddimah al-Jazarīyah fī al-tajwīd : manuscript.",
     "notes": [
       {
@@ -17079,10 +17078,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586710"
   },
   {
-    "bib_id": "13586718",
     "title": "Excerpts on Arabic grammar and early Islamic history : manuscript.",
     "notes": [
       {
@@ -17146,10 +17145,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13586718"
   },
   {
-    "bib_id": "13588323",
     "title": "Mêlanges de regles physiognomiques : manuscrit pour des amis : avec quelques lignes characteristiques : 1ere centaine : pour le profit des pauvres : respectez la misère et ce qui la soulage!.",
     "notes": [
       {
@@ -17163,10 +17162,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13588323"
   },
   {
-    "bib_id": "13596495",
     "title": "A true presentation of forepast parliaments : to the view of present tyme and posteritie : manuscript.",
     "notes": [
       {
@@ -17200,10 +17199,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13596495"
   },
   {
-    "bib_id": "13600736",
     "title": "Mary Allcard commonplace book : manuscript.",
     "notes": [
       {
@@ -17227,10 +17226,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13600736"
   },
   {
-    "bib_id": "13600764",
     "title": "Commonplace book : manuscript.",
     "notes": [
       {
@@ -17244,10 +17243,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13600764"
   },
   {
-    "bib_id": "13600844",
     "title": "Poetry, 1791 : manuscript.",
     "notes": [
       {
@@ -17266,10 +17265,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13600844"
   },
   {
-    "bib_id": "13601956",
     "title": "Elizabeth Leggatt commonplace book : manuscript.",
     "notes": [
       {
@@ -17298,10 +17297,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13601956"
   },
   {
-    "bib_id": "13604501",
     "title": "View of the maritime affairs of Russia : from their earliest date to the commencement of this present year, 1724 : manuscript.",
     "notes": [
       {
@@ -17320,10 +17319,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13604501"
   },
   {
-    "bib_id": "13604870",
     "title": "Medical recipe book : manuscript.",
     "notes": [
       {
@@ -17342,10 +17341,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13604870"
   },
   {
-    "bib_id": "13615135",
     "title": "Editto del porto franco di Livorno del 10 giugno 1593 : manuscript.",
     "notes": [
       {
@@ -17364,10 +17363,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13615135"
   },
   {
-    "bib_id": "13615691",
     "title": "Family records collected by William Dorset Fellowes : from original mss and traditionary memoranda in my possession : for the information of my descendants Madame Alfred Marquise de Bois Thierry and her children.",
     "notes": [
       {
@@ -17386,10 +17385,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13615691"
   },
   {
-    "bib_id": "13630327",
     "title": "[Evangelical writing sheet] [graphic].",
     "notes": [
       {
@@ -17403,10 +17402,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13630327"
   },
   {
-    "bib_id": "13631795",
     "title": "Bill for school supplies for All Saints School, due to Elles Heath, school stationer, bookseller, & printer.",
     "notes": [
       {
@@ -17425,10 +17424,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13631795"
   },
   {
-    "bib_id": "13640661",
     "title": "Book of Hours (fragment)",
     "notes": [
       {
@@ -17452,10 +17451,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13640661"
   },
   {
-    "bib_id": "13640686",
     "title": "South English legendary (fragment)",
     "notes": [
       {
@@ -17479,10 +17478,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13640686"
   },
   {
-    "bib_id": "13640726",
     "title": "Book of hours (fragment)",
     "notes": [
       {
@@ -17501,10 +17500,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13640726"
   },
   {
-    "bib_id": "13640767",
     "title": "Brut chronicle (fragment)",
     "notes": [
       {
@@ -17528,10 +17527,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13640767"
   },
   {
-    "bib_id": "13641013",
     "title": "Ennarationes in psalmos (fragments)",
     "notes": [
       {
@@ -17560,10 +17559,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13641013"
   },
   {
-    "bib_id": "13641669",
     "title": "Memoirs of seven sisters : typescript.",
     "notes": [
       {
@@ -17577,10 +17576,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13641669"
   },
   {
-    "bib_id": "13641713",
     "title": "Poems by Edward Ward : manuscript.",
     "notes": [
       {
@@ -17604,10 +17603,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13641713"
   },
   {
-    "bib_id": "13641738",
     "title": "Elemens de arithmetique : manuscript.",
     "notes": [
       {
@@ -17631,10 +17630,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13641738"
   },
   {
-    "bib_id": "13644851",
     "title": "John Jackson ledgers relating to the naval administration, export, and privateering activities in Malta, 1807-1813.",
     "notes": [
       {
@@ -17648,10 +17647,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13644851"
   },
   {
-    "bib_id": "13659673",
     "title": "880-02 Radd maʻānī al-āyāt al-mutashābihāt ilá maʻānī al-āyāt al-muḥkamāt : manuscript / Muḥammad ibn Aḥmad ibn al-Labbān.",
     "notes": [
       {
@@ -17720,10 +17719,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13659673"
   },
   {
-    "bib_id": "13659682",
     "title": "880-02 al-Taysīr fī qawāʻid ʻilm al-tafsīr : manuscript / Muḥammad ibn Sulaymān al-Kāfiyajī.",
     "notes": [
       {
@@ -17777,10 +17776,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13659682"
   },
   {
-    "bib_id": "13659687",
     "title": "880-03 Muqtabas min Tafsīr al-Qurʼān. Al-Juzʼ al-thālith : manuscript / ʻAlāʼ al-Dīn ʻAlī ibn Muḥammad ibn Ibrāhīm al-maʻrūf bi-al-Khāzin.",
     "notes": [
       {
@@ -17839,10 +17838,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13659687"
   },
   {
-    "bib_id": "13659692",
     "title": "880-02 Fatʹḥ al-Raḥmān bi-kashf mā talabbasa fī al-Qurʼān : manuscript / Abū Yaḥyá Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -17896,10 +17895,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13659692"
   },
   {
-    "bib_id": "13659695",
     "title": "880-03 al-Taysīr fī al-qirāʼāt al-sabʻ : manuscript / ʻUthmān ibn Saʻīd al-Dānī.",
     "notes": [
       {
@@ -17968,10 +17967,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13659695"
   },
   {
-    "bib_id": "13659699",
     "title": "880-03 Anwār al-tanzīl wa-asrār al-taʼwīl. Al-Juzʼ al-awwal : manuscript / ʻAbd Allāh ibn ʻUmar al-Bayḍāwī.",
     "notes": [
       {
@@ -18030,10 +18029,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13659699"
   },
   {
-    "bib_id": "13659700",
     "title": "880-03 Anwār al-tanzīl wa-asrār al-taʼwīl. Al-Juzʼ al-awwal : manuscript / ʻAbd Allāh ibn ʻUmar al-Bayḍāwī.",
     "notes": [
       {
@@ -18097,10 +18096,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13659700"
   },
   {
-    "bib_id": "13659704",
     "title": "880-03 Lāmīyat al-afʻāl : manuscript / Muḥammad ibn ʻAbd Allāh ibn Mālik.",
     "notes": [
       {
@@ -18159,10 +18158,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13659704"
   },
   {
-    "bib_id": "13659706",
     "title": "880-03 al-Shamāʼil : manuscript / Muḥammad ibn ʻĪsá al-Tirmidhī.",
     "notes": [
       {
@@ -18221,10 +18220,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13659706"
   },
   {
-    "bib_id": "13659752",
     "title": "880-03 Uns al-munqaṭiʻīn li-ʻibādat Rabb al-ʻĀlamīn : manuscript / al-Muʻāfá ibn Ismāʻīl ibn Abī al-Sinān al-Mawṣilī.",
     "notes": [
       {
@@ -18303,10 +18302,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13659752"
   },
   {
-    "bib_id": "13669448",
     "title": "Duke of Beaufort letter, to Lord Orrery, 1711 May 3 : manuscript.",
     "notes": [
       {
@@ -18325,10 +18324,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13669448"
   },
   {
-    "bib_id": "13669502",
     "title": "James Worcester, signed letter to the Governor of the bounty of Queen Anne for the augmentation of small liviings, 1762 May 21 : manuscript.",
     "notes": [
       {
@@ -18347,10 +18346,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13669502"
   },
   {
-    "bib_id": "13670583",
     "title": "Journal du siège de la citadelle d'Anvers par un detachement de l'armée du roy en 1746 : manuscript.",
     "notes": [
       {
@@ -18364,10 +18363,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13670583"
   },
   {
-    "bib_id": "13670630",
     "title": "James Sampson account book : manuscript.",
     "notes": [
       {
@@ -18386,10 +18385,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13670630"
   },
   {
-    "bib_id": "13673460",
     "title": "William Redgrave invoice for Sir Robert Kennedy, King's Road, Pimlico, London : manuscript.",
     "notes": [
       {
@@ -18408,10 +18407,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13673460"
   },
   {
-    "bib_id": "13674731",
     "title": "Sentences of the philosophers.",
     "notes": [
       {
@@ -18440,10 +18439,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13674731"
   },
   {
-    "bib_id": "13675201",
     "title": "An inventory of the Scots Arms, Hermitage, Wapping, 1824 / Mess. Taylor & Co., to Mr. James Woods : manuscript.",
     "notes": [
       {
@@ -18457,10 +18456,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13675201"
   },
   {
-    "bib_id": "13675438",
     "title": "Commonplace book on Shakespearean actors and actresses : manuscript.",
     "notes": [
       {
@@ -18479,10 +18478,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13675438"
   },
   {
-    "bib_id": "13677409",
     "title": "880-03 al-Daqāʼiq al-muḥkamah fī sharḥ al-Muqaddimah : manuscript / Abū Yaḥyá Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -18546,10 +18545,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677409"
   },
   {
-    "bib_id": "13677411",
     "title": "880-03 al-Daqāʼiq al-muḥkamah fī sharḥ al-Muqaddimah : manuscript / Abū Yaḥyá Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -18613,10 +18612,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677411"
   },
   {
-    "bib_id": "13677414",
     "title": "880-02 al-Qawāʻid al-muqarrarah wa-al-fawāʼid al-muḥarrarah : manuscript / Muḥammad ibn Qāsim ibn Ismāʻīl al-Baqarī.",
     "notes": [
       {
@@ -18670,10 +18669,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677414"
   },
   {
-    "bib_id": "13677417",
     "title": "880-02 al-Mukarrar fīmā tawātara min al-qirāʼāt al-sabʻ wa-taḥarrar : manuscript / ʻUmar ibn Qāsim al-Nashshār.",
     "notes": [
       {
@@ -18732,10 +18731,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677417"
   },
   {
-    "bib_id": "13677425",
     "title": "880-02 al-Durr al-naẓīm fī faḍāʼil al-Qurʼān al-ʻAẓīm wa-al-āyāt wa-al-Dhikr al-Ḥakīm : manuscript / ʻAbd Allāh ibn Asʻad al-Yāfiʻī.",
     "notes": [
       {
@@ -18794,10 +18793,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677425"
   },
   {
-    "bib_id": "13677429",
     "title": "880-03 al-Jāmiʻ al-ṣaḥīḥ. Al-Juzʼ 9 : manuscript / Muḥammad ibn Ismāʻīl al-Bukhārī.",
     "notes": [
       {
@@ -18861,10 +18860,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677429"
   },
   {
-    "bib_id": "13677434",
     "title": "880-02 ʻArf al-taʻrīf bi-al-Mawlid al-Sharīf : manuscript / Muḥammad ibn Muḥammad ibn al-Jazarī.",
     "notes": [
       {
@@ -19033,10 +19032,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677434"
   },
   {
-    "bib_id": "13677439",
     "title": "880-02 Insān al-ʻuyūn fī sīrat al-Amīn al-Maʼmūn. Al-Juzʼ al-thālith : manuscript / Nūr al-Dīn ʻAlī ibn Ibrāhīm al-Ḥalabī.",
     "notes": [
       {
@@ -19090,10 +19089,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677439"
   },
   {
-    "bib_id": "13677445",
     "title": "880-03 al-Mawāhib al-ladunīyah bi-al-minaḥ al-Muḥammadīyah. Al-Juzʼ al-awwal : manuscript / Aḥmad ibn Muḥammad ibn Abī Bakr al-Khaṭīb al-Qasṭallānī.",
     "notes": [
       {
@@ -19142,10 +19141,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677445"
   },
   {
-    "bib_id": "13677448",
     "title": "880-03 al-Shamāʼil : manuscript / Muḥammad ibn ʻĪsá al-Tirmidhī.",
     "notes": [
       {
@@ -19209,10 +19208,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677448"
   },
   {
-    "bib_id": "13677450",
     "title": "880-02 Kitāb al-Arbaʻīn al-Nawawīyah : manuscript / Abū Zakarīyā Yaḥyá ibn Sharaf al-Nawawī.",
     "notes": [
       {
@@ -19276,10 +19275,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677450"
   },
   {
-    "bib_id": "13677464",
     "title": "880-02 Talkhīṣ wa-ikhtiṣār li-khuṭbat al-ʻAllāmah al-Qasṭallānī fī sharḥihi ʻalá al-Bukhārī : manuscript / Sulaymān ibn ʻUmar al-ʻUjaylī al-Jamal.",
     "notes": [
       {
@@ -19338,10 +19337,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677464"
   },
   {
-    "bib_id": "13677470",
     "title": "880-02 al-Abḥāth allatī ka-al-baḥr al-jārī ʻalá ākhir Ḥadīth fī al-Bukhārī : manuscript / Tāj al-ʻĀrifīn ibn Muwaffaq al-Dīn.",
     "notes": [
       {
@@ -19405,10 +19404,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677470"
   },
   {
-    "bib_id": "13677478",
     "title": "880-02 al-Itʹḥāfāt al-sanīyah bi-al-Aḥādīth al-Qudsīyah : manuscript / Muḥammad ʻAbd al-Raʼūf ibn Tāj al-ʻĀrifīn al-Munāwī.",
     "notes": [
       {
@@ -19487,10 +19486,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677478"
   },
   {
-    "bib_id": "13677480",
     "title": "880-02 al-Ḥabāʼik fī akhbār al-malāʼik : manuscript / Jalāl al-Dīn ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī.",
     "notes": [
       {
@@ -19554,10 +19553,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677480"
   },
   {
-    "bib_id": "13677538",
     "title": "880-02 Bulūgh al-maʼārib fī akhbār al-ʻaqārib : manuscript / Jalāl al-Dīn ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī.",
     "notes": [
       {
@@ -19766,10 +19765,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677538"
   },
   {
-    "bib_id": "13677626",
     "title": "880-02 Kunūz al-asrār fī al-ṣalāh ʻalá al-Nabī al-Mukhtār : manuscript / ʻAbd Allāh al-Khayyāṭ ibn Muḥammad al-Hārūshī al-Maghribī al-Fāsī.",
     "notes": [
       {
@@ -19848,10 +19847,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677626"
   },
   {
-    "bib_id": "13677665",
     "title": "880-03 al-Muʻjam al-wajīz min Aḥādīth al-Rasūl al-ʻAzīz : manuscript / ʻAbd Allāh ibn Ibrāhīm al-Mīrghanī.",
     "notes": [
       {
@@ -19900,10 +19899,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677665"
   },
   {
-    "bib_id": "13677696",
     "title": "880-02 al-Munabbihāt ʻalá al-istiʻdād li-yawm al-maʻād : manuscript / Aḥmad ibn Muḥammad al-Ḥajarī.",
     "notes": [
       {
@@ -19992,10 +19991,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677696"
   },
   {
-    "bib_id": "13677719",
     "title": "880-02 Sharḥ Nukhbat al-fikr fī muṣṭalaḥ ahl al-athar : manuscript / Aḥmad ibn ʻAlī ibn Ḥajar al-ʻAsqalānī.",
     "notes": [
       {
@@ -20064,10 +20063,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13677719"
   },
   {
-    "bib_id": "13678375",
     "title": "880-02 Sharḥ ʻUqūd al-jumān fī ʻilm al-maʻānī wa-al-bayān : manuscript / Jalāl al-Dīn ʻAbd al-Raḥmān al-Suyūṭī.",
     "notes": [
       {
@@ -20126,10 +20125,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678375"
   },
   {
-    "bib_id": "13678381",
     "title": "880-02 al-Kashf al-mubīn al-mulakhkhaṣ min al-Shabrakhītī ʻalá al-Arbaʻīn : manuscript / Qāsim ʻAmmār al-Zawāwī.",
     "notes": [
       {
@@ -20183,10 +20182,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678381"
   },
   {
-    "bib_id": "13678385",
     "title": "880-02 Mawlid al-Nabī : manuscript / Aḥmad ibn Muḥammad al-Dardīr.",
     "notes": [
       {
@@ -20245,10 +20244,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678385"
   },
   {
-    "bib_id": "13678388",
     "title": "880-02 al-Shifā bi-taʻrīf ḥuqūq al-Muṣṭafá : manuscript / ʻIyāḍ ibn Mūsá ibn ʻIyāḍ al-Yaḥṣubī.",
     "notes": [
       {
@@ -20312,10 +20311,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678388"
   },
   {
-    "bib_id": "13678394",
     "title": "880-02 al-Shifā bi-taʻrīf ḥuqūq al-Muṣṭafá : manuscript / ʻIyāḍ ibn Mūsá ibn ʻIyāḍ al-Yaḥṣubī.",
     "notes": [
       {
@@ -20399,10 +20398,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678394"
   },
   {
-    "bib_id": "13678409",
     "title": "880-02 Mukhtaṣar Bahjat al-sāmiʻīn wa-al-nāẓirīn bi-Mawlid Sayyid al-awwalīn wa-al-ākhirīn : manuscript / Ḥasan ibn ʻAlī al-Madābighī.",
     "notes": [
       {
@@ -20466,10 +20465,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678409"
   },
   {
-    "bib_id": "13678412",
     "title": "880-02 al-Shifā bi-taʻrīf ḥuqūq al-Muṣṭafá : manuscript / ʻIyāḍ ibn Mūsá ibn ʻIyāḍ al-Yaḥṣubī.",
     "notes": [
       {
@@ -20518,10 +20517,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678412"
   },
   {
-    "bib_id": "13678414",
     "title": "880-02 al-Āyāt al-ʻaẓīmah al-bāhirah fī miʻrāj Sayyid al-dunyā wa-al-ākhirah : manuscript / ʻAlī ibn Muḥammad al-Ujhūrī.",
     "notes": [
       {
@@ -20595,10 +20594,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678414"
   },
   {
-    "bib_id": "13678437",
     "title": "880-02 Mukhtaṣar Bahjat al-sāmiʻīn wa-al-nāẓirīn bi-Mawlid Sayyid al-awwalīn wa-al-ākhirīn : manuscript / Ḥasan ibn ʻAlī al-Madābighī.",
     "notes": [
       {
@@ -20652,10 +20651,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678437"
   },
   {
-    "bib_id": "13678440",
     "title": "880-02 Taqyīdāt ʻalá Mawlid al-Muṣṭafá : manuscript / ʻAlī al-Shinnāwī.",
     "notes": [
       {
@@ -20704,10 +20703,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678440"
   },
   {
-    "bib_id": "13678443",
     "title": "880-02 Jamʻ al-nihāyah fī badʼ al-khayr wa-ghāyatih : manuscript / ʻAbd Allāh ibn Saʻd ibn Abī Jamrah.",
     "notes": [
       {
@@ -20806,10 +20805,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678443"
   },
   {
-    "bib_id": "13678446",
     "title": "880-03 al-Jāmiʻ al-ṣaḥīḥ. Al-Juzʼ 2 : manuscript / Muḥammad ibn Ismāʻīl al-Bukhārī.",
     "notes": [
       {
@@ -20863,10 +20862,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678446"
   },
   {
-    "bib_id": "13678447",
     "title": "880-02 al-Fatʹḥ al-mubīn bi-sharḥ al-Arbaʻīn : manuscript / Shihāb al-Dīn Aḥmad ibn Muḥammad ibn Ḥajar al-Haythamī.",
     "notes": [
       {
@@ -20955,10 +20954,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678447"
   },
   {
-    "bib_id": "13678449",
     "title": "880-02 Sharḥ al-Shifā fī taʻrīf ḥuqūq al-Muṣṭafá : manuscript / ʻAlī ibn Sulṭān Muḥammad al-Qārī al-Harawī.",
     "notes": [
       {
@@ -21042,10 +21041,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678449"
   },
   {
-    "bib_id": "13678822",
     "title": "880-03 al-Ṭarīqah al-Muḥammadīyah : manuscript / Muḥammad ibn Bīr ʻAlī al-Burkawī.",
     "notes": [
       {
@@ -21119,10 +21118,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678822"
   },
   {
-    "bib_id": "13678846",
     "title": "880-03 al-Jāmiʻ al-ṣaghīr min Ḥadīth al-bashīr al-nadhīr : manuscript / Jalāl al-Dīn ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī.",
     "notes": [
       {
@@ -21191,10 +21190,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678846"
   },
   {
-    "bib_id": "13678851",
     "title": "880-02 Ḍiyāʼ al-qulūb sharḥ Jalāʼ al-qulūb : manuscript / Isʹḥāq ibn Ḥasan al-Zanjānī al-Tūqātī.",
     "notes": [
       {
@@ -21288,10 +21287,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678851"
   },
   {
-    "bib_id": "13678868",
     "title": "880-02 Taḥqīq al-maqām ʻalá Kifāyat al-ʻawāmm fīmā yajibu ʻalayhim min ʻilm al-kalām : manuscript / Ibrāhīm ibn Muḥammad al-Bājūrī.",
     "notes": [
       {
@@ -21355,10 +21354,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678868"
   },
   {
-    "bib_id": "13678872",
     "title": "880-03 Kifāyat al-ʻawāmm fīmā yajibu ʻalayhim min ʻilm al-kalām : manuscript / Muḥammad ibn Shāfiʻī al-Faḍālī.",
     "notes": [
       {
@@ -21427,10 +21426,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678872"
   },
   {
-    "bib_id": "13678874",
     "title": "880-02 Tawḍīḥ li-kitāb al-Musāyarah fī al-ʻaqāʼid al-munjiyah fī al-ākhirah : manuscript / Muḥammad ibn Muḥammad ibn Abī Sharīf.",
     "notes": [
       {
@@ -21479,10 +21478,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13678874"
   },
   {
-    "bib_id": "13689527",
     "title": "Opus pistorum : typescript / par Couillon.",
     "notes": [
       {
@@ -21496,10 +21495,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13689527"
   },
   {
-    "bib_id": "13691879",
     "title": "The Young revolutionist : typescript / by Pearl S. Buck.",
     "notes": [
       {
@@ -21513,10 +21512,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13691879"
   },
   {
-    "bib_id": "13693438",
     "title": "Corpus iuris civilis with commentary (fragment).",
     "notes": [
       {
@@ -21540,10 +21539,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13693438"
   },
   {
-    "bib_id": "13693511",
     "title": "[Billhead of Hogg & Starkey, linen, woolen, drapers, and dealers in British lace for cloth and ribbons purchased by George Pearson].",
     "notes": [
       {
@@ -21562,10 +21561,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13693511"
   },
   {
-    "bib_id": "13693554",
     "title": "Decretum (fragment).",
     "notes": [
       {
@@ -21589,10 +21588,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13693554"
   },
   {
-    "bib_id": "13693824",
     "title": "Who's afraid of Virginia Woolf? : a play in three scenes (1961-1962) : typescript / Edward Albee.",
     "notes": [
       {
@@ -21611,10 +21610,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13693824"
   },
   {
-    "bib_id": "13694133",
     "title": "Elizabeth Maberly arithmetic notebook : manuscript.",
     "notes": [
       {
@@ -21638,10 +21637,10 @@
         "type": "a"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13694133"
   },
   {
-    "bib_id": "13694904",
     "title": "Decretals (fragment).",
     "notes": [
       {
@@ -21670,10 +21669,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13694904"
   },
   {
-    "bib_id": "13695590",
     "title": "880-02 Sharḥ Umm al-barāhīn fī ʻilm al-kalām : manuscript / Muḥammad ibn Manṣūr al-Hudhudī.",
     "notes": [
       {
@@ -21727,10 +21726,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13695590"
   },
   {
-    "bib_id": "13695605",
     "title": "880-02 Ḥāshiyat al-Sharqāwī ʻalá Sharḥ al-Hudhudī ʻalá Umm al-barāhīn : manuscript / ʻAbd Allāh ibn Ḥijāzī al-Sharqāwī.",
     "notes": [
       {
@@ -21789,10 +21788,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13695605"
   },
   {
-    "bib_id": "13695610",
     "title": "880-02 Itḥāf al-murīd bi-Jawharat al-tawḥīd : manuscript / ʻAbd al-Salām ibn Ibrāhīm al-Laqānī.",
     "notes": [
       {
@@ -21861,10 +21860,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13695610"
   },
   {
-    "bib_id": "13695951",
     "title": "880-02 al-Rawḍ al-unuf : manuscript / ʻAbd al-Raḥmān ibn ʻAbd Allāh al-Suhaylī.",
     "notes": [
       {
@@ -21933,10 +21932,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13695951"
   },
   {
-    "bib_id": "13696027",
     "title": "880-02 Nuzʹhat al-arwāḥ fī baʻḍ awṣāf al-Jannah dār al-afrāḥ : manuscript / Yūsuf ibn Saʻīd al-Ṣafatī al-Mālikī al-Azʹharī.",
     "notes": [
       {
@@ -22000,10 +21999,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696027"
   },
   {
-    "bib_id": "13696037",
     "title": "880-03 al-Jāmiʻ al-ṣaḥīḥ. Al-Juzʼ 9 : manuscript / Muḥammad ibn Ismāʻīl al-Bukhārī.",
     "notes": [
       {
@@ -22057,10 +22056,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696037"
   },
   {
-    "bib_id": "13696051",
     "title": "880-03 Matn Alfīyat al-Shaykh al-ʻIrāqī fī muṣṭalaḥ al-Ḥadīth : manuscript / ʻAbd al-Raḥīm ibn al-Ḥusayn al-ʻIrāqī.",
     "notes": [
       {
@@ -22124,10 +22123,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696051"
   },
   {
-    "bib_id": "13696056",
     "title": "880-02 Sharḥ Alfīyat al-Sīrah : manuscript / ʻAlī ibn Muḥammad al-Ujhūrī.",
     "notes": [
       {
@@ -22186,10 +22185,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696056"
   },
   {
-    "bib_id": "13696073",
     "title": "880-02 Sharḥ Gharāmī ṣaḥīḥ : manuscript / Muḥammad ibn Muḥammad al-Amīr al-Kabīr.",
     "notes": [
       {
@@ -22248,10 +22247,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696073"
   },
   {
-    "bib_id": "13696081",
     "title": "880-02 Sharḥ al-Manẓūmah al-Bayqūnīyah : manuscript / Muḥammad ibn ʻAbd al-Bāqī al-Zurqānī.",
     "notes": [
       {
@@ -22305,10 +22304,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696081"
   },
   {
-    "bib_id": "13696085",
     "title": "880-03 al-Jāmiʻ al-ṣaḥīḥ. Al-Juzʼ 9 : manuscript / Muḥammad ibn Ismāʻīl al-Bukhārī.",
     "notes": [
       {
@@ -22372,10 +22371,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696085"
   },
   {
-    "bib_id": "13696091",
     "title": "880-03 Sharḥ Ṣaḥīḥ al-Bukhārī. Al-Juzʼ 8 : manuscript / Abū al-Ḥasan ʻAlī ibn Baṭṭāl al-Andalusī.",
     "notes": [
       {
@@ -22439,10 +22438,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696091"
   },
   {
-    "bib_id": "13696095",
     "title": "880-02 al-Jawhar al-munaẓẓam fī ziyārat al-qabr al-mukarram : manuscript / Aḥmad ibn Muḥammad ibn Ḥajar al-Haythamī.",
     "notes": [
       {
@@ -22511,10 +22510,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696095"
   },
   {
-    "bib_id": "13696103",
     "title": "880-02 Manāsik al-ḥajj : manuscript / ʻAlī ibn Muḥammad al-Nūrī al-Ṣafāqisī.",
     "notes": [
       {
@@ -22613,10 +22612,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696103"
   },
   {
-    "bib_id": "13696118",
     "title": "880-02 Itḥāf al-murīd bi-Jawharat al-tawḥīd : manuscript / ʻAbd al-Salām ibn Ibrāhīm al-Laqānī.",
     "notes": [
       {
@@ -22690,10 +22689,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696118"
   },
   {
-    "bib_id": "13696120",
     "title": "880-02 Itḥāf al-murīd bi-Jawharat al-tawḥīd : manuscript / ʻAbd al-Salām ibn Ibrāhīm al-Laqānī.",
     "notes": [
       {
@@ -22762,10 +22761,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696120"
   },
   {
-    "bib_id": "13696128",
     "title": "880-02 Itḥāf al-murīd bi-Jawharat al-tawḥīd : manuscript / ʻAbd al-Salām ibn Ibrāhīm al-Laqānī.",
     "notes": [
       {
@@ -22839,10 +22838,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696128"
   },
   {
-    "bib_id": "13696139",
     "title": "880-03 al-Ṭarīqah al-Muḥammadīyah : manuscript / Muḥammad ibn Bīr ʻAlī al-Burkawī.",
     "notes": [
       {
@@ -22901,10 +22900,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696139"
   },
   {
-    "bib_id": "13696291",
     "title": "De ecclesiastica potestate (fragment).",
     "notes": [
       {
@@ -22928,10 +22927,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696291"
   },
   {
-    "bib_id": "13696465",
     "title": "Legenda aurea (fragment).",
     "notes": [
       {
@@ -22955,10 +22954,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13696465"
   },
   {
-    "bib_id": "13699393",
     "title": "Robert Louis Stevenson notebook : manuscript.",
     "notes": [
       {
@@ -22977,10 +22976,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13699393"
   },
   {
-    "bib_id": "13706252",
     "title": "Canon medicinae (fragment).",
     "notes": [
       {
@@ -23004,10 +23003,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13706252"
   },
   {
-    "bib_id": "13706303",
     "title": "Decretals (fragment).",
     "notes": [
       {
@@ -23031,10 +23030,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13706303"
   },
   {
-    "bib_id": "13708451",
     "title": "880-03 al-Jāmiʻ al-ṣaḥīḥ. Al-Juzʼ 1 : manuscript / Muḥammad ibn Ismāʻīl al-Bukhārī.",
     "notes": [
       {
@@ -23108,10 +23107,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13708451"
   },
   {
-    "bib_id": "13708454",
     "title": "Elizabeth I, Queen of England order to Sir Thomas Heneage for payment of alms money : manuscript.",
     "notes": [
       {
@@ -23155,10 +23154,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13708454"
   },
   {
-    "bib_id": "13710088",
     "title": "Indenture between William Curtys and Geoffrey Walkeden and Thomas Walkeden.",
     "notes": [
       {
@@ -23187,10 +23186,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13710088"
   },
   {
-    "bib_id": "13716794",
     "title": "Indenture between John Moore and Nicholas Barbon and John Richardson : manuscript.",
     "notes": [
       {
@@ -23219,10 +23218,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13716794"
   },
   {
-    "bib_id": "13717957",
     "title": "Tancred Robinson annotations in John Ray's Synopsis methodica stirpium Britannicarum : manuscript.",
     "notes": [
       {
@@ -23236,10 +23235,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13717957"
   },
   {
-    "bib_id": "13757515",
     "title": "My first memory book : manuscript / Katharine P. Hastings.",
     "notes": [
       {
@@ -23253,10 +23252,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13757515"
   },
   {
-    "bib_id": "13794005",
     "title": "Accounts of churchwardens and overseers of the poor in Middleton, Thornham, Hopwood, Pilsworth, Birkle-cum-Bamford (Bury) : manuscript.",
     "notes": [
       {
@@ -23270,10 +23269,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13794005"
   },
   {
-    "bib_id": "13842028",
     "title": "Poems : manuscript.",
     "notes": [
       {
@@ -23302,10 +23301,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13842028"
   },
   {
-    "bib_id": "13842271",
     "title": "Evelyn Craddock Neish memoir : typescript.",
     "notes": [
       {
@@ -23319,10 +23318,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13842271"
   },
   {
-    "bib_id": "13843140",
     "title": "The vision : manuscript.",
     "notes": [
       {
@@ -23336,10 +23335,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13843140"
   },
   {
-    "bib_id": "13845173",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ al-ʻAqāʼid al-Nasafīyah : manuscript / Aḥmad ibn Mūsá al-Khayālī.",
     "notes": [
       {
@@ -23408,10 +23407,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13845173"
   },
   {
-    "bib_id": "13845178",
     "title": "880-03 Ḥāshiyat al-Ṣāwī ʻalá Jawharat al-tawḥīd : manuscript / Aḥmad ibn Muḥammad al-Ṣāwī.",
     "notes": [
       {
@@ -23470,10 +23469,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13845178"
   },
   {
-    "bib_id": "13845180",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ al-Hudhudī ʻalá matn al-Sanūsīyah : manuscript / ʻAlī ibn Aḥmad al-Ṣaʻīdī.",
     "notes": [
       {
@@ -23537,10 +23536,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13845180"
   },
   {
-    "bib_id": "13845186",
     "title": "880-02 Sharḥ al-ʻAqāʼid al-ʻAḍudīyah : manuscript / Muḥammad ibn Asʻad al-Dawwānī.",
     "notes": [
       {
@@ -23594,10 +23593,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13845186"
   },
   {
-    "bib_id": "13845192",
     "title": "880-03 Ṣafwat al-Zubad fīmā ʻalayhi al-muʻtamad : manuscript / Aḥmad ibn Ḥusayn ibn Raslān al-Ramlī.",
     "notes": [
       {
@@ -23656,10 +23655,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13845192"
   },
   {
-    "bib_id": "13845194",
     "title": "880-02 al-Ṣawāʻiq al-muḥriqah fī al-radd ʻalá al-zanādiqah wa-ahl al-ḍalāl wa-al-mubdiʻah : manuscript / Aḥmad ibn Muḥammad ibn Ḥajar al-Haythamī.",
     "notes": [
       {
@@ -23738,10 +23737,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13845194"
   },
   {
-    "bib_id": "13845197",
     "title": "880-02 Taʻlīq ʻalá al-Manẓūmah fī uṣūl al-dīn : manuscript / ʻAlī ibn Muḥammad al-Ujuhūrī.",
     "notes": [
       {
@@ -23795,10 +23794,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13845197"
   },
   {
-    "bib_id": "13845207",
     "title": "880-01 Sharḥ al-Muqaddimah fī al-ṣalāh : manuscript / Naṣr ibn Muḥammad Abū al-Layth al-Samarqandī.",
     "notes": [
       {
@@ -23872,10 +23871,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13845207"
   },
   {
-    "bib_id": "13845228",
     "title": "880-02 al-ʻAqīdah al-wusṭá : manuscript / Muḥammad ibn Yūsuf al-Sanūsī.",
     "notes": [
       {
@@ -23939,10 +23938,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13845228"
   },
   {
-    "bib_id": "13845229",
     "title": "Treatises on Sufism and Islamic ethics : manuscript.",
     "notes": [
       {
@@ -24306,10 +24305,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13845229"
   },
   {
-    "bib_id": "13846934",
     "title": "880-02 Badīʻ al-maʻānī fī sharḥ ʻAqīdat al-Shaybānī : manuscript / Najm al-Dīn Abū al-Faḍl Muḥammad ibn ʻAbd Allāh ibn Qāḍī ʻAjlūn.",
     "notes": [
       {
@@ -24393,10 +24392,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13846934"
   },
   {
-    "bib_id": "13846942",
     "title": "880-02 Shams al-maʻārif al-kubrá : manuscript / Aḥmad ibn ʻAlī al-Būnī.",
     "notes": [
       {
@@ -24470,10 +24469,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13846942"
   },
   {
-    "bib_id": "13848532",
     "title": "William Martin Johnson album of poetry and correspondence : manuscript.",
     "notes": [
       {
@@ -24512,10 +24511,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13848532"
   },
   {
-    "bib_id": "13848905",
     "title": "Nouvelles eclaircissemens sur la baguette divinatoire ... : manuscript.",
     "notes": [
       {
@@ -24539,10 +24538,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13848905"
   },
   {
-    "bib_id": "13849079",
     "title": "Appraisement of the late Revd. Mr. Henry Mordaunt's furniture, &c. : manuscript.",
     "notes": [
       {
@@ -24561,10 +24560,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13849079"
   },
   {
-    "bib_id": "13850759",
     "title": "\"Portrait of Anna Seward by John Opie, R.A.\" : manuscript.",
     "notes": [
       {
@@ -24583,10 +24582,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13850759"
   },
   {
-    "bib_id": "13854171",
     "title": "Manuscript memoirs of the great Earl of Cork : manuscript.",
     "notes": [
       {
@@ -24620,10 +24619,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13854171"
   },
   {
-    "bib_id": "13858403",
     "title": "Letters relaying observations of Jamaica to Lord Cornbury and the Duchess of Queensbury, 1738 November 26 : manuscript.",
     "notes": [
       {
@@ -24637,10 +24636,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13858403"
   },
   {
-    "bib_id": "13858440",
     "title": "William Whitehead's poem to the Duchess of Queensbury, 1777.",
     "notes": [
       {
@@ -24654,10 +24653,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13858440"
   },
   {
-    "bib_id": "13858470",
     "title": "Earl of Drumlanrig letters to the Duchess of Queensbury and Charles Douglas from Turin and Lisbon, 1755 November 5 and 8, 1748 June 18.",
     "notes": [
       {
@@ -24671,10 +24670,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13858470"
   },
   {
-    "bib_id": "13860778",
     "title": "880-03 Maqāmāt al-Ḥarīrī : manuscript / al-Qāsim ibn ʻAlī al-Ḥarīrī.",
     "notes": [
       {
@@ -24743,10 +24742,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860778"
   },
   {
-    "bib_id": "13860783",
     "title": "880-02 Ḥāshiyat al-ʻAṭṭār ʻalá al-Maqūlāt : manuscript / Ḥasan ibn Muḥammad al-ʻAṭṭār.",
     "notes": [
       {
@@ -24800,10 +24799,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860783"
   },
   {
-    "bib_id": "13860784",
     "title": "880-02 al-Rawḍ al-bāsim fī shamāʼil al-Muṣṭafá Abī al-Qāsim : manuscript / ʻAbd al-Raʼūf ibn Tāj al-ʻĀrifīn al-Munāwī al-Ḥaddādī.",
     "notes": [
       {
@@ -24872,10 +24871,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860784"
   },
   {
-    "bib_id": "13860789",
     "title": "880-03 al-Shamāʼil : manuscript / Muḥammad ibn ʻĪsá al-Tirmidhī.",
     "notes": [
       {
@@ -24944,10 +24943,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860789"
   },
   {
-    "bib_id": "13860796",
     "title": "880-03 al-Manẓūmah al-Jazāʼirīyah : manuscript / Aḥmad ibn ʻAbd Allāh al-Jazāʼirī.",
     "notes": [
       {
@@ -25011,10 +25010,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860796"
   },
   {
-    "bib_id": "13860802",
     "title": "880-02 Nubdhah laṭīfah fī ḥall mushkilāt ḥaḍarat fī al-suʼālāt : manuscript / Aḥmad ibn ʻAlī ibn Ḥajar al-ʻAsqalānī.",
     "notes": [
       {
@@ -25078,10 +25077,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860802"
   },
   {
-    "bib_id": "13860810",
     "title": "880-02 al-Aḥkām al-mulakhkhaṣah fī ḥukm māʼ al-ḥimmiṣah : manuscript / Ḥasan ibn ʻAmmār al-Shurunbulālī.",
     "notes": [
       {
@@ -25150,10 +25149,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860810"
   },
   {
-    "bib_id": "13860816",
     "title": "880-01 Ḥayāt al-qulūb : manuscript.",
     "notes": [
       {
@@ -25207,10 +25206,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860816"
   },
   {
-    "bib_id": "13860818",
     "title": "880-01 Tuḥfat al-adīb fī al-radd ʻalá ahl al-ṣalīb : manuscript / ʻAbd Allāh ibn ʻAbd Allāh al-Mayurūqī.",
     "notes": [
       {
@@ -25314,10 +25313,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860818"
   },
   {
-    "bib_id": "13860826",
     "title": "880-02 Nūr al-īḍāḥ wa-najāt al-arwāḥ : manuscript / Ḥasan ibn ʻAmmār al-Shurunbulālī.",
     "notes": [
       {
@@ -25371,10 +25370,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860826"
   },
   {
-    "bib_id": "13860837",
     "title": "880-02 Sirāj al-muṣallī wa-badr al-mubtadī wa-al-muntahī : manuscript / Burkawi Muḥammad Afandī.",
     "notes": [
       {
@@ -25433,10 +25432,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860837"
   },
   {
-    "bib_id": "13860843",
     "title": "880-01 Tuḥfat al-arīb fī al-radd ʻalá ahl al-ṣalīb : manuscript / ʻAbd Allāh ibn ʻAbd Allāh al-Mayurūqī.",
     "notes": [
       {
@@ -25495,10 +25494,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860843"
   },
   {
-    "bib_id": "13860850",
     "title": "880-02 Tuḥfat al-murīd ʻalá Jawharat al-tawḥīd : manuscript / Ibrāhīm ibn Muḥammad al-Bājūrī.",
     "notes": [
       {
@@ -25572,10 +25571,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860850"
   },
   {
-    "bib_id": "13860894",
     "title": "880-02 Badīʻ al-maʻānī fī sharḥ ʻAqīdat al-Shaybānī : manuscript / Najm al-Dīn Abū al-Faḍl Muḥammad ibn ʻAbd Allāh ibn Qāḍī ʻAjlūn.",
     "notes": [
       {
@@ -25734,10 +25733,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860894"
   },
   {
-    "bib_id": "13860906",
     "title": "880-02 Itḥāf al-murīd bi-Jawharat al-tawḥīd : manuscript / ʻAbd al-Salām ibn Ibrāhīm al-Laqānī.",
     "notes": [
       {
@@ -25801,10 +25800,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860906"
   },
   {
-    "bib_id": "13860920",
     "title": "880-02 Selections from the Qurʼān : manuscript.",
     "notes": [
       {
@@ -25853,10 +25852,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860920"
   },
   {
-    "bib_id": "13860945",
     "title": "880-02 Zahrat al-riyāḍ wa-nuzhat al-qulūb al-mirāḍ : manuscript / Sulaymān ibn Dāʼūd al-Saqsīnī.",
     "notes": [
       {
@@ -25915,10 +25914,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13860945"
   },
   {
-    "bib_id": "13861198",
     "title": "880-02 Sharḥ al-Mukaffirāt lil-Badr al-Rashīd : manuscript / ʻAlī ibn Sulṭān Muḥammad al-Qārī al-Harawī.",
     "notes": [
       {
@@ -25972,10 +25971,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13861198"
   },
   {
-    "bib_id": "13861202",
     "title": "880-02 al-Durrah al-fākhirah fī kashf ʻulūm al-Ākhirah : manuscript / al-Ghazzālī.",
     "notes": [
       {
@@ -26029,10 +26028,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13861202"
   },
   {
-    "bib_id": "13861206",
     "title": "880-02 al-zajr bi-al-hajr : manuscript / Abū al-Faḍl Jalāl al-Dīn ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī.",
     "notes": [
       {
@@ -26101,10 +26100,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13861206"
   },
   {
-    "bib_id": "13862411",
     "title": "880-02 Sharḥ Umm al-barāhīn fī ʻilm al-kalām : manuscript / Muḥammad ibn Yūsuf al-Sanūsī.",
     "notes": [
       {
@@ -26188,10 +26187,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13862411"
   },
   {
-    "bib_id": "13862416",
     "title": "880-02 Sharḥ Umm al-barāhīn fī ʻilm al-kalām : manuscript / Muḥammad ibn Yūsuf al-Sanūsī.",
     "notes": [
       {
@@ -26245,10 +26244,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13862416"
   },
   {
-    "bib_id": "13862419",
     "title": "880-02 Sharḥ Umm al-barāhīn fī ʻilm al-kalām : manuscript / Muḥammad ibn Yūsuf al-Sanūsī.",
     "notes": [
       {
@@ -26307,10 +26306,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13862419"
   },
   {
-    "bib_id": "13862421",
     "title": "880-02 Ḥāshiyah ʻalá matn al-Sanūsīyah : manuscript / Ibrāhīm ibn Muḥammad al-Bājūrī.",
     "notes": [
       {
@@ -26364,10 +26363,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13862421"
   },
   {
-    "bib_id": "13862422",
     "title": "880-02 Ḥāshiyah ʻalá matn al-Sanūsīyah : manuscript / Ibrāhīm ibn Muḥammad al-Bājūrī.",
     "notes": [
       {
@@ -26441,10 +26440,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13862422"
   },
   {
-    "bib_id": "13862451",
     "title": "880-02 Ḥāshiyah ʻalá matn al-Sanūsīyah : manuscript / Ibrāhīm ibn Muḥammad al-Bājūrī.",
     "notes": [
       {
@@ -26543,10 +26542,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13862451"
   },
   {
-    "bib_id": "13862484",
     "title": "880-02 Ḥāshiyat al-Sharqāwī ʻalá Sharḥ al-Hudhudī ʻalá Umm al-barāhīn : manuscript / ʻAbd Allāh ibn Ḥijāzī al-Sharqāwī.",
     "notes": [
       {
@@ -26595,10 +26594,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13862484"
   },
   {
-    "bib_id": "13862488",
     "title": "880-02 Taqāyīd ʻalá Sharḥ al-Shaykh ʻAbd al-Salām al-Laqānī li-Jawhart wālidih : manuscript / Muḥammad ibn Muḥammad al-Amīr al-Kabīr.",
     "notes": [
       {
@@ -26657,10 +26656,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13862488"
   },
   {
-    "bib_id": "13862490",
     "title": "880-02 Sharḥ Muqaddimat Abī al-Layth : manuscript / Dhū al-Nūn ibn Aḥmad.",
     "notes": [
       {
@@ -26719,10 +26718,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13862490"
   },
   {
-    "bib_id": "13862497",
     "title": "880-02 Ḍawʼ al-maʻālī li-Badʼ al-amālī : manuscript / ʻAlī ibn Sulṭān Muḥammad al-Qārī.",
     "notes": [
       {
@@ -26801,10 +26800,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13862497"
   },
   {
-    "bib_id": "13867226",
     "title": "880-03 Sharḥ al-ʻAqāʼid al-Nasafīyah : manuscript / Masʻūd ibn ʻUmar al-Taftāzānī.",
     "notes": [
       {
@@ -26858,10 +26857,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867226"
   },
   {
-    "bib_id": "13867228",
     "title": "880-03 Sharḥ al-ʻAqāʼid al-Nasafīyah : manuscript / Masʻūd ibn ʻUmar al-Taftāzānī.",
     "notes": [
       {
@@ -26930,10 +26929,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867228"
   },
   {
-    "bib_id": "13867230",
     "title": "880-02 Itḥāf al-murīd bi-Jawharat al-tawḥīd : manuscript / ʻAbd al-Salām ibn Ibrāhīm al-Laqānī.",
     "notes": [
       {
@@ -27007,10 +27006,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867230"
   },
   {
-    "bib_id": "13867263",
     "title": "880-02 Fatḥ al-qarīb al-majīd bi-Sharḥ Jawharat al-tawḥīd : manuscript / ʻAbd al-Barr ibn ʻAbd Allāh al-Ujhūrī.",
     "notes": [
       {
@@ -27079,10 +27078,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867263"
   },
   {
-    "bib_id": "13867274",
     "title": "880-02 al-Ḥiṣn al-ḥaṣīn min kalām Sayyid al-Mursalīn : manuscript / Muḥammad ibn Muḥammad ibn al-Jazarī.",
     "notes": [
       {
@@ -27161,10 +27160,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867274"
   },
   {
-    "bib_id": "13867279",
     "title": "880-02 al-Ḥiṣn al-ḥaṣīn min kalām Sayyid al-Mursalīn : manuscript / Muḥammad ibn Muḥammad ibn al-Jazarī.",
     "notes": [
       {
@@ -27223,10 +27222,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867279"
   },
   {
-    "bib_id": "13867452",
     "title": "880-02 Dalāʼil al-khayrāt wa-shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-Nabī al-mukhtār : manuscript / Muḥammad ibn Sulaymān al-Jazūlī.",
     "notes": [
       {
@@ -27280,10 +27279,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867452"
   },
   {
-    "bib_id": "13867602",
     "title": "880-02 Kawkab al-mabānī wa-mawkib al-maʻānī sharḥ Ṣalawāt Sayyidī al-Shaykh ʻAbd al-Qādir al-Kīlānī : manuscript / ʻAbd al-Ghanī al-Nābulusī.",
     "notes": [
       {
@@ -27367,10 +27366,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867602"
   },
   {
-    "bib_id": "13867610",
     "title": "880-02 Ṣalawāt ʻalá al-Nabī : manuscript / Aḥmad ibn ʻAbd al-Fattāḥ al-Mullawī.",
     "notes": [
       {
@@ -27424,10 +27423,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867610"
   },
   {
-    "bib_id": "13867614",
     "title": "880-02 Dalāʼil al-khayrāt wa-shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-Nabī al-mukhtār : manuscript / Muḥammad ibn Sulaymān al-Jazūlī.",
     "notes": [
       {
@@ -27506,10 +27505,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867614"
   },
   {
-    "bib_id": "13867626",
     "title": "880-02 al-Durr al-manḍūd fī faḍl al-ṣalāh wa-al-salām ʻalá ṣāḥib al-maqām al-maḥmūd : manuscript / Aḥmad ibn Muḥammad ibn Ḥajar al-Haythamī.",
     "notes": [
       {
@@ -27593,10 +27592,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867626"
   },
   {
-    "bib_id": "13867632",
     "title": "Selections from the Shāhnāmah : manuscript / Firdawsī.",
     "notes": [
       {
@@ -27625,10 +27624,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867632"
   },
   {
-    "bib_id": "13867639",
     "title": "Dīvān-i Fuzūlī : manuscript / Fuzulî.",
     "notes": [
       {
@@ -27662,10 +27661,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13867639"
   },
   {
-    "bib_id": "13868924",
     "title": "880-03 Rawḍat al-ṭālibīn wa-ʻumdat al-muftīn. Volume 8 : manuscript / Muḥyī al-Dīn Yaḥyá ibn Sharaf al-Nawawī.",
     "notes": [
       {
@@ -27749,10 +27748,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13868924"
   },
   {
-    "bib_id": "13868925",
     "title": "880-03 Rawḍat al-ṭālibīn wa-ʻumdat al-muftīn. Volume 6 : manuscript / Muḥyī al-Dīn Yaḥyá ibn Sharaf al-Nawawī.",
     "notes": [
       {
@@ -27821,10 +27820,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13868925"
   },
   {
-    "bib_id": "13868929",
     "title": "880-03 Rawḍat al-ṭālibīn wa-ʻumdat al-muftīn. Volume 7 : manuscript / Muḥyī al-Dīn Yaḥyá ibn Sharaf al-Nawawī.",
     "notes": [
       {
@@ -27888,10 +27887,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13868929"
   },
   {
-    "bib_id": "13868930",
     "title": "880-02 Dalāʼil al-khayrāt wa-shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-Nabī al-mukhtār : manuscript / Muḥammad ibn Sulaymān al-Jazūlī.",
     "notes": [
       {
@@ -27945,10 +27944,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13868930"
   },
   {
-    "bib_id": "13872621",
     "title": "Elegie upon the much lamented death of Henery Bradshaw of Marple Esquire : who departed this life March the 11 Anno domini 1661 : manuscript.",
     "notes": [
       {
@@ -27972,10 +27971,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13872621"
   },
   {
-    "bib_id": "13872990",
     "title": "America : manuscript.",
     "notes": [
       {
@@ -27989,10 +27988,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13872990"
   },
   {
-    "bib_id": "13877766",
     "title": "880-02 Kosodategusa, [between 1859 and early 20th century]",
     "notes": [
       {
@@ -28006,10 +28005,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13877766"
   },
   {
-    "bib_id": "13887726",
     "title": "A journal of a voyage to Madrass : in the year of our Lord Christ, 1761 : manuscript / by Richard Rose, Leiutenant [sic] in the 96th Regiment of Foot.",
     "notes": [
       {
@@ -28033,10 +28032,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13887726"
   },
   {
-    "bib_id": "13894508",
     "title": "Convitato di pietra : manuscript.",
     "notes": [
       {
@@ -28060,10 +28059,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13894508"
   },
   {
-    "bib_id": "13929901",
     "title": "Fading frontiers : as told to Russell Bankson : manuscript.",
     "notes": [
       {
@@ -28077,10 +28076,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13929901"
   },
   {
-    "bib_id": "13930225",
     "title": "Alterations to the pastoralls : (the solutions of the queries are written by Mr. Walsh) : manuscript.",
     "notes": [
       {
@@ -28099,10 +28098,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13930225"
   },
   {
-    "bib_id": "13930452",
     "title": "Noticia sobre algunos sirvientes prófugos : manuscript / Comisión Pesquisidora de la Frontera del Norte.",
     "notes": [
       {
@@ -28116,10 +28115,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13930452"
   },
   {
-    "bib_id": "13934143",
     "title": "Letter from Bismarck, 1893 May 1 : manuscript.",
     "notes": [
       {
@@ -28133,10 +28132,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13934143"
   },
   {
-    "bib_id": "13971037",
     "title": "880-01 Taʻlīqāt ʻalá Sharḥ Faḍāʼil Ramaḍān : manuscript.",
     "notes": [
       {
@@ -28210,10 +28209,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13971037"
   },
   {
-    "bib_id": "13971040",
     "title": "880-02 Munyat al-muṣallī wa-ghunyat al-mubtadiʼ : manuscript / Sadīd al-Dīn al-Kāshgharī.",
     "notes": [
       {
@@ -28267,10 +28266,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13971040"
   },
   {
-    "bib_id": "13971047",
     "title": "880-02 Dalāʼil al-khayrāt wa-shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-Nabī al-mukhtār : manuscript / Muḥammad ibn Sulaymān al-Jazūlī.",
     "notes": [
       {
@@ -28439,10 +28438,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13971047"
   },
   {
-    "bib_id": "13971049",
     "title": "880-02 Ghāyat al-maqṣūd li-man yataʻāṭá al-ʻuqūd : manuscript / Abū al-ʻAbbās Aḥmad ibn ʻUmar al-Dayrabī al-Shāfiʻī.",
     "notes": [
       {
@@ -28536,10 +28535,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13971049"
   },
   {
-    "bib_id": "13971053",
     "title": "880-01 al-ʻIqd al-nafīs wa-nuzhat al-jalīs : manuscript.",
     "notes": [
       {
@@ -28638,10 +28637,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13971053"
   },
   {
-    "bib_id": "13971075",
     "title": "880-02 Mukhtaṣar Munyat al-muṣallī wa-ghunyat al-mubtadī : manuscript / Ibrāhīm ibn Muḥammad ibn Ibrāhīm al-Ḥalabī.",
     "notes": [
       {
@@ -28710,10 +28709,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13971075"
   },
   {
-    "bib_id": "13971079",
     "title": "880-02 Itmām al-dirāyah li-qurrāʼ al-Nuqāyah : manuscript / Jalāl al-Dīn ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī.",
     "notes": [
       {
@@ -28787,10 +28786,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13971079"
   },
   {
-    "bib_id": "13971086",
     "title": "880-02 Taqrīb al-fawāʼid wa-tasʹhīl al-maqāṣid : manuscript / ʻAlī ibn ʻAṭīyah al-Ḥamawī.",
     "notes": [
       {
@@ -28864,10 +28863,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13971086"
   },
   {
-    "bib_id": "13971090",
     "title": "880-02 al-Tathbīt ʻinda al-tabyīt : manuscript / Jalāl al-Dīn ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī.",
     "notes": [
       {
@@ -28936,10 +28935,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13971090"
   },
   {
-    "bib_id": "13971096",
     "title": "880-02 al-Ādāb al-sanīyah wa-al-afʻāl al-sharīfah al-marḍīyah al-qudsīyah li-man yurīdu sulūk ṭarīq al-Sādah al-khalwatīyah : manuscript / Muḥammad ibn Ḥasan al-Munayyir al-Samannūdī.",
     "notes": [
       {
@@ -29003,10 +29002,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "13971096"
   },
   {
-    "bib_id": "14009435",
     "title": "880-02 Ḥall al-rumūz wa-mafātīḥ al-kunūz : manuscript / ʻIzz al-Dīn ʻAbd al-Salām ibn Aḥmad ibn Ghānim al-Maqdisī.",
     "notes": [
       {
@@ -29070,10 +29069,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14009435"
   },
   {
-    "bib_id": "14009436",
     "title": "880-02 al-Risālah al-qudsīyah fī asrār al-nuqṭah al-ḥissīyah al-mushīrāt ilá asrār al-huwīyah al-ghaybīyah : manuscript / ʻAlī ibn Muḥammad al-Hamadhānī.",
     "notes": [
       {
@@ -29132,10 +29131,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14009436"
   },
   {
-    "bib_id": "14009444",
     "title": "880-02 Ḥall al-rumūz wa-mafātīḥ al-kunūz : manuscript / ʻIzz al-Dīn ʻAbd al-Salām ibn Aḥmad ibn Ghānim al-Maqdisī.",
     "notes": [
       {
@@ -29199,10 +29198,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14009444"
   },
   {
-    "bib_id": "14009450",
     "title": "880-02 Zād al-masākīn ilá manāzil al-sālikīn : manuscript / ʻAlī ibn Aḥmad al-Kīzwānī.",
     "notes": [
       {
@@ -29331,10 +29330,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14009450"
   },
   {
-    "bib_id": "14009456",
     "title": "880-02 al-Sabʻīyāt fī mawāʻiẓ al-barīyāt : manuscript / Muḥammad ibn ʻAbd al-Raḥmān ʻAyn al-Quḍāh al-Hamadhānī.",
     "notes": [
       {
@@ -29393,10 +29392,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14009456"
   },
   {
-    "bib_id": "14009492",
     "title": "880-02 Tāj al-ʻarūs : manuscript / Ibn ʻAṭāʼ Allāh al-Sakandarī.",
     "notes": [
       {
@@ -29565,10 +29564,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14009492"
   },
   {
-    "bib_id": "14009578",
     "title": "880-02 Risālah fī ʻilm al-sulūk : manuscript / Abū al-Jannāb Najm al-Dīn Aḥmad ibn ʻUmar al-Kubarā.",
     "notes": [
       {
@@ -29622,10 +29621,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14009578"
   },
   {
-    "bib_id": "14009612",
     "title": "880-02 Ghayth al-mawāhib al-ʻalīyah bi-Sharḥ al-Ḥikam al-ʻAṭāʼīyah : manuscript / Muḥammad ibn Ibrāhīm ibn ʻAbbād al-Nafazī al-Rundī.",
     "notes": [
       {
@@ -29709,10 +29708,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14009612"
   },
   {
-    "bib_id": "14009680",
     "title": "880-02 Turjumān al-ashwāq : manuscript / Muḥyī al-Dīn ibn al-ʻArabī.",
     "notes": [
       {
@@ -29841,10 +29840,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14009680"
   },
   {
-    "bib_id": "14010003",
     "title": "880-02 al-Sabʻīyāt fī mawāʻiẓ al-barīyāt : manuscript / Muḥammad ibn ʻAbd al-Raḥmān ʻAyn al-Quḍāh al-Hamadhānī.",
     "notes": [
       {
@@ -29898,10 +29897,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14010003"
   },
   {
-    "bib_id": "14010027",
     "title": "880-02 al-Ḥikam al-ʻAṭāʼīyah : manuscript / Aḥmad ibn Muḥammad ibn ʻAṭāʼ Allāh al-Sakandarī.",
     "notes": [
       {
@@ -29965,10 +29964,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14010027"
   },
   {
-    "bib_id": "14010037",
     "title": "880-02 Fī bayān al-sayr ilá Allāh : manuscript / Aḥmad ibn Muḥammad al-Dardīr.",
     "notes": [
       {
@@ -30032,10 +30031,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14010037"
   },
   {
-    "bib_id": "14010042",
     "title": "880-02 al-Sharḥ al-ṣaghīr ʻalá Aqrab al-masālik ilá madhhab al-Imām Mālik : manuscript / Aḥmad ibn Muḥammad al-Dardīr.",
     "notes": [
       {
@@ -30094,10 +30093,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14010042"
   },
   {
-    "bib_id": "14010045",
     "title": "880-02 Bidāyat al-hidāyah : manuscript / Abū Ḥāmid Muḥammad ibn Muḥammad al-Ghazzālī.",
     "notes": [
       {
@@ -30156,10 +30155,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14010045"
   },
   {
-    "bib_id": "14010051",
     "title": "880-02 al-Tibr al-masbūk fī naṣīḥat al-mulūk : manuscript / Abū Ḥāmid Muḥammad ibn Muḥammad al-Ghazzālī.",
     "notes": [
       {
@@ -30223,10 +30222,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14010051"
   },
   {
-    "bib_id": "14018856",
     "title": "Copies of letters from the 5th March 1785 : manuscript.",
     "notes": [
       {
@@ -30240,10 +30239,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14018856"
   },
   {
-    "bib_id": "14028753",
     "title": "Autobiography of Thomas L. Anderson : manuscript.",
     "notes": [
       {
@@ -30257,10 +30256,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14028753"
   },
   {
-    "bib_id": "14034336",
     "title": "Treatises on astronomy and astrology : manuscript.",
     "notes": [
       {
@@ -30489,10 +30488,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034336"
   },
   {
-    "bib_id": "14034350",
     "title": "880-02 al-Iqnāʻ fī ḥall alfāẓ Abī Shujāʻ : manuscript / Muḥammad ibn Aḥmad al-Shirbīnī.",
     "notes": [
       {
@@ -30586,10 +30585,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034350"
   },
   {
-    "bib_id": "14034355",
     "title": "880-02 al-Ḥikam al-ʻirfānīyah wa-al-ishārāt al-Qurʼānīyah : manuscript / ʻAlī ibn ʻAbd al-Malik al-Muttaqī al-Hindī.",
     "notes": [
       {
@@ -30648,10 +30647,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034355"
   },
   {
-    "bib_id": "14034359",
     "title": "880-02 Bulghat al-murīd wa-mushtahá al-saʻīd fīmā yajibu fī al-ṭarīq ʻalá al-murīd : manuscript / Muṣṭafá ibn Kamāl al-Dīn al-Bakrī al-Ṣiddīqī.",
     "notes": [
       {
@@ -30715,10 +30714,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034359"
   },
   {
-    "bib_id": "14034361",
     "title": "880-02 Mashāriq al-anwār al-Qudsīyah fī bayān al-ʻuhūd al-Muḥammadīyah : manuscript / ʻAbd al-Wahhāb ibn Aḥmad al-Shaʻrānī.",
     "notes": [
       {
@@ -30782,10 +30781,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034361"
   },
   {
-    "bib_id": "14034368",
     "title": "880-02 al-Anwār al-sanīyah ʻalá al-Waẓīfah al-Zarrūqīyah : manuscript / ʻAbd al-Raḥmān ibn Muḥammad al-ʻAyyāshī.",
     "notes": [
       {
@@ -30864,10 +30863,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034368"
   },
   {
-    "bib_id": "14034393",
     "title": "880-02 al-Jawāhir wa-al-durar : manuscript / ʻAbd al-Wahhāb ibn Aḥmad al-Shaʻrānī.",
     "notes": [
       {
@@ -30966,10 +30965,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034393"
   },
   {
-    "bib_id": "14034400",
     "title": "880-01 Mukhtaṣar Minhāj al-ʻābidīn : manuscript.",
     "notes": [
       {
@@ -31028,10 +31027,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034400"
   },
   {
-    "bib_id": "14034413",
     "title": "880-02 al-Sayr wa-al-sulūk ilá Malik al-Mulūk : manuscript / Qāsim ibn Ṣalāḥ al-Dīn al-Khānī.",
     "notes": [
       {
@@ -31090,10 +31089,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034413"
   },
   {
-    "bib_id": "14034419",
     "title": "880-02 Ḍawʼ al-maʻālī li-Badʼ al-amālī : manuscript / ʻAlī ibn Sulṭān Muḥammad al-Qārī al-Harawī.",
     "notes": [
       {
@@ -31147,10 +31146,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034419"
   },
   {
-    "bib_id": "14034424",
     "title": "880-02 Fuṣūṣ al-ḥikam : manuscript / Ibn al-ʻArabī.",
     "notes": [
       {
@@ -31214,10 +31213,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034424"
   },
   {
-    "bib_id": "14034516",
     "title": "880-02 Iʻādat al-rūḥ ilá al-badan waqt al-suʼāl : manuscript / Nūḥ ibn Muṣṭafá al-Rūmī.",
     "notes": [
       {
@@ -31291,10 +31290,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034516"
   },
   {
-    "bib_id": "14034525",
     "title": "880-02 Kashf al-qināʻ ʻan shawārid al-ṭalāq wa-al-ikhtilāʻ : manuscript / Muḥammad ibn Aḥmad al-Manfalūṭī.",
     "notes": [
       {
@@ -31358,10 +31357,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034525"
   },
   {
-    "bib_id": "14034528",
     "title": "880-02 Fuṣūṣ al-ḥikam : manuscript / Ibn al-ʻArabī.",
     "notes": [
       {
@@ -31430,10 +31429,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034528"
   },
   {
-    "bib_id": "14034533",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ al-Kharīdah al-bahīyah : manuscript / Muṣṭafá ibn Aḥmad al-ʻUqbāwī.",
     "notes": [
       {
@@ -31492,10 +31491,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034533"
   },
   {
-    "bib_id": "14034545",
     "title": "880-02 Nuzhat al-majālis wa-muntakhab al-nafāʼis. Al-Juzʼ 2 : manuscript / ʻAbd al-Raḥmān ibn ʻAbd al-Salām al-Ṣaffūrī.",
     "notes": [
       {
@@ -31544,10 +31543,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14034545"
   },
   {
-    "bib_id": "14038596",
     "title": "880-02 Sharḥ Muqaddimat al-Zāhid  : manuscript / Muḥammad ibn Aḥmad al-Ramlī.",
     "notes": [
       {
@@ -31606,10 +31605,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14038596"
   },
   {
-    "bib_id": "14038699",
     "title": "880-02 Ghāyat al-maqṣūd li-man yataʻāṭá al-ʻuqūd : manuscript / Abū al-ʻAbbās Aḥmad ibn ʻUmar al-Dayrabī al-Shāfiʻī.",
     "notes": [
       {
@@ -31668,10 +31667,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14038699"
   },
   {
-    "bib_id": "14038745",
     "title": "880-02 Sharḥ Muqaddimat al-Zāhid  : manuscript / Muḥammad ibn Aḥmad al-Ramlī.",
     "notes": [
       {
@@ -31730,10 +31729,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14038745"
   },
   {
-    "bib_id": "14038770",
     "title": "880-02 Tuḥfat al-ṭullāb bi-Sharḥ Taḥrīr Tanqīḥ al-Lubāb : manuscript / Abū Yaḥyá Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -31797,10 +31796,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14038770"
   },
   {
-    "bib_id": "14038777",
     "title": "880-03 al-Tajrīd li-nafʻ al-ʻabīd. Al-Juzʼ 1 : manuscript / Sulaymān ibn Muḥammad al-Bujayrimī.",
     "notes": [
       {
@@ -31854,10 +31853,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14038777"
   },
   {
-    "bib_id": "14038786",
     "title": "880-03 al-Tajrīd li-nafʻ al-ʻabīd. Al-Juzʼ 2 : manuscript / Sulaymān ibn Muḥammad al-Bujayrimī.",
     "notes": [
       {
@@ -31911,10 +31910,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14038786"
   },
   {
-    "bib_id": "14038797",
     "title": "880-03 al-Tajrīd li-nafʻ al-ʻabīd. Al-Juzʼ 3 : manuscript / Sulaymān ibn Muḥammad al-Bujayrimī.",
     "notes": [
       {
@@ -31968,10 +31967,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14038797"
   },
   {
-    "bib_id": "14038803",
     "title": "880-02 al-Dirāyah sharḥ al-Hidāyah : manuscript / Aḥmad ibn ʻAlī ibn Ḥajar al-ʻAsqalānī.",
     "notes": [
       {
@@ -32035,10 +32034,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14038803"
   },
   {
-    "bib_id": "14038814",
     "title": "880-02 al-Durar al-lawāmiʻ bi-taḥrīr Jamʻ al-jawāmiʻ : manuscript / Muḥammad ibn Muḥammad ibn Abī Sharīf.",
     "notes": [
       {
@@ -32127,10 +32126,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14038814"
   },
   {
-    "bib_id": "14038820",
     "title": "880-02 Ḥall al-mawāḍiʻ al-mughlaqah min Wiqāyat al-riwāyah fī masāʼil al-Hidāyah : manuscript / ʻUbayd Allāh ibn Masʻūd al-Maḥbūbī.",
     "notes": [
       {
@@ -32209,10 +32208,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14038820"
   },
   {
-    "bib_id": "14039074",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ Jamʻ al-jawāmiʻ : manuscript / Ibrāhīm Ḥijāzī al-Sandiyūnī al-Shāfiʻī al-Aḥmadī.",
     "notes": [
       {
@@ -32276,10 +32275,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039074"
   },
   {
-    "bib_id": "14039079",
     "title": "880-02 Sharḥ Muqaddimat al-Zāhid  : manuscript / Muḥammad ibn Aḥmad al-Ramlī.",
     "notes": [
       {
@@ -32328,10 +32327,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039079"
   },
   {
-    "bib_id": "14039087",
     "title": "880-03 Sharḥ mukhtaṣar ʻalá al-Mukhtaṣar. Al-Juzʼ 1 : manuscript / Aḥmad ibn Muḥammad al-Dardīr.",
     "notes": [
       {
@@ -32400,10 +32399,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039087"
   },
   {
-    "bib_id": "14039099",
     "title": "880-02 al-Jawharah al-munīfah fī sharḥ Waṣīyat Abī Ḥanīfah : manuscript / Munlā Ḥusayn ibn Iskandar al-Rūmī al-Ḥanafī.",
     "notes": [
       {
@@ -32462,10 +32461,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039099"
   },
   {
-    "bib_id": "14039111",
     "title": "880-03 al-Ashbāh wa-al-naẓāʼir al-fiqhīyah ʻalá madhhab al-Ḥanafīyah : manuscript / Zayn al-Dīn ibn Ibrāhīm ibn Nujaym.",
     "notes": [
       {
@@ -32539,10 +32538,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039111"
   },
   {
-    "bib_id": "14039132",
     "title": "880-02 al-Iḥrāz fī anwāʻ al-majāz : manuscript / Aḥmad ibn Aḥmad al-Sujāʻī.",
     "notes": [
       {
@@ -32591,10 +32590,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039132"
   },
   {
-    "bib_id": "14039137",
     "title": "880-02 Fatḥ rawq al-Raḥmān bi-sharḥ mā jāʼa ʻalá mafʻal min al-maṣdar wa-naḥwihi wa-ism al-zamān wa-al-makān : manuscript / Aḥmad ibn Aḥmad al-Sujāʻī.",
     "notes": [
       {
@@ -32648,10 +32647,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039137"
   },
   {
-    "bib_id": "14039141",
     "title": "880-02 Muʻīn al-ḥukkām fīmā yataraddadu bayna al-khaṣmayn min al-aḥkām : manuscript / ʻAlī ibn Khalīl al-Ṭarābulusī al-Ḥanafī.",
     "notes": [
       {
@@ -32705,10 +32704,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039141"
   },
   {
-    "bib_id": "14039144",
     "title": "880-02 Mukhtaṣar al-Qudūrī : manuscript / Aḥmad ibn Muḥammad al-Qudūrī.",
     "notes": [
       {
@@ -32767,10 +32766,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039144"
   },
   {
-    "bib_id": "14039150",
     "title": "880-03 al-Muntakhab fī uṣūl al-madhhab : manuscript / Muḥammad ibn Muḥammad al-Akhsīkathī.",
     "notes": [
       {
@@ -32824,10 +32823,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039150"
   },
   {
-    "bib_id": "14039162",
     "title": "880-03 Minhāj al-ṭālibīn : manuscript / Yaḥyá ibn Sharaf al-Nawawī.",
     "notes": [
       {
@@ -32906,10 +32905,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039162"
   },
   {
-    "bib_id": "14039171",
     "title": "880-03 Sharḥ Jamʻ al-jawāmiʻ : manuscript / Jalāl al-Dīn Muḥammad ibn Aḥmad al-Maḥallī.",
     "notes": [
       {
@@ -32968,10 +32967,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039171"
   },
   {
-    "bib_id": "14039183",
     "title": "880-02 Lamʻ al-lawāmiʻ fī ikhtiṣār Jamʻ al-jawāmiʻ : manuscript / ʻĪsá ibn ʻAlī al-Ikhnāʼī al-Shāfiʻī.",
     "notes": [
       {
@@ -33030,10 +33029,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039183"
   },
   {
-    "bib_id": "14039195",
     "title": "880-03 Fatḥ al-Wahhāb bi-sharḥ Manhaj al-ṭullāb. Al-Juzʼ 1 : manuscript / Abū Yaḥyá Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -33087,10 +33086,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039195"
   },
   {
-    "bib_id": "14039229",
     "title": "880-03 Fatḥ al-Wahhāb bi-sharḥ Manhaj al-ṭullāb : manuscript / Abū Yaḥyá Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -33144,10 +33143,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039229"
   },
   {
-    "bib_id": "14039336",
     "title": "North Butte Mining Company stock ledger : manuscript.",
     "notes": [
       {
@@ -33161,10 +33160,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14039336"
   },
   {
-    "bib_id": "14042347",
     "title": "Esther Edwards Burr journal : manuscript.",
     "notes": [
       {
@@ -33188,10 +33187,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14042347"
   },
   {
-    "bib_id": "14043237",
     "title": "Colo. B. Erving's journal : manuscript.",
     "notes": [
       {
@@ -33205,10 +33204,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14043237"
   },
   {
-    "bib_id": "14061226",
     "title": "Frances Brooke journal of a trip to Paris : manuscript.",
     "notes": [
       {
@@ -33232,10 +33231,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14061226"
   },
   {
-    "bib_id": "14063437",
     "title": "880-01 Kankai ibun : manuscript.",
     "notes": [
       {
@@ -33254,10 +33253,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14063437"
   },
   {
-    "bib_id": "14065712",
     "title": "Anthony Scattergood annotations in Pietro de' Crescenzi's Liber ruralium commodorum : manuscript.",
     "notes": [
       {
@@ -33286,10 +33285,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14065712"
   },
   {
-    "bib_id": "14071056",
     "title": "Annotations in Richard Brome's The Antipodes : manuscript.",
     "notes": [
       {
@@ -33308,10 +33307,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14071056"
   },
   {
-    "bib_id": "14078841",
     "title": "Laurence Hyde, Earl of Rochester meditation on Lamentations 3:22 : manuscript.",
     "notes": [
       {
@@ -33335,10 +33334,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14078841"
   },
   {
-    "bib_id": "14089396",
     "title": "880-03 Nihāyat al-muḥtāj ilá sharḥ al-Minhāj. Al-Juzʼ 1 : manuscript / Muḥammad ibn Aḥmad al-Ramlī.",
     "notes": [
       {
@@ -33427,10 +33426,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14089396"
   },
   {
-    "bib_id": "14089405",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ al-Mukhtaṣar. Al-Juzʼ 1 : manuscript / Muḥammad ibn Aḥmad ibn ʻArafah al-Dasūqī al-Mālikī.",
     "notes": [
       {
@@ -33489,10 +33488,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14089405"
   },
   {
-    "bib_id": "14089603",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ al-Mukhtaṣar. Al-Juzʼ 2 : manuscript / Muḥammad ibn Aḥmad ibn ʻArafah al-Dasūqī al-Mālikī.",
     "notes": [
       {
@@ -33551,10 +33550,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14089603"
   },
   {
-    "bib_id": "14089675",
     "title": "880-02 Ḥāshiyah ʻalá Sharḥ al-Mukhtaṣar. Al-Juzʼ 3 : manuscript / Muḥammad ibn Aḥmad ibn ʻArafah al-Dasūqī al-Mālikī.",
     "notes": [
       {
@@ -33613,10 +33612,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14089675"
   },
   {
-    "bib_id": "14105385",
     "title": "Commemorative English and French heraldry keepsake : manuscript / Wm. Roberts Gichard.",
     "notes": [
       {
@@ -33635,10 +33634,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14105385"
   },
   {
-    "bib_id": "14105557",
     "title": "Laurence Hyde, Earl of Rochester meditation on the fourth anniversary of his wife's death : manuscript.",
     "notes": [
       {
@@ -33662,10 +33661,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14105557"
   },
   {
-    "bib_id": "14106182",
     "title": "Benjamin de Rohan, seigneur de Soubise letter to Catherine de Parthenay-Larchevêque, vicomtesse de Rohan, London, 1631 March 2 : manuscript.",
     "notes": [
       {
@@ -33689,10 +33688,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14106182"
   },
   {
-    "bib_id": "14106396",
     "title": "Henry II, King of France order to Nicolas de Neufville, seigneur de Villeroi, Annet, 1547 June 18 : manuscript.",
     "notes": [
       {
@@ -33716,10 +33715,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14106396"
   },
   {
-    "bib_id": "14106528",
     "title": "Angell Knightley receipt book : manuscript.",
     "notes": [
       {
@@ -33748,10 +33747,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14106528"
   },
   {
-    "bib_id": "14107111",
     "title": "Elizabeth Essex household account book : manuscript.",
     "notes": [
       {
@@ -33780,10 +33779,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14107111"
   },
   {
-    "bib_id": "14107298",
     "title": "Catherine Clough recipe book : manuscript.",
     "notes": [
       {
@@ -33812,10 +33811,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14107298"
   },
   {
-    "bib_id": "14107417",
     "title": "880-02 Iltiqāṭ al-durr wa-al-ʻiqyān min kitāb Ḥayāt al-ḥayawān : manuscript / ʻAbd al-Karīm ibn Muḥammad al-Bāʻūnī.",
     "notes": [
       {
@@ -33899,10 +33898,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14107417"
   },
   {
-    "bib_id": "14107423",
     "title": "880-02 Kitāb al-adhkiyāʼ : manuscript / Abū al-Faraj ʻAbd al-Raḥmān ibn ʻAlī ibn al-Jawzī.",
     "notes": [
       {
@@ -33956,10 +33955,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14107423"
   },
   {
-    "bib_id": "14107429",
     "title": "880-02 Kashf al-lithām ʻan sharḥ Shaykh al-Islām : manuscript / Muḥammad ibn Aḥmad ibn ʻAlī al-Buhūtī al-Khalwatī.",
     "notes": [
       {
@@ -34033,10 +34032,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14107429"
   },
   {
-    "bib_id": "14107437",
     "title": "880-03 Bustān al-ʻārifīn : manuscript  / Naṣr ibn Muḥammad Abū al-Layth al-Samarqandī.",
     "notes": [
       {
@@ -34100,10 +34099,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14107437"
   },
   {
-    "bib_id": "14107449",
     "title": "880-02 Fatʹḥ al-Raḥmān bi-sharḥ Luqṭat al-ʻajlān wa-bullat al-ẓamʼān : manuscript / Abū Yaḥyá Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -34162,10 +34161,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14107449"
   },
   {
-    "bib_id": "14110652",
     "title": "880-02 Risālah fī aḥkām al-Jānn : manuscript / Muḥammad ibn Muḥammad al-Maydānī.",
     "notes": [
       {
@@ -34234,10 +34233,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14110652"
   },
   {
-    "bib_id": "14115879",
     "title": "Recipe book, circa 1770-1860 : manuscript.",
     "notes": [
       {
@@ -34256,10 +34255,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14115879"
   },
   {
-    "bib_id": "14117141",
     "title": "880-02 Ākām al-marjān fī aḥkām al-Jānn : manuscript / Muḥammad ibn ʻAbd Allāh al-Shiblī.",
     "notes": [
       {
@@ -34338,10 +34337,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117141"
   },
   {
-    "bib_id": "14117143",
     "title": "880-02 Shumūs al-anwār wa-kunūz al-asrār : manuscript / Muḥammad ibn Muḥammad ibn al-Ḥājj al-Tilimsānī al-Maghribī.",
     "notes": [
       {
@@ -34400,10 +34399,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117143"
   },
   {
-    "bib_id": "14117144",
     "title": "880-03 Daqāʼiq al-ḥaqāʼiq fī ḥisāb al-daraj wa-al-daqāʼiq : manuscript / Badr al-Dīn Muḥammad ibn Muḥammad Sibṭ al-Māridīnī.",
     "notes": [
       {
@@ -34502,10 +34501,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117144"
   },
   {
-    "bib_id": "14117146",
     "title": "880-02 Sharḥ Īsāghūjī : manuscript / Khayr al-Dīn al-Ghazāwī al-Bitlīsī.",
     "notes": [
       {
@@ -34629,10 +34628,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117146"
   },
   {
-    "bib_id": "14117150",
     "title": "880-03 al-Muṭṭalaʻ : manuscript / Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -34696,10 +34695,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117150"
   },
   {
-    "bib_id": "14117151",
     "title": "880-03 al-Muṭṭalaʻ : manuscript / Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -34763,10 +34762,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117151"
   },
   {
-    "bib_id": "14117153",
     "title": "880-03 Kitāb al-Bustān : manuscript  / Naṣr ibn Muḥammad Abū al-Layth al-Samarqandī.",
     "notes": [
       {
@@ -34835,10 +34834,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117153"
   },
   {
-    "bib_id": "14117155",
     "title": "880-02 al-Lumʻah al-Māridīnīyah fī sharḥ al-Yāsamīnīyah : manuscript / Badr al-Dīn Muḥammad ibn Muḥammad Sibṭ al-Mārdīnī.",
     "notes": [
       {
@@ -34927,10 +34926,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117155"
   },
   {
-    "bib_id": "14117160",
     "title": "880-02 Ḥayāt al-ḥayawān : manuscript / Muḥammad ibn Mūsá al-Damīrī.",
     "notes": [
       {
@@ -34989,10 +34988,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117160"
   },
   {
-    "bib_id": "14117162",
     "title": "880-02 al-Asrār al-Rabbānīyah : manuscript / Aḥmad ibn ʻAlī al-Būnī.",
     "notes": [
       {
@@ -35051,10 +35050,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117162"
   },
   {
-    "bib_id": "14117169",
     "title": "880-02 al-Manhaj al-maslūk fī siyāsat al-mulūk : manuscript / ʻAbd al-Raḥmān ibn Naṣr al-Shayzarī.",
     "notes": [
       {
@@ -35118,10 +35117,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117169"
   },
   {
-    "bib_id": "14117221",
     "title": "880-02 Sharḥ Mukhtaṣar al-Qānūn fī al-ṭibb : manuscript / Muḥammad ibn Maḥmūd al-Āmulī.",
     "notes": [
       {
@@ -35195,10 +35194,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117221"
   },
   {
-    "bib_id": "14117576",
     "title": "880-03 Rawḍat al-ṭālibīn wa-ʻumdat al-muftīn. Volume 1 : manuscript / Muḥyī al-Dīn Yaḥyá ibn Sharaf al-Nawawī.",
     "notes": [
       {
@@ -35262,10 +35261,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117576"
   },
   {
-    "bib_id": "14117580",
     "title": "880-02 Rawḍat al-ṭālibīn wa-ʻumdat al-muftīn. Volume 2 : manuscript / Muḥyī al-Dīn Yaḥyá ibn Sharaf al-Nawawī.",
     "notes": [
       {
@@ -35324,10 +35323,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117580"
   },
   {
-    "bib_id": "14117585",
     "title": "880-02 Rawḍat al-ṭālibīn wa-ʻumdat al-muftīn. Volume 3 : manuscript / Muḥyī al-Dīn Yaḥyá ibn Sharaf al-Nawawī.",
     "notes": [
       {
@@ -35391,10 +35390,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117585"
   },
   {
-    "bib_id": "14117587",
     "title": "880-02 Rawḍat al-ṭālibīn wa-ʻumdat al-muftīn. Volume 4 : manuscript / Muḥyī al-Dīn Yaḥyá ibn Sharaf al-Nawawī.",
     "notes": [
       {
@@ -35458,10 +35457,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117587"
   },
   {
-    "bib_id": "14117590",
     "title": "880-02 Rawḍat al-ṭālibīn wa-ʻumdat al-muftīn. Volume 5 : manuscript / Muḥyī al-Dīn Yaḥyá ibn Sharaf al-Nawawī.",
     "notes": [
       {
@@ -35520,10 +35519,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117590"
   },
   {
-    "bib_id": "14117594",
     "title": "880-02 Kitāb al-ʻibar. Al-Juzʼ 2 : manuscript / ʻAbd al-Raḥmān ibn Muḥammad ibn Khaldūn.",
     "notes": [
       {
@@ -35577,10 +35576,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117594"
   },
   {
-    "bib_id": "14117595",
     "title": "880-02 Kitāb al-ʻibar. Al-Juzʼ 3 : manuscript / ʻAbd al-Raḥmān ibn Muḥammad ibn Khaldūn.",
     "notes": [
       {
@@ -35634,10 +35633,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117595"
   },
   {
-    "bib_id": "14117598",
     "title": "880-02 Kitāb al-ʻibar. Al-Juzʼ 4 : manuscript / ʻAbd al-Raḥmān ibn Muḥammad ibn Khaldūn.",
     "notes": [
       {
@@ -35686,10 +35685,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117598"
   },
   {
-    "bib_id": "14117603",
     "title": "880-02 Kitāb al-ʻibar. Al-Juzʼ 5 : manuscript / ʻAbd al-Raḥmān ibn Muḥammad ibn Khaldūn.",
     "notes": [
       {
@@ -35743,10 +35742,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117603"
   },
   {
-    "bib_id": "14117652",
     "title": "Sigismondo Casanova lecture notes on a course in philosophy : manuscript.",
     "notes": [
       {
@@ -35790,10 +35789,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117652"
   },
   {
-    "bib_id": "14117786",
     "title": "Discourse upon Daniel : manuscript / by Rich[ar]d Wroe, D. D.",
     "notes": [
       {
@@ -35817,10 +35816,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14117786"
   },
   {
-    "bib_id": "14118129",
     "title": "Karl Albrecht Fugger letter to unidentified recipient, Salzburg, 1620 June 4 : manuscript.",
     "notes": [
       {
@@ -35839,10 +35838,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14118129"
   },
   {
-    "bib_id": "14156930",
     "title": "Correction slips in the Sneyd-Gimbel copy of Samuel Johnson's Dictionary of the english language : manuscript.",
     "notes": [
       {
@@ -35856,10 +35855,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14156930"
   },
   {
-    "bib_id": "14160497",
     "title": "Expedition of Lieutenant G. C. Doane : Fort Ellis, Montana to Fort Hall, Idaho October 11, 1876 to January 4, 1877 : typescript.",
     "notes": [
       {
@@ -35873,10 +35872,10 @@
         "type": "a"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14160497"
   },
   {
-    "bib_id": "14161349",
     "title": "W. A. Eisele letter to William Elsey Connelley, 1928 December 4 : manuscript.",
     "notes": [
       {
@@ -35890,10 +35889,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14161349"
   },
   {
-    "bib_id": "14416277",
     "title": "880-02 Kharīdat al-ʻajāʼib wa-farīdat al-gharāʼib : manuscript / Sirāj al-Dīn Abū Ḥafṣ ʻUmar ibn al-Wardī.",
     "notes": [
       {
@@ -35982,10 +35981,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416277"
   },
   {
-    "bib_id": "14416280",
     "title": "880-03 ʻAjāʼib al-makhlūqāt wa-gharāʼib al-mawjūdāt : manuscript / Zakarīyā ibn Muḥammad al-Qazwīnī.",
     "notes": [
       {
@@ -36044,10 +36043,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416280"
   },
   {
-    "bib_id": "14416282",
     "title": "880-02 Bāʻith al-nufūs ilá ziyārat al-Quds al-maḥrūs : manuscript / Ibrāhīm ibn ʻAbd al-Raḥmān ibn al-Firkāḥ.",
     "notes": [
       {
@@ -36106,10 +36105,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416282"
   },
   {
-    "bib_id": "14416285",
     "title": "880-03 ʻArāʼis al-majālis fī qiṣaṣ al-anbiyāʼ : manuscript / Aḥmad ibn Muḥammad al-Thaʻlabī.",
     "notes": [
       {
@@ -36173,10 +36172,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416285"
   },
   {
-    "bib_id": "14416287",
     "title": "880-02 Iʻlām al-nās bi-mā waqaʻa lil-Barāmikah min Banī al-ʻAbbās. Volume 1 : manuscript / Muḥammad Diyāb al-Itlīdī.",
     "notes": [
       {
@@ -36235,10 +36234,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416287"
   },
   {
-    "bib_id": "14416289",
     "title": "880-02 Tanwīr al-abṣār wa-jāmiʻ al-biḥār : manuscript / Muḥammad ibn ʻAbd Allāh al-Khaṭīb al-Tamartāshī.",
     "notes": [
       {
@@ -36302,10 +36301,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416289"
   },
   {
-    "bib_id": "14416291",
     "title": "880-02 al-Mustaṭraf min kull fann mustaẓraf. Al-Juzʼ 2 : manuscript / Muḥammad ibn Aḥmad al-Ibshīhī.",
     "notes": [
       {
@@ -36359,10 +36358,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416291"
   },
   {
-    "bib_id": "14416292",
     "title": "880-02 Tuḥfat al-ʻarūs wa-nuzʹhat al-nufūs : manuscript / Muḥammad ibn Aḥmad al-Tijānī.",
     "notes": [
       {
@@ -36431,10 +36430,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416292"
   },
   {
-    "bib_id": "14416293",
     "title": "880-02 Badīʻ al-inshāʼ wa-al-ṣifāt fī al-mukātabāt wa-al-murāsalāt : manuscript / Marʻī ibn Yūsuf al-Karmī.",
     "notes": [
       {
@@ -36528,10 +36527,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416293"
   },
   {
-    "bib_id": "14416296",
     "title": "880-02 al-Wasāʼil ilá maʻrifat al-awāʼil : manuscript / Jalāl al-Dīn ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī.",
     "notes": [
       {
@@ -36635,10 +36634,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416296"
   },
   {
-    "bib_id": "14416301",
     "title": "880-02 Tadhkirat ulī al-albāb wa-al-jāmiʻ lil-ʻajab al-ʻujāb. Al-Juzʼ 1 : manuscript / Dāʼūd ibn ʻUmar al-Anṭākī.",
     "notes": [
       {
@@ -36722,10 +36721,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416301"
   },
   {
-    "bib_id": "14416321",
     "title": "880-02 Murūj al-dhahab wa-maʻādin al-jawhar : manuscript / ʻAlī ibn al-Ḥusayn al-Masʻūdī.",
     "notes": [
       {
@@ -36784,10 +36783,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416321"
   },
   {
-    "bib_id": "14416335",
     "title": "880-02 Laqṭ al-marjān fī aḥkām al-Jānn : manuscript / ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī.",
     "notes": [
       {
@@ -36846,10 +36845,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416335"
   },
   {
-    "bib_id": "14416365",
     "title": "880-02 al-Iqnāʻ fī ḥall alfāẓ Abī Shujāʻ : manuscript / Muḥammad ibn Aḥmad al-Shirbīnī.",
     "notes": [
       {
@@ -36908,10 +36907,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416365"
   },
   {
-    "bib_id": "14416373",
     "title": "880-02 Lawʻat al-shākī wa-damʻat al-bākī : manuscript / Ṣafī al-Dīn ʻAbd al-ʻAzīz ibn Sarāyā al-Ḥillī.",
     "notes": [
       {
@@ -36965,10 +36964,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416373"
   },
   {
-    "bib_id": "14416376",
     "title": "880-02 al-Manẓūmah al-ʻImādīyah fī ādāb al-akl wa-al-shurb : manuscript / Aḥmad ibn al-ʻImād al-Aqfahsī.",
     "notes": [
       {
@@ -37062,10 +37061,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416376"
   },
   {
-    "bib_id": "14416387",
     "title": "880-02 Dhāt al-anwār : manuscript / ʻĀmir ibn ʻĀmir al-Baṣrī.",
     "notes": [
       {
@@ -37164,10 +37163,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416387"
   },
   {
-    "bib_id": "14416388",
     "title": "880-01 Tārīkh al-aʼimmah al-aʻlām min aʼimmat al-Islām, mulakhkhaṣ min Tārīkh Ibn Khallikān : manuscript.",
     "notes": [
       {
@@ -37226,10 +37225,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416388"
   },
   {
-    "bib_id": "14416441",
     "title": "880-03 Lawāqiḥ al-anwār fī ṭabaqāt al-akhyār. Al-Juzʼ 1 : manuscript / ʻAbd al-Wahhāb ibn Aḥmad al-Shaʻrānī.",
     "notes": [
       {
@@ -37303,10 +37302,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14416441"
   },
   {
-    "bib_id": "14472812",
     "title": "Joseph Hawksworth manuscript concerning almanacs : manuscript.",
     "notes": [
       {
@@ -37325,10 +37324,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14472812"
   },
   {
-    "bib_id": "14472985",
     "title": "Account book, 1761-1775 : manuscript.",
     "notes": [
       {
@@ -37342,10 +37341,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14472985"
   },
   {
-    "bib_id": "14473158",
     "title": "Billhead recording purchase by Mrs. Harman from M. & H. Corps.",
     "notes": [
       {
@@ -37369,10 +37368,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14473158"
   },
   {
-    "bib_id": "14473176",
     "title": "Heraldic notebook : manuscript.",
     "notes": [
       {
@@ -37391,10 +37390,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14473176"
   },
   {
-    "bib_id": "14473479",
     "title": "Billhead recording purchase by Mr. McKenna from Thomas & Edward Gilks, engravers on wood.",
     "notes": [
       {
@@ -37418,10 +37417,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14473479"
   },
   {
-    "bib_id": "14473621",
     "title": "Starks's account book for 1795 : manuscript.",
     "notes": [
       {
@@ -37440,10 +37439,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14473621"
   },
   {
-    "bib_id": "14474203",
     "title": "Copy of Clarenceux Cooke's book of the nobility : manuscript.",
     "notes": [
       {
@@ -37472,10 +37471,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14474203"
   },
   {
-    "bib_id": "14483697",
     "title": "880-02 al-Jawāhir al-sanīyah fī al-nisbah wa-al-karāmāt al-Aḥmadīyah : manuscript / ʻAbd al-Ṣamad ibn ʻAbd Allāh al-Miṣrī.",
     "notes": [
       {
@@ -37544,10 +37543,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483697"
   },
   {
-    "bib_id": "14483701",
     "title": "880-01 Sharḥ al-Nuzʹhah fī ʻilm al-ḥisāb : manuscript.",
     "notes": [
       {
@@ -37626,10 +37625,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483701"
   },
   {
-    "bib_id": "14483707",
     "title": "880-02 al-Taʻrīfāt  : manuscript / ʻAlī ibn Muḥammad al-Sayyid al-Sharīf al-Jurjānī.",
     "notes": [
       {
@@ -37688,10 +37687,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483707"
   },
   {
-    "bib_id": "14483719",
     "title": "880-02 al-Fawāʼid al-sanīyah : manuscript / Muḥammad ibn Ḥasan al-Kawākibī.",
     "notes": [
       {
@@ -37745,10 +37744,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483719"
   },
   {
-    "bib_id": "14483722",
     "title": "880-02 Jāmiʻ al-Fuṣūlayn : manuscript / Maḥmūd ibn Isrāʼīl ibn Qāḍī Simāwnah.",
     "notes": [
       {
@@ -37802,10 +37801,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483722"
   },
   {
-    "bib_id": "14483729",
     "title": "880-02 al-Durr al-mukhtār : sharḥ Tanwīr al-abṣār. Al-Juzʼ 2 : manuscript / Muḥammad ibn ʻAlī al-Ḥaṣkafī.",
     "notes": [
       {
@@ -37859,10 +37858,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483729"
   },
   {
-    "bib_id": "14483735",
     "title": "880-02 al-Ghurar al-bahīyah fī sharḥ al-Bahjah al-Wardīyah : manuscript / Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -37916,10 +37915,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483735"
   },
   {
-    "bib_id": "14483742",
     "title": "880-03 Fatḥ al-Wahhāb bi-sharḥ Manhaj al-ṭullāb. Al-Juzʼ 1 : manuscript / Abū Yaḥyá Zakarīyā ibn Muḥammad al-Anṣārī.",
     "notes": [
       {
@@ -37988,10 +37987,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483742"
   },
   {
-    "bib_id": "14483744",
     "title": "880-03 Kanz al-daqāʼiq : manuscript / Abū al-Barakāt ʻAbd Allāh ibn Aḥmad al-Nasafī.",
     "notes": [
       {
@@ -38065,10 +38064,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483744"
   },
   {
-    "bib_id": "14483750",
     "title": "880-03 Kanz al-daqāʼiq : manuscript / Abū al-Barakāt ʻAbd Allāh ibn Aḥmad al-Nasafī.",
     "notes": [
       {
@@ -38132,10 +38131,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483750"
   },
   {
-    "bib_id": "14483772",
     "title": "880-02 al-Muntazaʻ al-mukhtār min al-Ghayth al-midrār al-mufattiḥ li-kamāʼim al-Azʹhār : manuscript / ʻAbd Allāh ibn Abī al-Qāsim ibn Miftāḥ.",
     "notes": [
       {
@@ -38219,10 +38218,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483772"
   },
   {
-    "bib_id": "14483775",
     "title": "880-03 al-Ishārāt fī ʻilm al-ʻibārāt : manuscript / Khalīl ibn Shāhīn al-Ẓāhirī.",
     "notes": [
       {
@@ -38276,10 +38275,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14483775"
   },
   {
-    "bib_id": "14492144",
     "title": "880-02 al-ʻIqd al-manẓūm fī dhikr afāḍil al-Rūm : manuscript / ʻAlī ibn Bālī Manq.",
     "notes": [
       {
@@ -38373,10 +38372,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14492144"
   },
   {
-    "bib_id": "14492157",
     "title": "880-02 Ḥāshiyah ʻalá al-Fawāʼid al-Shinshawrīyah : manuscript / Muḥammad ibn Sālim al-Ḥifnī.",
     "notes": [
       {
@@ -38445,10 +38444,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14492157"
   },
   {
-    "bib_id": "14492172",
     "title": "880-02 al-Fatāwá al-kubrá. Al-Juzʼ 1 : manuscript / Aḥmad ibn Muḥammad ibn Ḥajar al-Haythamī.",
     "notes": [
       {
@@ -38502,10 +38501,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14492172"
   },
   {
-    "bib_id": "14492514",
     "title": "Tracts respecting Elizabeth Canning.",
     "notes": [
       {
@@ -38529,10 +38528,10 @@
         "type": "o"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14492514"
   },
   {
-    "bib_id": "14492901",
     "title": "Letter from Caroline of Brunswick to Lady Abercorn, 1810 May 3 : manuscript.",
     "notes": [
       {
@@ -38546,10 +38545,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14492901"
   },
   {
-    "bib_id": "14495578",
     "title": "Statistics on evacuees removed from Northern California from files on Wartime Civil Control Administration : Report on Japanese-Americans relocated in northern California from Western Relocation Division of WRA : typescript.",
     "notes": [
       {
@@ -38563,10 +38562,10 @@
         "type": "a"
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14495578"
   },
   {
-    "bib_id": "14511027",
     "title": "John Charles Frémont letter, New York, New York, to George Peabody, St. Nicholas Hotel, November 7 : manuscript.",
     "notes": [
       {
@@ -38585,10 +38584,10 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14511027"
   },
   {
-    "bib_id": "14519721",
     "title": "Letters to Anna, about Janet and the little house : typescript.",
     "notes": [
       {
@@ -38602,6 +38601,7 @@
         "type": ""
       }
     ],
-    "source": "zoe"
+    "source": "zoe",
+    "bib": "14519721"
   }
 ]

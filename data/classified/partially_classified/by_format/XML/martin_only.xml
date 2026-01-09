@@ -1,907 +1,907 @@
 <?xml version='1.0' encoding='utf-8'?>
 <records path="classified/partially_classified/by_format/XML/martin_only.xml"><record bib="14526311">
     <title>880-03 Kashf al-lithām ʻan asʼilat al-anām : manuscript / Ḥusayn ibn Muḥammad al-Maḥallī.</title>
-    <note type="a" num="1">Title from folio 1b.</note>
-    <note type="a" num="2">Romanization supplied by cataloger.</note>
-    <note type="w" num="3">Incipit: "Bismillāh al-Raḥmān al-Raḥīm, wa-bi-hi thiqatī. Ḥamdan li-man faqqaha fī al-dīn man irtaḍāhu min ʻibādih, fa-salakū minhāj al-rashād ʻalá wafq murādih, wa-ṣalātan wa-salāman ʻalá Sayyid al-Mursalīn, al-qāʼil 'Man yarid Allāh bi-hi khayran yufaqqihhu fī al-dīn', wa-ʻalá ālihi wa-aṣḥābihi wa-al-tābiʻīn wa-tābiʻīhim bi-iḥsān ilá Yawm al-Dīn. Wa-baʻd, fa-yaqūlu rājī ʻafwa Rabbihi wa-iḥsānah, wa-muʼammil min Allāh faḍla jūdihi wa-imtinānah, Ḥusayn ibn Muḥammad al-Maḥallī al-Shāfiʻī: Lammā kathura al-suʼāl ʻan waqāʼiʻ al-aḥwāl, wa-zāda al-ishtighāl fī al-ḥall wa-al-irtiḥāl, wa-qalla man yujību al-sāʼil bi-al-manqūl, wa-iʻtamad al-muftīyūn [al-muftūn] ʻalá jawāhir al-ʻuqūl, wa-rubbamā ajābū fī al-wāqiʻāt bi-ghayr mā qarrarahu al-aʼimmah min al-manqūlāt, aradtu an ajmaʻa mā yartāḥu bi-hi al-labīb wa-yakshufu al-karb ʻan kull muhimm gharīb ..."</note>
-    <note type="w" num="4">Secundo folio: al-sukhūnah wa-al-burūdah wa-māʼ diyār Thamūd.</note>
-    <note type="o" num="5">15.5 x 21.5 cm; written surface: 9.5 x 16.2 cm; 23 lines per page.</note>
-    <note type="o" num="6">Binding: Unbound (in 37 quires, mostly unnumbered).</note>
-    <note type="ow" num="7">In fair naskh/ruqʻah script, in black ink, on white paper; headings and markings in red; titles of the legal issues on the margins, preceded by the word "maṭlab" (question, issue, matter), catchwords.</note>
-    <note type="w" num="8">At the head of folio 1a: An endowment statement: "Awqafa hādhā al-kitāb Aḥmad Muḥammad al-Najjārī."</note>
-    <note type="" num="9">On folio 1a: "Kitāb Kashf al-lithām ʻan asʼilat al-anām, taʼlīf al-Imām al-ʻallāmah al-Shaykh Ḥusayn al-Maḥallī, raḥimahu Allāh. Āmīn."</note>
-    <note type="" num="10">On folio 1a: Quotations from the poetry of the author and his son Aḥmad.</note>
-    <note type="" num="11">On folio 1b: "... wa-sammaytuhu Kashf al-lithām ʻan asʼilat al-anām ..."</note>
-    <note type="" num="12">Author's colophon: "Wa-Allāh aʻlam. Wa-hādhā ākhir mā aradnā jamʻahu, jaʻalahu Allāh khāliṣan li-wajhihi al-karīm wa-mukhalliṣan min hawl al-karb al-ʻaẓīm, wa-fataḥa ʻalá man talaqqāhu bi-qalb salīm."</note>
-    <note type="" num="13">Translation of the author's colophon: "God is more knowledgeable. This is the end of what we wanted to compile. May God render it purely for the sake of His gracious face, and a means for deliverance from the torment of the horrible distress [Judgment Day]. May He reward him who wholeheartedly accepts it."</note>
-    <note type="" num="14">Copyist's colophon: "Wa-hādhihi al-nuskhah nuqilat min musawwadat muʼllifihā al-Shaykh Ḥusayn al-Maḥallāwī, nafaʻanā Allāh bi-ʻulūmihi wa-al-muslimīn. Thumma inna al-muʼallif bayyaḍa wa-jamaʻa nuskhatahu fī 15 shahr Shawwāl, sanat 1155. &lt;Āmīn&gt;. Wa-kāna al-farāgh min kitābat hādhihi al-nuskhah yawm al-Arbaʻ al-mubārak, 14 shahr Rajab al-ḥarām, alladhī huwa min shuhūr sanat alf wa-miʼah khamsah wa-thamānīn &lt;1175&gt;. Wa-Allāh aʻlam bi-al-ṣawāb. In tajid ʻayban fa-sudda al-khalalā // jalla man lā fīhi ʻaybun wa-ʻalā."</note>
-    <note type="" num="15">Translation of the copyist's colophon: "This copy was transcribed from the draft of its author al-Shaykh Ḥusayn al-Maḥallāwī, may God benefit [us] and the Muslims by his sciences. The author then wrote and compiled a fair copy, on 15 Shawwāl, 1155 [13 December, 1742]. &lt;Amen&gt;. This copy was completed on blessed Wednesday, 14 Rajab, 1185 [23 October, 1771]. &lt;1175&gt;. God is more knowledgeable of what is correct. If you were to find a blemish close the gap // Mighty and Sublime is the One in whom no blemish exists."</note>
+    <note type="a" note_num="1">Title from folio 1b.</note>
+    <note type="a" note_num="2">Romanization supplied by cataloger.</note>
+    <note type="w" note_num="3">Incipit: "Bismillāh al-Raḥmān al-Raḥīm, wa-bi-hi thiqatī. Ḥamdan li-man faqqaha fī al-dīn man irtaḍāhu min ʻibādih, fa-salakū minhāj al-rashād ʻalá wafq murādih, wa-ṣalātan wa-salāman ʻalá Sayyid al-Mursalīn, al-qāʼil 'Man yarid Allāh bi-hi khayran yufaqqihhu fī al-dīn', wa-ʻalá ālihi wa-aṣḥābihi wa-al-tābiʻīn wa-tābiʻīhim bi-iḥsān ilá Yawm al-Dīn. Wa-baʻd, fa-yaqūlu rājī ʻafwa Rabbihi wa-iḥsānah, wa-muʼammil min Allāh faḍla jūdihi wa-imtinānah, Ḥusayn ibn Muḥammad al-Maḥallī al-Shāfiʻī: Lammā kathura al-suʼāl ʻan waqāʼiʻ al-aḥwāl, wa-zāda al-ishtighāl fī al-ḥall wa-al-irtiḥāl, wa-qalla man yujību al-sāʼil bi-al-manqūl, wa-iʻtamad al-muftīyūn [al-muftūn] ʻalá jawāhir al-ʻuqūl, wa-rubbamā ajābū fī al-wāqiʻāt bi-ghayr mā qarrarahu al-aʼimmah min al-manqūlāt, aradtu an ajmaʻa mā yartāḥu bi-hi al-labīb wa-yakshufu al-karb ʻan kull muhimm gharīb ..."</note>
+    <note type="w" note_num="4">Secundo folio: al-sukhūnah wa-al-burūdah wa-māʼ diyār Thamūd.</note>
+    <note type="o" note_num="5">15.5 x 21.5 cm; written surface: 9.5 x 16.2 cm; 23 lines per page.</note>
+    <note type="o" note_num="6">Binding: Unbound (in 37 quires, mostly unnumbered).</note>
+    <note type="ow" note_num="7">In fair naskh/ruqʻah script, in black ink, on white paper; headings and markings in red; titles of the legal issues on the margins, preceded by the word "maṭlab" (question, issue, matter), catchwords.</note>
+    <note type="w" note_num="8">At the head of folio 1a: An endowment statement: "Awqafa hādhā al-kitāb Aḥmad Muḥammad al-Najjārī."</note>
+    <note type="" note_num="9">On folio 1a: "Kitāb Kashf al-lithām ʻan asʼilat al-anām, taʼlīf al-Imām al-ʻallāmah al-Shaykh Ḥusayn al-Maḥallī, raḥimahu Allāh. Āmīn."</note>
+    <note type="" note_num="10">On folio 1a: Quotations from the poetry of the author and his son Aḥmad.</note>
+    <note type="" note_num="11">On folio 1b: "... wa-sammaytuhu Kashf al-lithām ʻan asʼilat al-anām ..."</note>
+    <note type="" note_num="12">Author's colophon: "Wa-Allāh aʻlam. Wa-hādhā ākhir mā aradnā jamʻahu, jaʻalahu Allāh khāliṣan li-wajhihi al-karīm wa-mukhalliṣan min hawl al-karb al-ʻaẓīm, wa-fataḥa ʻalá man talaqqāhu bi-qalb salīm."</note>
+    <note type="" note_num="13">Translation of the author's colophon: "God is more knowledgeable. This is the end of what we wanted to compile. May God render it purely for the sake of His gracious face, and a means for deliverance from the torment of the horrible distress [Judgment Day]. May He reward him who wholeheartedly accepts it."</note>
+    <note type="" note_num="14">Copyist's colophon: "Wa-hādhihi al-nuskhah nuqilat min musawwadat muʼllifihā al-Shaykh Ḥusayn al-Maḥallāwī, nafaʻanā Allāh bi-ʻulūmihi wa-al-muslimīn. Thumma inna al-muʼallif bayyaḍa wa-jamaʻa nuskhatahu fī 15 shahr Shawwāl, sanat 1155. &lt;Āmīn&gt;. Wa-kāna al-farāgh min kitābat hādhihi al-nuskhah yawm al-Arbaʻ al-mubārak, 14 shahr Rajab al-ḥarām, alladhī huwa min shuhūr sanat alf wa-miʼah khamsah wa-thamānīn &lt;1175&gt;. Wa-Allāh aʻlam bi-al-ṣawāb. In tajid ʻayban fa-sudda al-khalalā // jalla man lā fīhi ʻaybun wa-ʻalā."</note>
+    <note type="" note_num="15">Translation of the copyist's colophon: "This copy was transcribed from the draft of its author al-Shaykh Ḥusayn al-Maḥallāwī, may God benefit [us] and the Muslims by his sciences. The author then wrote and compiled a fair copy, on 15 Shawwāl, 1155 [13 December, 1742]. &lt;Amen&gt;. This copy was completed on blessed Wednesday, 14 Rajab, 1185 [23 October, 1771]. &lt;1175&gt;. God is more knowledgeable of what is correct. If you were to find a blemish close the gap // Mighty and Sublime is the One in whom no blemish exists."</note>
   </record>
   <record bib="14526480">
     <title>880-02 Taʻlīm al-mutaʻallim ṭarīq al-taʻallum : manuscript / Burhān al-Dīn al-Zarnūjī.</title>
-    <note type="" num="1">Title of "Taʻlīm al-mutaʻallim ṭarīq al-taʻallum" from incipit (folio 9b).</note>
-    <note type="aw" num="2">Romanization supplied by cataloger.</note>
-    <note type="w" num="3">Incipit of the excerpt from "Majālis al-abrār wa-masālik al-akhyār": "Aʻūdhu billāh min al-Shayṭān al-rajīm. Bismillāh al-Raḥmān al-Raḥīm. al-Majlis al-ḥādī wa-al-thalāthūn: Fī bayān ṣadaqat al-fiṭr wa-aḥkām al-ʻīdayn wa-bayān al-bidaʻ fīhi [fīhimā]. Faraḍ Rasūl Allāh, ṣallá Allāh taʻālá ʻalayhi wa-sallam, zakāt al-Fiṭr ṭuhratan lil-ṣiyām min al-lahw wa-al-laghw wa-al-rifth wa-ṭuʻmatan lil-masākīn. Wa-hādhā al-Ḥadīth min ḥisān al-Maṣābīḥ, rawāhu Ibn ʻAbbās, wa-huwa yadullu ʻalá wujūb ṣadaqat al-Fiṭr, li-anna al-farḍ fī al-lughah bi-maʻná al-taqdīr, wa-fī al-sharʻ bi-maʻná al-ījāb. Wa-lafẓ al-Shāriʻ dāra bayna al-maʻná al-sharʻī wa-maʻná [wa-al-maʻná] al-lughawī, yataʻayyanu ḥamluhu ʻalá al-maʻná al-sharʻī mā amkana, li-anna al-ghālib min ḥāl al-Nabī, ʻalayhi al-salām, taʻrīf al-aḥkām dūn al-lughāt, fa-ʻalá hādhā yakūnu al-maʻná anna wujūb ṣadaqat al-Fiṭr ʻalá al-insān li-fāʼidatan ..."</note>
-    <note type="w" num="4">Secundo folio of the excerpt from "Majālis al-abrār wa-masālik al-akhyār": bi-al-mubāsharah wa-baʻḍuhum bi-al-mushāhadah.</note>
-    <note type="w" num="5">Incipit of "Taʻlīm al-mutaʻallim ṭarīq al-taʻallum": "Bismillāh al-Raḥmān al-Raḥīm. al-Ḥamdu lillāh alladhī faḍḍala banī Ādam bi-al-ʻilm wa-al-ʻamal ʻalá jamīʻ al-ʻālam, wa-al-ṣalāh ʻalá Muḥammad Sayyid al-ʻArab wa-al-ʻAjam, wa-ʻalá ālihi wa-aṣḥābih yanābīʻ al-ʻulūm wa-al-ḥikam. Wa-baʻd, fa-lammā raʼaytu kathīran min ṭullāb al-ʻilm fī zamāninā yajiddūna ilá al-ʻilm wa-lā yaṣilūn, wa-min manāfiʻihi wa-thamarātihi, wa-hiya al-ʻamal bi-hi wa-al-nashr yuḥramūn, limā annahum akhṭaʼū ṭarāʼiqahu wa-tarakū sharāʼiṭ [sharāʼiṭahu] &lt;annī&gt;, wa-kull man akhṭaʼa al-ṭarīq ḍalla, wa-lā yanālu al-maqṣūd qalla aw jalla, aradtu wa-aḥbabtu an ubayyina lahum ṭarīq al-taʻallum ʻalá mā raʼaytu fī al-Kitāb wa-samiʻtu min asātīdhī ulī al-ʻilm wa-al-ḥikam rajāʼ al-duʻāʼ lī min al-rāghibīn fīhi al-mukhliṣīn bi-al-fawz wa-al-khalāṣ fī Yawm al-Dīn mā istakhartu lillāh taʻālá fīhi, wa-sammaytuhu 'Taʻlīm al-mutaʻallim ṭarīq al-taʻallum', wa-jaʻaltuhu fuṣūlan ..."</note>
-    <note type="w" num="6">Secundo folio of "Taʻlīm al-mutaʻallim ṭarīq al-taʻallum": fī taʻẓīm al-ʻilm wa-ahlih.</note>
-    <note type="ow" num="7">15 x 21.5 cm; written surface: 10.5 x 17 cm; 15 lines per page. Written surface for the excerpt from "Majālis al-abrār wa-masālik al-akhyār": 13.5 x 19 cm; 17-19 lines per page.</note>
-    <note type="o" num="8">Binding: In cardboard binding.</note>
-    <note type="w" num="9">"Taʻlīm al-mutaʻallim ṭarīq al-taʻallum" is written in good naskh script, in black ink, on white paper; headings and markings in red; some notes on the margins; catchwords. The excerpt from "Majālis al-abrār wa-masālik al-akhyār" is written in fair naskh/ruqʻah script.</note>
-    <note type="w" num="10">On folio 1a: "Kitāb bi-hi Taʻallum al-mutaʻallim."</note>
-    <note type="?" num="11">On folio 1a: An endowment statement: "Waqf lillāh taʻālá."</note>
-    <note type="?" num="12">At the head of folio 2b: An endowment statement: "Waqf al-marḥūm ʻAbbās Bāshā."</note>
-    <note type="w" num="13">Folios 3b-9a are blank; text of "Taʻlī al-mutaʻallim ṭarīq al-taʻallum" (folios 9b-30a).</note>
-    <note type="w" num="14">On folio 9b: "Munājāt [Munājāh]. Lā ilāha illā Allāh, Muḥammad Rasūl Allāh. Lā ilāha illā Allāh, Muḥammad Rasūl Allāh. Hādhā kitāb Taʻlīm mutaʻallim."</note>
-    <note type="w" num="15">Colophon of the excerpt from "Majālis al-abrār wa-masālik al-akhyār": No colophon. Text ends abruptly with: "... Naʻam. Inna hādhihi al-ayyām ayām faraḥ wa-surūr, lākin yanbaghī an yakūna iẓhār al-faraḥ wa-al-surūr fīhā bi-mā kāna mubāḥan aw mustaḥabban, ka-al-ightisāl wa-al-taṭayyub wa-lays [wa-libs] aḥsan al-sayyiʼāt [al-thiyāb?] al-mubāḥah allatī takūn jadīdah aw ghasīlah ʻalá mā sayajīʼ, lā bi-mā kāna ḥarām [ḥarāman], ka-libs al-ḥarīr wa-al-khawḍ fī al-bāṭil, li-anna al-ʻīd innamā summiya ʻīdan li-annahu taʻālá yaʻūdu fīhi ʻalá al-muʼmin bi-al-maghfirah wa-al-iḥsān, fa-yajibu ʻalayhim an yajtanibū al-maʻṣiyah wa-al-ṭughyān ḥattá yakūnū min ahl al-saʻādah wa-al-ruḍwān, lā min ahl al-shaqāwah wa-al-khidhlān. Wa-qad ḥukiya ʻan baʻḍ al-ʻārifīn annahu [marra] yawm al-ʻīd bi-qawm yalʻabūn wa-yaḍḥakūn, fa-qāl: In kāna tuqubilla min hāʼulāʼ lazimahum an yashkurū wa-laysa hādhā fiʻl al-shākirīn, wa-in kāna lam tuqubilla [yutaqabbal] minhum lazimahum an yakhāfū wa-laysa hādhā fiʻl al-khāʼifīn. Thumma yanbaghī an yuʻlam anna baʻḍ al-nās qad zaʻamū anna ..."</note>
-    <note type="w" num="16">Colophon of "Taʻlīm al-mutaʻallim ṭarīq al-taʻallum": "Wa-al-ḥamdu lillāh awwalan wa-ākhiran. Wa-al-ḥamdu lillāh ʻalá al-tamām. Wa-al-ṣalāh ʻalá Sayyidinā Muḥammad khayr al-anām, wa-ʻalá ālihi wa-aṣḥābihi ajmaʻīn. 18 Dhī al-Ḥijjah, sanat 1191."</note>
-    <note type="w" num="17">Translation of the colophon of "Taʻlīm al-mutaʻallim ṭarīq al-taʻallum": "Praise be to God at the beginning and at the end. Praise be to God for the completion. May prayer be upon our Master Muḥammad, the best of mankind, and upon his family and all his companions. 18 Dhū al-Ḥijjah, the year 1191 [of the Hijrah = 17 January, 1778]."</note>
+    <note type="" note_num="1">Title of "Taʻlīm al-mutaʻallim ṭarīq al-taʻallum" from incipit (folio 9b).</note>
+    <note type="aw" note_num="2">Romanization supplied by cataloger.</note>
+    <note type="w" note_num="3">Incipit of the excerpt from "Majālis al-abrār wa-masālik al-akhyār": "Aʻūdhu billāh min al-Shayṭān al-rajīm. Bismillāh al-Raḥmān al-Raḥīm. al-Majlis al-ḥādī wa-al-thalāthūn: Fī bayān ṣadaqat al-fiṭr wa-aḥkām al-ʻīdayn wa-bayān al-bidaʻ fīhi [fīhimā]. Faraḍ Rasūl Allāh, ṣallá Allāh taʻālá ʻalayhi wa-sallam, zakāt al-Fiṭr ṭuhratan lil-ṣiyām min al-lahw wa-al-laghw wa-al-rifth wa-ṭuʻmatan lil-masākīn. Wa-hādhā al-Ḥadīth min ḥisān al-Maṣābīḥ, rawāhu Ibn ʻAbbās, wa-huwa yadullu ʻalá wujūb ṣadaqat al-Fiṭr, li-anna al-farḍ fī al-lughah bi-maʻná al-taqdīr, wa-fī al-sharʻ bi-maʻná al-ījāb. Wa-lafẓ al-Shāriʻ dāra bayna al-maʻná al-sharʻī wa-maʻná [wa-al-maʻná] al-lughawī, yataʻayyanu ḥamluhu ʻalá al-maʻná al-sharʻī mā amkana, li-anna al-ghālib min ḥāl al-Nabī, ʻalayhi al-salām, taʻrīf al-aḥkām dūn al-lughāt, fa-ʻalá hādhā yakūnu al-maʻná anna wujūb ṣadaqat al-Fiṭr ʻalá al-insān li-fāʼidatan ..."</note>
+    <note type="w" note_num="4">Secundo folio of the excerpt from "Majālis al-abrār wa-masālik al-akhyār": bi-al-mubāsharah wa-baʻḍuhum bi-al-mushāhadah.</note>
+    <note type="w" note_num="5">Incipit of "Taʻlīm al-mutaʻallim ṭarīq al-taʻallum": "Bismillāh al-Raḥmān al-Raḥīm. al-Ḥamdu lillāh alladhī faḍḍala banī Ādam bi-al-ʻilm wa-al-ʻamal ʻalá jamīʻ al-ʻālam, wa-al-ṣalāh ʻalá Muḥammad Sayyid al-ʻArab wa-al-ʻAjam, wa-ʻalá ālihi wa-aṣḥābih yanābīʻ al-ʻulūm wa-al-ḥikam. Wa-baʻd, fa-lammā raʼaytu kathīran min ṭullāb al-ʻilm fī zamāninā yajiddūna ilá al-ʻilm wa-lā yaṣilūn, wa-min manāfiʻihi wa-thamarātihi, wa-hiya al-ʻamal bi-hi wa-al-nashr yuḥramūn, limā annahum akhṭaʼū ṭarāʼiqahu wa-tarakū sharāʼiṭ [sharāʼiṭahu] &lt;annī&gt;, wa-kull man akhṭaʼa al-ṭarīq ḍalla, wa-lā yanālu al-maqṣūd qalla aw jalla, aradtu wa-aḥbabtu an ubayyina lahum ṭarīq al-taʻallum ʻalá mā raʼaytu fī al-Kitāb wa-samiʻtu min asātīdhī ulī al-ʻilm wa-al-ḥikam rajāʼ al-duʻāʼ lī min al-rāghibīn fīhi al-mukhliṣīn bi-al-fawz wa-al-khalāṣ fī Yawm al-Dīn mā istakhartu lillāh taʻālá fīhi, wa-sammaytuhu 'Taʻlīm al-mutaʻallim ṭarīq al-taʻallum', wa-jaʻaltuhu fuṣūlan ..."</note>
+    <note type="w" note_num="6">Secundo folio of "Taʻlīm al-mutaʻallim ṭarīq al-taʻallum": fī taʻẓīm al-ʻilm wa-ahlih.</note>
+    <note type="ow" note_num="7">15 x 21.5 cm; written surface: 10.5 x 17 cm; 15 lines per page. Written surface for the excerpt from "Majālis al-abrār wa-masālik al-akhyār": 13.5 x 19 cm; 17-19 lines per page.</note>
+    <note type="o" note_num="8">Binding: In cardboard binding.</note>
+    <note type="w" note_num="9">"Taʻlīm al-mutaʻallim ṭarīq al-taʻallum" is written in good naskh script, in black ink, on white paper; headings and markings in red; some notes on the margins; catchwords. The excerpt from "Majālis al-abrār wa-masālik al-akhyār" is written in fair naskh/ruqʻah script.</note>
+    <note type="w" note_num="10">On folio 1a: "Kitāb bi-hi Taʻallum al-mutaʻallim."</note>
+    <note type="?" note_num="11">On folio 1a: An endowment statement: "Waqf lillāh taʻālá."</note>
+    <note type="?" note_num="12">At the head of folio 2b: An endowment statement: "Waqf al-marḥūm ʻAbbās Bāshā."</note>
+    <note type="w" note_num="13">Folios 3b-9a are blank; text of "Taʻlī al-mutaʻallim ṭarīq al-taʻallum" (folios 9b-30a).</note>
+    <note type="w" note_num="14">On folio 9b: "Munājāt [Munājāh]. Lā ilāha illā Allāh, Muḥammad Rasūl Allāh. Lā ilāha illā Allāh, Muḥammad Rasūl Allāh. Hādhā kitāb Taʻlīm mutaʻallim."</note>
+    <note type="w" note_num="15">Colophon of the excerpt from "Majālis al-abrār wa-masālik al-akhyār": No colophon. Text ends abruptly with: "... Naʻam. Inna hādhihi al-ayyām ayām faraḥ wa-surūr, lākin yanbaghī an yakūna iẓhār al-faraḥ wa-al-surūr fīhā bi-mā kāna mubāḥan aw mustaḥabban, ka-al-ightisāl wa-al-taṭayyub wa-lays [wa-libs] aḥsan al-sayyiʼāt [al-thiyāb?] al-mubāḥah allatī takūn jadīdah aw ghasīlah ʻalá mā sayajīʼ, lā bi-mā kāna ḥarām [ḥarāman], ka-libs al-ḥarīr wa-al-khawḍ fī al-bāṭil, li-anna al-ʻīd innamā summiya ʻīdan li-annahu taʻālá yaʻūdu fīhi ʻalá al-muʼmin bi-al-maghfirah wa-al-iḥsān, fa-yajibu ʻalayhim an yajtanibū al-maʻṣiyah wa-al-ṭughyān ḥattá yakūnū min ahl al-saʻādah wa-al-ruḍwān, lā min ahl al-shaqāwah wa-al-khidhlān. Wa-qad ḥukiya ʻan baʻḍ al-ʻārifīn annahu [marra] yawm al-ʻīd bi-qawm yalʻabūn wa-yaḍḥakūn, fa-qāl: In kāna tuqubilla min hāʼulāʼ lazimahum an yashkurū wa-laysa hādhā fiʻl al-shākirīn, wa-in kāna lam tuqubilla [yutaqabbal] minhum lazimahum an yakhāfū wa-laysa hādhā fiʻl al-khāʼifīn. Thumma yanbaghī an yuʻlam anna baʻḍ al-nās qad zaʻamū anna ..."</note>
+    <note type="w" note_num="16">Colophon of "Taʻlīm al-mutaʻallim ṭarīq al-taʻallum": "Wa-al-ḥamdu lillāh awwalan wa-ākhiran. Wa-al-ḥamdu lillāh ʻalá al-tamām. Wa-al-ṣalāh ʻalá Sayyidinā Muḥammad khayr al-anām, wa-ʻalá ālihi wa-aṣḥābihi ajmaʻīn. 18 Dhī al-Ḥijjah, sanat 1191."</note>
+    <note type="w" note_num="17">Translation of the colophon of "Taʻlīm al-mutaʻallim ṭarīq al-taʻallum": "Praise be to God at the beginning and at the end. Praise be to God for the completion. May prayer be upon our Master Muḥammad, the best of mankind, and upon his family and all his companions. 18 Dhū al-Ḥijjah, the year 1191 [of the Hijrah = 17 January, 1778]."</note>
   </record>
   <record bib="14527714">
     <title>J. L. Manning letter, Prophetstown, Illinois, to H. Keeling, Amboy, Illinois, 1865 June 13 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Removed from: Samuel Lockwood Papers (MS 726).</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Removed from: Samuel Lockwood Papers (MS 726).</note>
   </record>
   <record bib="14544620">
     <title>California merchant ledger : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Note on cover: "Appendage to the ledger".</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Note on cover: "Appendage to the ledger".</note>
   </record>
   <record bib="14567124">
     <title>Parish reports : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">3 reports bound separately and laid in an earlier recycled binding, circa 1740.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">3 reports bound separately and laid in an earlier recycled binding, circa 1740.</note>
   </record>
   <record bib="14607419">
     <title>Santa Fe Pacific Railroad Company audit book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Embossed on spine: “Bills No. 1 / From June 1st 1904 to / S.F.P.R.R. Co. / Audit Office”.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Embossed on spine: “Bills No. 1 / From June 1st 1904 to / S.F.P.R.R. Co. / Audit Office”.</note>
   </record>
   <record bib="14610015">
     <title>“Joe” letter, Dawson City, Yukon, to “Dear Mother sister and kids”, 1898 March 12 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a typed transcript made by Michael D. Heaston.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a typed transcript made by Michael D. Heaston.</note>
   </record>
   <record bib="14615972">
     <title>Paul Van Thorniley diary : typescript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Typescript note accompanying journal: “Original manuscript of a diary kept by Paul Van Thorniley (my great uncle) covering his trip from Seattle to Dawson in 1898 in search of gold”.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Typescript note accompanying journal: “Original manuscript of a diary kept by Paul Van Thorniley (my great uncle) covering his trip from Seattle to Dawson in 1898 in search of gold”.</note>
   </record>
   <record bib="14625001">
     <title>James Judd letter, Farmington, Utah, to Henry W. Nichols, Vandergrift, Pennsylvania, 1912 February 16 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a partial manuscript transcription made by an unidentified transcriber.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a partial manuscript transcription made by an unidentified transcriber.</note>
   </record>
   <record bib="14625010">
     <title>Catalogue of the prints of Jacques Callot : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Bound in late 19th- early 20th-century red morocco, all edges gilt; paper watermarked 1794.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Bound in late 19th- early 20th-century red morocco, all edges gilt; paper watermarked 1794.</note>
   </record>
   <record bib="14741047">
     <title>Scrapbook concerning Glacier National Park and Yellowstone National Park : manuscript.</title>
-    <note type="" num="1">Most pages are unbound.</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
+    <note type="" note_num="1">Most pages are unbound.</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
   </record>
   <record bib="14741083">
     <title>Peter Jones declaration of faith : manuscript.</title>
-    <note type="" num="1">Likely removed from a volume. The recto, with Jones's declaration of faith, is numbered 205. On the verso, numbered 206, are two religious compositions by John Bird. One is untitled and dated 1834, and the other is a religious poem entitled To the Moon and dated 1837.</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
+    <note type="" note_num="1">Likely removed from a volume. The recto, with Jones's declaration of faith, is numbered 205. On the verso, numbered 206, are two religious compositions by John Bird. One is untitled and dated 1834, and the other is a religious poem entitled To the Moon and dated 1837.</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
   </record>
   <record bib="14785374">
     <title>Fragment containing medical recipes.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Script: various documentary hands.</note>
-    <note type="" num="3">No content on verso of either leaf. Used as binding waste.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Script: various documentary hands.</note>
+    <note type="" note_num="3">No content on verso of either leaf. Used as binding waste.</note>
   </record>
   <record bib="14796570">
     <title>Carbon Hill Coal Company ledger : manuscript.</title>
-    <note type="" num="1">From spine: "Journal 1 C.H.C. Co."</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
-    <note type="" num="3">Water damage and stains on first 30 leaves of ledger.</note>
+    <note type="" note_num="1">From spine: "Journal 1 C.H.C. Co."</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
+    <note type="" note_num="3">Water damage and stains on first 30 leaves of ledger.</note>
   </record>
   <record bib="14798892">
     <title>Des Moines city planning notebook : manuscript.</title>
-    <note type="" num="1">Stamped on first page: This book is property of City of Des Moines Engineering Department.</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
+    <note type="" note_num="1">Stamped on first page: This book is property of City of Des Moines Engineering Department.</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
   </record>
   <record bib="14974452">
     <title>James L. Bowers declaration concerning slavery in Maryland : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by later printouts of related newspaper clippings from 1858.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by later printouts of related newspaper clippings from 1858.</note>
   </record>
   <record bib="14992991">
     <title>Japanese national defense review following American and Russian naval expeditions : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Volume in original wrappers, with later stitching.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Volume in original wrappers, with later stitching.</note>
   </record>
   <record bib="15008003">
     <title>Petaluma, California tax ledger : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">From front cover: Petaluma Township No. 1</note>
-    <note type="" num="3">Several loose sheets have been laid in throughout the volume.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">From front cover: Petaluma Township No. 1</note>
+    <note type="" note_num="3">Several loose sheets have been laid in throughout the volume.</note>
   </record>
   <record bib="15350401">
     <title>Records of vestry minutes and accounts : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Bound in contemporary reversed calf.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Bound in contemporary reversed calf.</note>
   </record>
   <record bib="15360935">
     <title>Records of Odd Fellows Woolwich No. 4 Lodge : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Bound in original vellum, ruled in blind and fainty incribed in ink ‘ODD FELLOWS’.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Bound in original vellum, ruled in blind and fainty incribed in ink ‘ODD FELLOWS’.</note>
   </record>
   <record bib="15366626">
     <title>[Collection of broadsides issued by the Tottenham Park Association].</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Broadsides printed by Harold and Emberlin, Marlborough, England.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Broadsides printed by Harold and Emberlin, Marlborough, England.</note>
   </record>
   <record bib="15378225">
     <title>John Tregerthen Short diary : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Neat manuscript in brown ink on lined paper; bound in twentieth-century quarter calf with nonpareil marbled boards, spine gilt in compartments, red morocco lettering piece in one.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Neat manuscript in brown ink on lined paper; bound in twentieth-century quarter calf with nonpareil marbled boards, spine gilt in compartments, red morocco lettering piece in one.</note>
   </record>
   <record bib="15524473">
     <title>M. W. Holley letter, Fort Yamhill, Oregon,  to "Dear Hazen", 1857 May 31 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
   </record>
   <record bib="15525708">
     <title>James Cooper McKee letter, New York, New York, to George Hannah, 1881 January 11 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Removed from: James Cooper McKee, Narrative of the surrender of a command of U.S. forces at Fort Fillmore, N.M., in July, 1861, at the breaking out of the civil war (New York, 1881) (call number Zc54 878mab).</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Removed from: James Cooper McKee, Narrative of the surrender of a command of U.S. forces at Fort Fillmore, N.M., in July, 1861, at the breaking out of the civil war (New York, 1881) (call number Zc54 878mab).</note>
   </record>
   <record bib="15532127">
     <title>Thomas Nuttall letter, Fort George, to John Kirk Townsend, Fort Vancouver, 1835 October 11 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
   </record>
   <record bib="15533541">
     <title>William H. Powell letter, Fort Morgan, Colorado, to Christopher Columbus Augur, Omaha, Nebraska, 1867 August 11 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Removed from: William H. Powell, A history of the organization and movements of the 4th regiment of Infantry, U.S.A., 1796-1870 (Washington City, M'Gill &amp; Witherow, 1871) (call number Zc10 871po).</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Removed from: William H. Powell, A history of the organization and movements of the 4th regiment of Infantry, U.S.A., 1796-1870 (Washington City, M'Gill &amp; Witherow, 1871) (call number Zc10 871po).</note>
   </record>
   <record bib="15533673">
     <title>William Jenkins Worth letter, Puebla, Mexico, to "My dear General", 1847 May 30 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
   </record>
   <record bib="15542774">
     <title>Lillias and Sophia Stuart music album : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">With an etched title-page with decorative border, lettered ‘Sold by Rt. Birchall, No 133, New Bond Street’ at foot. Birchall was a publisher and music and musical instrument seller who traded from 133 New Bond Street from 1789 to 1819.</note>
-    <note type="" num="3">Pages are ruled with staves; a small musical addition is pinned to the foot of one page.</note>
-    <note type="" num="4">Bound in original(?) tree sheep, rebacked.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">With an etched title-page with decorative border, lettered ‘Sold by Rt. Birchall, No 133, New Bond Street’ at foot. Birchall was a publisher and music and musical instrument seller who traded from 133 New Bond Street from 1789 to 1819.</note>
+    <note type="" note_num="3">Pages are ruled with staves; a small musical addition is pinned to the foot of one page.</note>
+    <note type="" note_num="4">Bound in original(?) tree sheep, rebacked.</note>
   </record>
   <record bib="15543034">
     <title>P. H. Perkins letter, Todd's Valley, California, to "Brother Cobb", 1859 May 29 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
   </record>
   <record bib="15544068">
     <title>Payment order for ranch surveys : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Removed from: A Sketch of the life of Peter Donahue, of San Francisco, 1822-1885 (San Francisco: Crocker &amp; Company, 1888) (call number Zc72 +888sk).</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Removed from: A Sketch of the life of Peter Donahue, of San Francisco, 1822-1885 (San Francisco: Crocker &amp; Company, 1888) (call number Zc72 +888sk).</note>
   </record>
   <record bib="15547067">
     <title>T. L. Price letter, Saint Louis, Missouri, to John S. Phelps, 1853 April 30 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
   </record>
   <record bib="15563930">
     <title>Reverend Stopford album of invoices and receipts, mathematical workbook : printed text and manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Bound in contemporary blind-ruled vellum.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Bound in contemporary blind-ruled vellum.</note>
   </record>
   <record bib="15578164">
     <title>Land deed to Edward Otho Cresap Ord : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
   </record>
   <record bib="15579161">
     <title>Franklin Pierce letter, Concord, New Hampshire, to James K. Polk, 1847 February 1 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
   </record>
   <record bib="15579428">
     <title>Robert T. Barry journals : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Bindings: half calf over marbled boards. With bookseller's ticket to the front pastedown of each volume: Rua do Ouvidor no. 36. O livro encarnado loja de papel ... de J. C. Bouvier. Rio de Janeiro.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Bindings: half calf over marbled boards. With bookseller's ticket to the front pastedown of each volume: Rua do Ouvidor no. 36. O livro encarnado loja de papel ... de J. C. Bouvier. Rio de Janeiro.</note>
   </record>
   <record bib="15580852">
     <title>New Bedford Anti Slavery Society minute book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Binding: contemporary half-calf over marbled paper boards.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Binding: contemporary half-calf over marbled paper boards.</note>
   </record>
   <record bib="15581661">
     <title>Julia Nichols Tyesi letter, Middledrift, Cape Province, South Africa, to Helen Burrell, Asbury Park, New Jersey, 1934 August 15 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Date from postmark.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Date from postmark.</note>
   </record>
   <record bib="15583086">
     <title>Maurice Baring commonplace book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Date from presentation inscription on the verso of the front free endpaper: Diana's Monday present from Maurice Baring November 19, Monday 1928.</note>
-    <note type="" num="3">Accompanied by dealer description showing provenance from John Julius Norwich, Diana Cooper's son.</note>
-    <note type="" num="4">Binding: silk-covered boards.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Date from presentation inscription on the verso of the front free endpaper: Diana's Monday present from Maurice Baring November 19, Monday 1928.</note>
+    <note type="" note_num="3">Accompanied by dealer description showing provenance from John Julius Norwich, Diana Cooper's son.</note>
+    <note type="" note_num="4">Binding: silk-covered boards.</note>
   </record>
   <record bib="15584661">
     <title>Letter to Mr. Jess : typescript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Place and date of production from evidence in photographs affixed to page [1].</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Place and date of production from evidence in photographs affixed to page [1].</note>
   </record>
   <record bib="15585239">
     <title>Bradford E. Williams scrapbook : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Material removed from a pocket leaf ring binder and rehoused in archival folders after acquisition.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Material removed from a pocket leaf ring binder and rehoused in archival folders after acquisition.</note>
   </record>
   <record bib="15607078">
     <title>Mary, Queen of Scots letter to Gilbert Kennedy, Earl of Cassilis.</title>
-    <note type="" num="1">Signed: "Marie R." in cursive.</note>
-    <note type="" num="2">Integral address panel on verso.</note>
-    <note type="" num="3">Script: secretary (letter text).</note>
-    <note type="" num="4">Bookseller description available.</note>
-    <note type="a" num="5">Title devised by cataloger.</note>
+    <note type="" note_num="1">Signed: "Marie R." in cursive.</note>
+    <note type="" note_num="2">Integral address panel on verso.</note>
+    <note type="" note_num="3">Script: secretary (letter text).</note>
+    <note type="" note_num="4">Bookseller description available.</note>
+    <note type="a" note_num="5">Title devised by cataloger.</note>
   </record>
   <record bib="15607083">
     <title>Henry VIII, King of England letter signed, to Sir Richard Long and Michael Stanhope.</title>
-    <note type="" num="1">Signed: "Henry R." at the head of the text, preceded by the words "By the king." Remains of signet seal.</note>
-    <note type="" num="2">Integral address panel on verso.</note>
-    <note type="" num="3">Script: secretary (letter text).</note>
-    <note type="" num="4">Bookseller description available.</note>
-    <note type="a" num="5">Title devised by cataloger.</note>
+    <note type="" note_num="1">Signed: "Henry R." at the head of the text, preceded by the words "By the king." Remains of signet seal.</note>
+    <note type="" note_num="2">Integral address panel on verso.</note>
+    <note type="" note_num="3">Script: secretary (letter text).</note>
+    <note type="" note_num="4">Bookseller description available.</note>
+    <note type="a" note_num="5">Title devised by cataloger.</note>
   </record>
   <record bib="15607110">
     <title>[Haloid Company photographic papers sample book].</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Place of creation and date supplied by cataloger.</note>
-    <note type="" num="3">Captions in the negative.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Place of creation and date supplied by cataloger.</note>
+    <note type="" note_num="3">Captions in the negative.</note>
   </record>
   <record bib="15607749">
     <title>French royal household accounts from reign of Louis XIII : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Script: French chancery secretary.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Script: French chancery secretary.</note>
   </record>
   <record bib="15653179">
     <title>John T. Harcourt petition for the Jesse Green, Jr. estate's sale of Dew and Rachael : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Docket title from verso: "Petition for sale of negroes" .</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Docket title from verso: "Petition for sale of negroes" .</note>
   </record>
   <record bib="15662580">
     <title>W. Burt scrapbook : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">The compiler is unidentified. Content associated with the Burt family includes the leather label on the front cover, a watercolor drawing of Cannington Church signed by "Lieut. T.S. Burt" and annotated "Rev. Charles H. Burt," and newspaper clipping of a wedding announcement for Major Thomas Seymour Burt, F.R.S., and Elizabeth, widow of Thomas Seaton Forman, Esq., of Pippbrook House, Surrey.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">The compiler is unidentified. Content associated with the Burt family includes the leather label on the front cover, a watercolor drawing of Cannington Church signed by "Lieut. T.S. Burt" and annotated "Rev. Charles H. Burt," and newspaper clipping of a wedding announcement for Major Thomas Seymour Burt, F.R.S., and Elizabeth, widow of Thomas Seaton Forman, Esq., of Pippbrook House, Surrey.</note>
   </record>
   <record bib="15665670">
     <title>Olivia Wilmot Serres poems : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript note tipped in: "The red book which you will find was once the lamented Princess Charlotte Coburgh's book."</note>
-    <note type="" num="3">Bound in red morocco with gilt tooling.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript note tipped in: "The red book which you will find was once the lamented Princess Charlotte Coburgh's book."</note>
+    <note type="" note_num="3">Bound in red morocco with gilt tooling.</note>
   </record>
   <record bib="15669211">
     <title>James Pemberton correspondence : manuscript copy.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Pages are numbered 29 through 32.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Pages are numbered 29 through 32.</note>
   </record>
   <record bib="15680750">
     <title>[Photographs relating to Jean-Michel Basquiat and Kelle Jean Inman].</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Place and date of creation supplied by cataloger.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Place and date of creation supplied by cataloger.</note>
   </record>
   <record bib="15685766">
     <title>[Photographs of Van Masters van club].</title>
-    <note type="" num="1">Place of creation supplied by cataloger.</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
-    <note type="" num="3">Date of creation on verso: 1976-1978.</note>
+    <note type="" note_num="1">Place of creation supplied by cataloger.</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
+    <note type="" note_num="3">Date of creation on verso: 1976-1978.</note>
   </record>
   <record bib="15698130">
     <title>[Photograph album of a soldier’s tour of duty of Burma, China, and India].</title>
-    <note type="" num="1">Place of creation supplied by cataloger.</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
-    <note type="" num="3">Date devised by cataloger.</note>
+    <note type="" note_num="1">Place of creation supplied by cataloger.</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
+    <note type="" note_num="3">Date devised by cataloger.</note>
   </record>
   <record bib="15757437">
     <title>Notes and formulas for the preparation of paints, varnishes, oils, etc. : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">The date of production is estimated from the watermark on one of the accompanying notes.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">The date of production is estimated from the watermark on one of the accompanying notes.</note>
   </record>
   <record bib="15810091">
     <title>Diary describing travels in Italy and Switzerland : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Date is extrapolated based on the stationary from the Grand Hotel Locarno that is dated "190_" with the end digit left blank to be filled in. Of the years from 1900 to 1909, the dates and days of the week in the diary align with the year 1906.</note>
-    <note type="" num="3">Three different types of stationary are included. Four sheets are from the Grand Hotel Locarno with an engraved headpiece of the hotel and surrounding landscape. Two sheets are from Hotel Bear in Grindelwald bearing a wood engraving illustration of the hotel and nearby glacier accompanied by two other decorative illustrated scenes. Two sheets are from the Grand Hotel Thunerhof with an engraved headpiece of the hotel alongside Hotel Bellevue.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Date is extrapolated based on the stationary from the Grand Hotel Locarno that is dated "190_" with the end digit left blank to be filled in. Of the years from 1900 to 1909, the dates and days of the week in the diary align with the year 1906.</note>
+    <note type="" note_num="3">Three different types of stationary are included. Four sheets are from the Grand Hotel Locarno with an engraved headpiece of the hotel and surrounding landscape. Two sheets are from Hotel Bear in Grindelwald bearing a wood engraving illustration of the hotel and nearby glacier accompanied by two other decorative illustrated scenes. Two sheets are from the Grand Hotel Thunerhof with an engraved headpiece of the hotel alongside Hotel Bellevue.</note>
   </record>
   <record bib="15811939">
     <title>Draft announcement on the employment of boys from the Blue Coat Hospital in Manchester : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Writing is only on one side of the sheet.</note>
-    <note type="" num="3">Last two digits of the date are unclear.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Writing is only on one side of the sheet.</note>
+    <note type="" note_num="3">Last two digits of the date are unclear.</note>
   </record>
   <record bib="15814068">
     <title>Letter from Edward Fullbrook to an unidentified recipient : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">"In the matter of a petition filed on behalf Edward Fullbrook, formerly of Summer-town, St Giles', Oxford, and late of Woodcott, Southstoke, Oxford, Yeoman, being a person of unsound mind, and a prisoner in the gaol of Oxford Castle, in the County of Oxford. Whereas it appears to the court, by the record of William Henry Ashhurst, esq. one of Her Majesty's Justices of the Peace for the said county, made and certified to the court by the said Justice of the Peace, according to the statue in that behalf, that the said prisoner is of unsound mind, and therefore incapable of taking the benefit of the said act in such manner as a person of sound mind might do ... it is ordered and appointed, that application shall be made to the court for the discharge of the said prisoner, at the court-house, in Portugal Street, Lincoln's-Inn-Fields, on the 25th day of November 1839, at the hour of ten in the forenoon precisely, in order that the court may proceed to the discharge of said prisoner, if otherwise entitled thereto according to the true intent and meaning of the said act."--London Gazette, 1839 November 1.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">"In the matter of a petition filed on behalf Edward Fullbrook, formerly of Summer-town, St Giles', Oxford, and late of Woodcott, Southstoke, Oxford, Yeoman, being a person of unsound mind, and a prisoner in the gaol of Oxford Castle, in the County of Oxford. Whereas it appears to the court, by the record of William Henry Ashhurst, esq. one of Her Majesty's Justices of the Peace for the said county, made and certified to the court by the said Justice of the Peace, according to the statue in that behalf, that the said prisoner is of unsound mind, and therefore incapable of taking the benefit of the said act in such manner as a person of sound mind might do ... it is ordered and appointed, that application shall be made to the court for the discharge of the said prisoner, at the court-house, in Portugal Street, Lincoln's-Inn-Fields, on the 25th day of November 1839, at the hour of ten in the forenoon precisely, in order that the court may proceed to the discharge of said prisoner, if otherwise entitled thereto according to the true intent and meaning of the said act."--London Gazette, 1839 November 1.</note>
   </record>
   <record bib="15815395">
     <title>Letter from James I to an unidentified recipient : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">On the folded sheet, there is writing on only the recto of the first page. The other pages are blank.</note>
-    <note type="" num="3">Autograph letter signed by James I.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">On the folded sheet, there is writing on only the recto of the first page. The other pages are blank.</note>
+    <note type="" note_num="3">Autograph letter signed by James I.</note>
   </record>
   <record bib="15816578">
     <title>Letter from Albert, Prince Consort, to Prince Victor of Hohenlohe-Langenburg : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">There is writing on only one side of the folded leaf.</note>
-    <note type="" num="3">Date of production is derived from the date of Prince Ernst's death.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">There is writing on only one side of the folded leaf.</note>
+    <note type="" note_num="3">Date of production is derived from the date of Prince Ernst's death.</note>
   </record>
   <record bib="15817320">
     <title>Letter from Albert, Prince Consort, to an unidentified recipient : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">There is writing on only two pages of the folded sheet. The recto pages are decorated with a gold crown stamp in the top left corner.</note>
-    <note type="" num="3">The Mr. Meyer referenced in the letter may likely be William Meyer, Stallmeister and Master of the Horse, who was a part of the royal household. He retired from royal service in 1871. The Lord Albemarl referenced in the letter may likely be William Keppel, 4th Earl of Albemarle, who was the Master of Horse, under Lord Melbourne.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">There is writing on only two pages of the folded sheet. The recto pages are decorated with a gold crown stamp in the top left corner.</note>
+    <note type="" note_num="3">The Mr. Meyer referenced in the letter may likely be William Meyer, Stallmeister and Master of the Horse, who was a part of the royal household. He retired from royal service in 1871. The Lord Albemarl referenced in the letter may likely be William Keppel, 4th Earl of Albemarle, who was the Master of Horse, under Lord Melbourne.</note>
   </record>
   <record bib="15879564">
     <title>Music and songs : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Engraved title page: "Vaudeville. Menuets, contradances, et air detachées. Chanté sur les théâtres des comedies française et italienne ... A Paris Chez Madame Boivin ...".</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Engraved title page: "Vaudeville. Menuets, contradances, et air detachées. Chanté sur les théâtres des comedies française et italienne ... A Paris Chez Madame Boivin ...".</note>
   </record>
   <record bib="15886369">
     <title>The History of little Jack : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Title from title page: "(The Little Jack) Il Piccolo Nanni Storia del Sig: Tommaso Day Volgarizzata da Tomasso Parker".</note>
-    <note type="" num="3">From title page: "Firenze 1832".</note>
-    <note type="" num="4">Binding: contemporary half sheep and marbled paper boards.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Title from title page: "(The Little Jack) Il Piccolo Nanni Storia del Sig: Tommaso Day Volgarizzata da Tomasso Parker".</note>
+    <note type="" note_num="3">From title page: "Firenze 1832".</note>
+    <note type="" note_num="4">Binding: contemporary half sheep and marbled paper boards.</note>
   </record>
   <record bib="15887800">
     <title>Recipe book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">From title page: "Extrait simple, et aisé de diverse façons de travailler tant en gras, qu'en maigre du cuisinier moderne".</note>
-    <note type="" num="3">Binding: contemporary speckled paper over boards.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">From title page: "Extrait simple, et aisé de diverse façons de travailler tant en gras, qu'en maigre du cuisinier moderne".</note>
+    <note type="" note_num="3">Binding: contemporary speckled paper over boards.</note>
   </record>
   <record bib="15887908">
     <title>Pierre Denis Dardenne medical recipe book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Title from title page: "Traité d'ostéologie contenant la maladie des os et les accidents qui leur arriuent. Tiré de la chirurgie complette de Mr. Dionis Docteur en Medecine. Avec un traité des simples les plus en usage. Le tout ecrit par moy Pierre Denis Dardenne etudiant en chirurgie".</note>
-    <note type="" num="3">Binding: contemporary calf.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Title from title page: "Traité d'ostéologie contenant la maladie des os et les accidents qui leur arriuent. Tiré de la chirurgie complette de Mr. Dionis Docteur en Medecine. Avec un traité des simples les plus en usage. Le tout ecrit par moy Pierre Denis Dardenne etudiant en chirurgie".</note>
+    <note type="" note_num="3">Binding: contemporary calf.</note>
   </record>
   <record bib="15898511">
     <title>Margaret Emma Caldwell diaries : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Volume 1, spanning the period 21 September 1812 - 24 December 1814, is written in brown ink in a single hand on paper watermarked 1810; bound in contemporary quarter reversed calf over marbled boards.</note>
-    <note type="" num="3">Volume 2, spanning the period 7 February 1819 - 30 September 1820, is written in brown ink in a single hand on paper watermarked 1816; bound in contemporary marbled wrappers, with remains of red wax seal to upper cover.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Volume 1, spanning the period 21 September 1812 - 24 December 1814, is written in brown ink in a single hand on paper watermarked 1810; bound in contemporary quarter reversed calf over marbled boards.</note>
+    <note type="" note_num="3">Volume 2, spanning the period 7 February 1819 - 30 September 1820, is written in brown ink in a single hand on paper watermarked 1816; bound in contemporary marbled wrappers, with remains of red wax seal to upper cover.</note>
   </record>
   <record bib="15935711">
     <title>Hannah More letter, Barley Wood, to Dr. Percival, October 14 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Date based on Hannah More's period of residence at Barley Wood; she built the house on the estate in 1801, and she moved from there to Bristol in 1828.</note>
-    <note type="" num="3">Single sheet, with address on verso.</note>
-    <note type="" num="4">Recipient of the letter is possibly Thomas Percival (1740-1804).</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Date based on Hannah More's period of residence at Barley Wood; she built the house on the estate in 1801, and she moved from there to Bristol in 1828.</note>
+    <note type="" note_num="3">Single sheet, with address on verso.</note>
+    <note type="" note_num="4">Recipient of the letter is possibly Thomas Percival (1740-1804).</note>
   </record>
   <record bib="15940323">
     <title>Diary in Turkey and Greece : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">With ink stamp: "Exbibl. Princ. Const. Karadja."</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">With ink stamp: "Exbibl. Princ. Const. Karadja."</note>
   </record>
   <record bib="15945283">
     <title>Richard Merrick letter, Jericho, St. Thos. in the Vale, to John Harfield Tredgold, London, 1840 January 10 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Verso of second leaf with address panel and postal markings.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Verso of second leaf with address panel and postal markings.</note>
   </record>
   <record bib="15945323">
     <title>Thomas Sutton commonplace book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">The first page is dated "November 5th 1819". Only the first approximately 120 leaves are used; all entries dated 1819-1824 apart from several leaves dated 1826. The watercolor drawing is on paper watermarked "Newton 1816".</note>
-    <note type="" num="3">Original printed paper-covered boards (lacks spine covering), hand-ruled ink outer border. With Thomas Sutton's ownership label pasted on inside front cover.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">The first page is dated "November 5th 1819". Only the first approximately 120 leaves are used; all entries dated 1819-1824 apart from several leaves dated 1826. The watercolor drawing is on paper watermarked "Newton 1816".</note>
+    <note type="" note_num="3">Original printed paper-covered boards (lacks spine covering), hand-ruled ink outer border. With Thomas Sutton's ownership label pasted on inside front cover.</note>
   </record>
   <record bib="15947966">
     <title>John Le Capelain letter to J.J. Gabousel : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Address and date, "15 New King Street May 2o 1841," are written at the head of the letter. Each page of the letter is numbered in the top corner. The letter also features traces of the original wax seal near the written address to "J.J. Gabourel [illegible] of Colomberie, St Heliers, Jersey."</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Address and date, "15 New King Street May 2o 1841," are written at the head of the letter. Each page of the letter is numbered in the top corner. The letter also features traces of the original wax seal near the written address to "J.J. Gabourel [illegible] of Colomberie, St Heliers, Jersey."</note>
   </record>
   <record bib="15952369">
     <title>Remarks on the Battle of Buena Vista by Brevet Major Carleton : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Removed from: James Henry Carleton, The Battle of Buena Vista (New York: Harper and Brothers, 1848) (copy discarded).</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Removed from: James Henry Carleton, The Battle of Buena Vista (New York: Harper and Brothers, 1848) (copy discarded).</note>
   </record>
   <record bib="15956397">
     <title>Bakumatsu era reports and letters : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">On double leaves, traditional East Asian binding style (fukurotoji).</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">On double leaves, traditional East Asian binding style (fukurotoji).</note>
   </record>
   <record bib="15963391">
     <title>Manuscript book of verses : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Ink monogram stamp "EC" on inside front cover, possibly that of Rev. Edward Cooper (1727-1792).</note>
-    <note type="" num="3">Bound in speckled sheep.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Ink monogram stamp "EC" on inside front cover, possibly that of Rev. Edward Cooper (1727-1792).</note>
+    <note type="" note_num="3">Bound in speckled sheep.</note>
   </record>
   <record bib="15968633">
     <title>Album relating to Richard Parkes Bonington : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">A reproduction of a painting, "The Coast of Picardy," by Bonington from the Wallace Collection is inserted in the volume behind the front flyleaf.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">A reproduction of a painting, "The Coast of Picardy," by Bonington from the Wallace Collection is inserted in the volume behind the front flyleaf.</note>
   </record>
   <record bib="15972388">
     <title>Lacovia Plantation account book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Signed on final page: "Errors excepted the 26th April 1746 Rose Fuller attorney to John Hodges Esq.".</note>
-    <note type="" num="3">Binding: paper wrappers, the front cover printed with an engraving captioned "Capt. George Lowther and his company at Port Mayo in the Gulph of Matique".</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Signed on final page: "Errors excepted the 26th April 1746 Rose Fuller attorney to John Hodges Esq.".</note>
+    <note type="" note_num="3">Binding: paper wrappers, the front cover printed with an engraving captioned "Capt. George Lowther and his company at Port Mayo in the Gulph of Matique".</note>
   </record>
   <record bib="15974079">
     <title>Sir Everard Home letter books containing letters to Sir James Everard Home : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Signed by William Clift on the final page of volume two: "W.C. 1820".</note>
-    <note type="" num="3">Engraved booksellers' ticket on the front pastedown of volume two: "Made &amp; sold by Rowe &amp; Waller. Stationers, late Marsh &amp; Dunsford, 49, Fleet Street, London.".</note>
-    <note type="" num="4">Binding: matching set in full leather with blind and gilt tooled panels and gilt tooled spines.</note>
-    <note type="" num="5">Box 1: volume one. Box 2: volume two.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Signed by William Clift on the final page of volume two: "W.C. 1820".</note>
+    <note type="" note_num="3">Engraved booksellers' ticket on the front pastedown of volume two: "Made &amp; sold by Rowe &amp; Waller. Stationers, late Marsh &amp; Dunsford, 49, Fleet Street, London.".</note>
+    <note type="" note_num="4">Binding: matching set in full leather with blind and gilt tooled panels and gilt tooled spines.</note>
+    <note type="" note_num="5">Box 1: volume one. Box 2: volume two.</note>
   </record>
   <record bib="15980461">
     <title>Mary Linwood letter, to an unidentified recipient, July 27, about trilobite and fossil specimens she has obtained : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">The address "No. 75 Oxford Terrace, Hyde Park. 27th July" is written at the head of the letter.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">The address "No. 75 Oxford Terrace, Hyde Park. 27th July" is written at the head of the letter.</note>
   </record>
   <record bib="15982183">
     <title>Sir Henry Holland papers, 1805-1868 (bulk 1805-1843).</title>
-    <note type="" num="1">Box 1 contains six volumes: "Essays on Various Subjects" including "On the Doctrine of Necessity" and "On the Nature &amp; Origin of Human Passions &amp; Affections," with a translation from Sophocles laid in, 1805-1806; "Journal in Spain," 1812; "Journal in Lombardy, Austria, Prussia, &amp;c.," 1815; "Sketches in Italy &amp; Germany, Belgium, &amp;c." [includes Hungary and Holland], 1815; "Journal in the North of Italy and France," 1816; and "Journey to Spa" [Belgium and France], 1818. Box 2 contains two volumes: "No. I," 1812; and "Vol. II," 1830-1843.</note>
-    <note type="" num="2">Boxes 3-6 contain two copies each of Holland's General View of the Agriculture of Cheshire (1813), and Recollections of Past Life (1868). All were cataloged separately.</note>
-    <note type="a" num="3">Title devised by cataloger.</note>
-    <note type="" num="4">In contemporary bindings.</note>
+    <note type="" note_num="1">Box 1 contains six volumes: "Essays on Various Subjects" including "On the Doctrine of Necessity" and "On the Nature &amp; Origin of Human Passions &amp; Affections," with a translation from Sophocles laid in, 1805-1806; "Journal in Spain," 1812; "Journal in Lombardy, Austria, Prussia, &amp;c.," 1815; "Sketches in Italy &amp; Germany, Belgium, &amp;c." [includes Hungary and Holland], 1815; "Journal in the North of Italy and France," 1816; and "Journey to Spa" [Belgium and France], 1818. Box 2 contains two volumes: "No. I," 1812; and "Vol. II," 1830-1843.</note>
+    <note type="" note_num="2">Boxes 3-6 contain two copies each of Holland's General View of the Agriculture of Cheshire (1813), and Recollections of Past Life (1868). All were cataloged separately.</note>
+    <note type="a" note_num="3">Title devised by cataloger.</note>
+    <note type="" note_num="4">In contemporary bindings.</note>
   </record>
   <record bib="15985480">
     <title>Admission ticket for the Mary Linwood exhibition at Hanover Sqr. Concert Rooms, 1802 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">The ticket is accompanied by a newspaper clipping with a printed portrait of "the Late Miss Linwood," and the caption text "Miss Linwood, of the Exhibition of Needlework, in Leicester-square, died in March, 1845. She was then in her ninetieth year." The admission ticket and the portrait are mounted together on a larger sheet of blue paper.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">The ticket is accompanied by a newspaper clipping with a printed portrait of "the Late Miss Linwood," and the caption text "Miss Linwood, of the Exhibition of Needlework, in Leicester-square, died in March, 1845. She was then in her ninetieth year." The admission ticket and the portrait are mounted together on a larger sheet of blue paper.</note>
   </record>
   <record bib="16005058">
     <title>Albert Henry Warren scrapbook.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Binding: rough stitching, without covers.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Binding: rough stitching, without covers.</note>
   </record>
   <record bib="16005223">
     <title>Robert Bruce letter concerning the wax sculpture of his mother, Rose Bruce : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">The sculpture described in the present letter is now in the collections of the Yale Center for British Art. See link herewith.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">The sculpture described in the present letter is now in the collections of the Yale Center for British Art. See link herewith.</note>
   </record>
   <record bib="16015135">
     <title>Westfield School Society records of the Westfield School District : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript title: “Records of the West Ville. West School. District from 1835 April 14th.”</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript title: “Records of the West Ville. West School. District from 1835 April 14th.”</note>
   </record>
   <record bib="16025227">
     <title>Dialing notebook : manuscript.</title>
-    <note type="" num="1">Binding: contemporary sheep over boards.</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
+    <note type="" note_num="1">Binding: contemporary sheep over boards.</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
   </record>
   <record bib="16026249">
     <title>Philadelphia, Pennsylvania municipal charter : manuscript copy.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript note at end: “A true Copy taken from the original.”</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript note at end: “A true Copy taken from the original.”</note>
   </record>
   <record bib="16026273">
     <title>William MacMurdo Duncan scrapbook : printed text and manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Approximately 40 pages with clippings and broadsheets, and an equivalent number of blanks; dates of the printed matter range from the 1790s to approximately 1815. Among the loosely inserted items is a manuscript poem dated 14 March 1816.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Approximately 40 pages with clippings and broadsheets, and an equivalent number of blanks; dates of the printed matter range from the 1790s to approximately 1815. Among the loosely inserted items is a manuscript poem dated 14 March 1816.</note>
   </record>
   <record bib="16036593">
     <title>Ojibwa dictionary : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript title on first page: “Indian Dictionary.”</note>
-    <note type="" num="3">C. Nohounskawa is penciled onto the cover.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript title on first page: “Indian Dictionary.”</note>
+    <note type="" note_num="3">C. Nohounskawa is penciled onto the cover.</note>
   </record>
   <record bib="16041386">
     <title>The Lord’s prayer : manuscript copy.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript note accompanying text: “found in old copy of [Joseph Nicoll] Scott’s English Dictionary of 1764.”</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript note accompanying text: “found in old copy of [Joseph Nicoll] Scott’s English Dictionary of 1764.”</note>
   </record>
   <record bib="16047759">
     <title>Daniel Boardman sermon : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Sermon is in a wrapper with a manuscript note by Donald Lines Jacobus detailing its provenance.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Sermon is in a wrapper with a manuscript note by Donald Lines Jacobus detailing its provenance.</note>
   </record>
   <record bib="16051878">
     <title>David Ely sermon : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Sermon is identified as No. 444.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Sermon is identified as No. 444.</note>
   </record>
   <record bib="16057966">
     <title>James Lockwood sermon : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Sermon is identified as "No. 419."</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Sermon is identified as "No. 419."</note>
   </record>
   <record bib="16058900">
     <title>Henry A. Lovell account book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Stamp on first page: "Henry A. Lovell / Dealer In Dry Goods, Groceries, Etc., / Alstead, N.H."</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Stamp on first page: "Henry A. Lovell / Dealer In Dry Goods, Groceries, Etc., / Alstead, N.H."</note>
   </record>
   <record bib="16066545">
     <title>Thomas Bradbury Chandler sermon : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Sermon is noted as having been preached on 1752 January 5, 1752 December 17, and 1754 September 26.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Sermon is noted as having been preached on 1752 January 5, 1752 December 17, and 1754 September 26.</note>
   </record>
   <record bib="16066559">
     <title>Samuel Checkley sermon : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Sermon is noted as being preached 1741 May 24, 1742 September 26, and 1742 October 17.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Sermon is noted as being preached 1741 May 24, 1742 September 26, and 1742 October 17.</note>
   </record>
   <record bib="16067321">
     <title>James Eckersall account book for 1731 and 1732 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Bound with Rider's British Merlin (1732).</note>
-    <note type="" num="3">Manuscript booklabel on verso of front flyleaf: "James Eckersall Clerk of the Kitchin to His Majesty at St. Iames's."</note>
-    <note type="" num="4">Presentation inscription on verso of front flyleaf: "Clara Wynne from Clara M Eckersall May 1870."</note>
-    <note type="" num="5">Binding: late 17th-century full red morocco; multipanel, heavily gold-tooled and stamped; central lozenge contaning double-headed thistle. Two metal bosses on front cover. Marbled end papers. Remnants of pocket.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Bound with Rider's British Merlin (1732).</note>
+    <note type="" note_num="3">Manuscript booklabel on verso of front flyleaf: "James Eckersall Clerk of the Kitchin to His Majesty at St. Iames's."</note>
+    <note type="" note_num="4">Presentation inscription on verso of front flyleaf: "Clara Wynne from Clara M Eckersall May 1870."</note>
+    <note type="" note_num="5">Binding: late 17th-century full red morocco; multipanel, heavily gold-tooled and stamped; central lozenge contaning double-headed thistle. Two metal bosses on front cover. Marbled end papers. Remnants of pocket.</note>
   </record>
   <record bib="16067451">
     <title>Ephraim Griswold Swift sermon : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Sermon is noted as having been preached 1842 August 7 and 1845 December 14.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Sermon is noted as having been preached 1842 August 7 and 1845 December 14.</note>
   </record>
   <record bib="16076032">
     <title>Roger Sherman account book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">The first 40 pages of the volume have been torn out--only portions remain.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">The first 40 pages of the volume have been torn out--only portions remain.</note>
   </record>
   <record bib="16077977">
     <title>José de Gálvez letter to Antonio Maria Bucareli y Ursùa, 1776 August 12 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">No. 31 of 54 items bound together.</note>
-    <note type="" num="3">Docket title: "...Virrey de Nueva España...debe costease el Juicio de la Inquisición de Mexico la conducción de los Reos sentenciados...".</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">No. 31 of 54 items bound together.</note>
+    <note type="" note_num="3">Docket title: "...Virrey de Nueva España...debe costease el Juicio de la Inquisición de Mexico la conducción de los Reos sentenciados...".</note>
   </record>
   <record bib="16090299">
     <title>Justus Forward sermon : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Sermons are numbered No. 237-240.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Sermons are numbered No. 237-240.</note>
   </record>
   <record bib="16091246">
     <title>James Wallace Bentley diary : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a typescript transcript made by an unidentified transcriber.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a typescript transcript made by an unidentified transcriber.</note>
   </record>
   <record bib="16096225">
     <title>Nehemiah Walter sermons : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript note on back cover: “This manuscript belongs to Rev. Wills.”</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript note on back cover: “This manuscript belongs to Rev. Wills.”</note>
   </record>
   <record bib="16096247">
     <title>Samuel John Mills sermon : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript note on front cover: “This was given me by the father of the Rev S. J. Mills whose life [illegible].”</note>
-    <note type="" num="3">Accompanied by a manuscript note detailing the item’s provenance.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript note on front cover: “This was given me by the father of the Rev S. J. Mills whose life [illegible].”</note>
+    <note type="" note_num="3">Accompanied by a manuscript note detailing the item’s provenance.</note>
   </record>
   <record bib="16099439">
     <title>Architecture notebook relating to the papal conclave of 1689 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Spine title: Study d'archit[ettura] d[i] santif[icato] conclav[e] di Cav[aliere] Fon[tana].</note>
-    <note type="" num="3">Binding: Contemporary vellum over boards; raised bands and gilt lettering piece on spine. Inscribed in manuscript at foot of spine: "MSS 90".</note>
-    <note type="" num="4">Monogram ink stamp on front flyleaf recto: "UB RMS". Ink stamp on verso of last leaf: "51310".</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Spine title: Study d'archit[ettura] d[i] santif[icato] conclav[e] di Cav[aliere] Fon[tana].</note>
+    <note type="" note_num="3">Binding: Contemporary vellum over boards; raised bands and gilt lettering piece on spine. Inscribed in manuscript at foot of spine: "MSS 90".</note>
+    <note type="" note_num="4">Monogram ink stamp on front flyleaf recto: "UB RMS". Ink stamp on verso of last leaf: "51310".</note>
   </record>
   <record bib="16099454">
     <title>Jonathan Edwards agreement with the town of Bolton, Connecticut : photostatic copy.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Catalog card notes item as being a “Photostatic reproduction of Bolton town records, 1723, vol.1, p.8-9.”</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Catalog card notes item as being a “Photostatic reproduction of Bolton town records, 1723, vol.1, p.8-9.”</note>
   </record>
   <record bib="16111692">
     <title>Hartford and New-Haven Turnpike Company account of expenditures : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Removed from: United States. Dept. of the Treasury, An account of the receipts and expenditures of the United States for the year 1803 (Washington City : [s.n., 1804?]) (call number BEIN NNj10 A5 1803).</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Removed from: United States. Dept. of the Treasury, An account of the receipts and expenditures of the United States for the year 1803 (Washington City : [s.n., 1804?]) (call number BEIN NNj10 A5 1803).</note>
   </record>
   <record bib="16113072">
     <title>Pilot guide for the Spanish frigate Juno : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">First leaf inscribed: Libro derrotero para el uso de D[o]n BRTE[?] BGCTES[?] alférez de fragata de la R[ea]l Arm[a]da se acabó de escrivir oy dia 13 del mes de Junio, abordo de la fragata de S. M. nombrada Sn. Francisco Xavier, (alias) la Juno, viniendo de buelta de su viage de Manila para el Puerto de Cadiz el Año de 1780.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">First leaf inscribed: Libro derrotero para el uso de D[o]n BRTE[?] BGCTES[?] alférez de fragata de la R[ea]l Arm[a]da se acabó de escrivir oy dia 13 del mes de Junio, abordo de la fragata de S. M. nombrada Sn. Francisco Xavier, (alias) la Juno, viniendo de buelta de su viage de Manila para el Puerto de Cadiz el Año de 1780.</note>
   </record>
   <record bib="16130291">
     <title>Document recommending Leverett A. Hemingway for post of prison inspector : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Removed from: Daniel Walter Strickland, Connecticut fights; the story of the 102nd regiment (New Haven: Quinnipiack Press, c1930) (call number: BI73m +930s).</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Removed from: Daniel Walter Strickland, Connecticut fights; the story of the 102nd regiment (New Haven: Quinnipiack Press, c1930) (call number: BI73m +930s).</note>
   </record>
   <record bib="16143298">
     <title>Benjamin Tallmadge letter, Wethersfield, Connecticut, to Nathan Hale, New London, Connecticut, 1774 July 4 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a typed transcript made by an unidentified transcriber.</note>
   </record>
   <record bib="16146837">
     <title>[Photograph of musician figurines in front of jazz albums].</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Date of creation supplied by cataloger.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Date of creation supplied by cataloger.</note>
   </record>
   <record bib="16152334">
     <title>George Berkeley letter, Rhode Island, to Henry Newman, Holborn, London, 1730 March 29 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanied by a typed transcript made by an unidentified transcriber, a negative photostatic copy of the letter, and a typescript providing some context for the letter.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanied by a typed transcript made by an unidentified transcriber, a negative photostatic copy of the letter, and a typescript providing some context for the letter.</note>
   </record>
   <record bib="16168951">
     <title>Religious miscellany : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Layout: single columns of 17-18 lines.</note>
-    <note type="" num="3">Script: polustav (semiuncial).</note>
-    <note type="" num="4">Decoration: 4 fold-out and 63 full-page miniatures. Rubrication.</note>
-    <note type="" num="5">Binding: Contemporary blind-tooled calf, clasps broken.</note>
-    <note type="" num="6">Manuscripts annotations in multiple hands on front and rear pastedowns and flyleaves. Unidentified shelfmark: по списку, n. 15 (po spisku). Stamp: Printed in Soviet Union.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Layout: single columns of 17-18 lines.</note>
+    <note type="" note_num="3">Script: polustav (semiuncial).</note>
+    <note type="" note_num="4">Decoration: 4 fold-out and 63 full-page miniatures. Rubrication.</note>
+    <note type="" note_num="5">Binding: Contemporary blind-tooled calf, clasps broken.</note>
+    <note type="" note_num="6">Manuscripts annotations in multiple hands on front and rear pastedowns and flyleaves. Unidentified shelfmark: по списку, n. 15 (po spisku). Stamp: Printed in Soviet Union.</note>
   </record>
   <record bib="16175767">
     <title>Ezekiel Cheever notes of a Boston, Massachusetts prayer meeting : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript note on inside front cover: “Contains autographs of Schoolmaster Ezekiel Cheever and his son Thomas, and others. The constitution is in the old schoolmaster’s chirography. HMD.”</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript note on inside front cover: “Contains autographs of Schoolmaster Ezekiel Cheever and his son Thomas, and others. The constitution is in the old schoolmaster’s chirography. HMD.”</note>
   </record>
   <record bib="16201316">
     <title>Volume of two tracts of John Eliot : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript note opposite title page: “The two tracts, in these pages following continued, I have copied with the greatest care, with my own hand, from the originals (supposed to be unique) which were in my possession [...] Henry M. Dexter. Hillside, Roxbury. 21 April, 1864.”</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript note opposite title page: “The two tracts, in these pages following continued, I have copied with the greatest care, with my own hand, from the originals (supposed to be unique) which were in my possession [...] Henry M. Dexter. Hillside, Roxbury. 21 April, 1864.”</note>
   </record>
   <record bib="16201465">
     <title>Thomas Cartwright letters against Brownism : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript note opposite first title page: “Copied for me, in the spring of 1871; by A. A. Burt.”</note>
-    <note type="" num="3">Manuscript note opposite second title page: “The answer unto a letter of Master Harrisons, which follows, I have copied from a book in Dr. Williams’s Library [...] London, 19 May, 1871. H.M.D.”</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript note opposite first title page: “Copied for me, in the spring of 1871; by A. A. Burt.”</note>
+    <note type="" note_num="3">Manuscript note opposite second title page: “The answer unto a letter of Master Harrisons, which follows, I have copied from a book in Dr. Williams’s Library [...] London, 19 May, 1871. H.M.D.”</note>
   </record>
   <record bib="16216657">
     <title>Henry Martyn Dexter abstract of Robert Harrison’s A little treatise vppon the firste verse of the 122. Psalm : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript note opposite title page: “This is a little book of Robert Harrison’s [...] I have made this abstract from the copy in the British Museum [3090.a.] having given in full the title page and preface, and the pith of what bears upon the Church Government Controversy. 15 Nov. 1871. HMD.”</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript note opposite title page: “This is a little book of Robert Harrison’s [...] I have made this abstract from the copy in the British Museum [3090.a.] having given in full the title page and preface, and the pith of what bears upon the Church Government Controversy. 15 Nov. 1871. HMD.”</note>
   </record>
   <record bib="16219148">
     <title>Eleazer Wheelock letter to Joseph Bellamy, Bethlehem, Connecticut, 1742 April 11 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">No. 2 of 3 titles bound together.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">No. 2 of 3 titles bound together.</note>
   </record>
   <record bib="16219183">
     <title>James Davenport letter "to the Revd. moderator of ye Association of ye County of Lichfield" : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">No. 3 of 3 titles bound together.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">No. 3 of 3 titles bound together.</note>
   </record>
   <record bib="16221393">
     <title>Francis White letter to “Mr. Young” : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Removed from: Francis White, The Philadelphia directory (Philadelphia : Printed by Young, Stewart, and M'Culloch, in Chesnut-Street, M,DCC,LXXXV. [1785]) (call number 2004 1386).</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Removed from: Francis White, The Philadelphia directory (Philadelphia : Printed by Young, Stewart, and M'Culloch, in Chesnut-Street, M,DCC,LXXXV. [1785]) (call number 2004 1386).</note>
   </record>
   <record bib="16267802">
     <title>Dialing notebook : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Bound with John Edwards, Directions for Making the Best Composition of Casting, Grinding and Polishing, and Giving Them the True Parabolic Figure, London, [1783?], and another autograph notebook on astronomical instruments. Number 3 of 3 titles bound together. Volume extent: 356 pages.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Bound with John Edwards, Directions for Making the Best Composition of Casting, Grinding and Polishing, and Giving Them the True Parabolic Figure, London, [1783?], and another autograph notebook on astronomical instruments. Number 3 of 3 titles bound together. Volume extent: 356 pages.</note>
   </record>
   <record bib="16268344">
     <title>Notebook of astronomical instruments : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Bound with John Edwards, Directions for Making the Best Composition of Casting, Grinding and Polishing, and Giving Them the True Parabolic Figure, London, [1783?], and an autograph notebook on dailing. Number 2 of 3 titles bound together. Volume extent: 356 pages.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Bound with John Edwards, Directions for Making the Best Composition of Casting, Grinding and Polishing, and Giving Them the True Parabolic Figure, London, [1783?], and an autograph notebook on dailing. Number 2 of 3 titles bound together. Volume extent: 356 pages.</note>
   </record>
   <record bib="16336449">
     <title>Hans Smit advertisements of medicines : typescript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Accompanying typescript note: "One of two copies used as end papers in a copy in contemporary binding of "Sermons of Master John Calvin upon the book of Job" translated out of the French by Arthur Golding. / Colophon: Imprinted at London. Henrie Binneman for Lucas Harrison &amp; George Bishop. Anno. 1574. / These broadsides were noticed in August 1919 and taken out."</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Accompanying typescript note: "One of two copies used as end papers in a copy in contemporary binding of "Sermons of Master John Calvin upon the book of Job" translated out of the French by Arthur Golding. / Colophon: Imprinted at London. Henrie Binneman for Lucas Harrison &amp; George Bishop. Anno. 1574. / These broadsides were noticed in August 1919 and taken out."</note>
   </record>
   <record bib="16341083">
     <title>Program for 1914 concert featuring the music and songs of Black composers, performed at Ebenezer Methodist Episcopal Church, Jacksonville, Florida : typescript / printed by Chas. J. Lightsy, 615 W. Duval St.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Title on the front cover is "Programme : A Chorus of Thirty Voices presents Negro Music as written by the foremost Negro composers under auspices of Ladies' Auxiliary of Provident Hospital at Ebenezer Methodist Episcopal Church."</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Title on the front cover is "Programme : A Chorus of Thirty Voices presents Negro Music as written by the foremost Negro composers under auspices of Ladies' Auxiliary of Provident Hospital at Ebenezer Methodist Episcopal Church."</note>
   </record>
   <record bib="16345183">
     <title>Livres de Pierre Lecuire: Exposition à la Bibliothèque Nationale de France : videorecording / Architecte de l'exposition Frédéric Beauclair Réalisation: Jean-Louis Laforêt Assisté de: Jean-François Bauret Arthur Cemin Musique: Erich Wolfgang Korngold.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">The date of the item was estimated based on information from the label and the date of acquisition.</note>
-    <note type="" num="3">Autograph note on paper adhered to back of case: Gift to the Beinecke Library from Pierre Lecuire. 14.02.2003 2/5.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">The date of the item was estimated based on information from the label and the date of acquisition.</note>
+    <note type="" note_num="3">Autograph note on paper adhered to back of case: Gift to the Beinecke Library from Pierre Lecuire. 14.02.2003 2/5.</note>
   </record>
   <record bib="16369969">
     <title>Press release containing Willa Robertson's prize-winning essay My experiences with integration : typescript.</title>
-    <note type="" num="1">Date estimated from textual clues and Tougaloo Southern Christian College's 1962 name change to Tougaloo College.</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
-    <note type="" num="3">On United Negro College Fund letterhead.</note>
+    <note type="" note_num="1">Date estimated from textual clues and Tougaloo Southern Christian College's 1962 name change to Tougaloo College.</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
+    <note type="" note_num="3">On United Negro College Fund letterhead.</note>
   </record>
   <record bib="16371425">
     <title>Notes on religion, care of the body, monarchy, and other subjects : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Binding: sheep over wood boards.</note>
-    <note type="" num="3">To view associated print record, search by call number: Obsorn fpb93.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Binding: sheep over wood boards.</note>
+    <note type="" note_num="3">To view associated print record, search by call number: Obsorn fpb93.</note>
   </record>
   <record bib="16383772">
     <title>Verena Roy notebook : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Dates based on textual information.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Dates based on textual information.</note>
   </record>
   <record bib="16393294">
     <title>Program for Dark cavalcade : a drama with music, presented by the Negro Little Theatre of Norwalk : typescript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Originally stapled together as a single volume; staples removed due to preservation concerns.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Originally stapled together as a single volume; staples removed due to preservation concerns.</note>
   </record>
   <record bib="16423337">
     <title>A list and short description of the birds of the United States according to Alexander Wilson's American ornithology : manuscript.</title>
-    <note type="" num="1">Date estimated from information printed on original slipcase.</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
-    <note type="" num="3">Two pages are numbered 100.</note>
+    <note type="" note_num="1">Date estimated from information printed on original slipcase.</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
+    <note type="" note_num="3">Two pages are numbered 100.</note>
   </record>
   <record bib="16427980">
     <title>Richard Polwhele notebooks : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">The first ten volumes have been roughly stitched together (much of the sewing now broken), many with their original marble wrappers. The second also sewn together and numbered I-VII.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">The first ten volumes have been roughly stitched together (much of the sewing now broken), many with their original marble wrappers. The second also sewn together and numbered I-VII.</note>
   </record>
   <record bib="16428028">
     <title>Journal and commonplace book of a young lady, 30 September 1794 : manuscript and printed text.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Pagination: 86; 35, [33, blanks], [12, pages containing pasted-in newspaper scraps, engravings].</note>
-    <note type="" num="3">Bound in contemporary full calf, red morocco label to front board stamped in gold "Journal" and with a paper label with a title in manuscript "Young lady's journal of 1794" in later hand. Rebacked.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Pagination: 86; 35, [33, blanks], [12, pages containing pasted-in newspaper scraps, engravings].</note>
+    <note type="" note_num="3">Bound in contemporary full calf, red morocco label to front board stamped in gold "Journal" and with a paper label with a title in manuscript "Young lady's journal of 1794" in later hand. Rebacked.</note>
   </record>
   <record bib="16428438">
     <title>Diary : manuscript.</title>
-    <note type="" num="1">Includes a transcript of the diary provided by the bookseller.</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
+    <note type="" note_num="1">Includes a transcript of the diary provided by the bookseller.</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
   </record>
   <record bib="16473451">
     <title>Copy of letter to Rufus Ingalls and table of distances from Walla Walla to Salt Lake City, 1858 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Date of copy based on contextual information provided by the items in WA MSS S-4021 In4.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Date of copy based on contextual information provided by the items in WA MSS S-4021 In4.</note>
   </record>
   <record bib="16476902">
     <title>George Foljambe pocket book recording expenditure in London : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Numbering: 27 unnumbered pages, tabbed index, 90, 2 unnumbered pages.</note>
-    <note type="" num="3">In contemporary plain vellum wallet binding; faded contemporary ink titling to back cover: George Foljambe ... 1733 ... 1734.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Numbering: 27 unnumbered pages, tabbed index, 90, 2 unnumbered pages.</note>
+    <note type="" note_num="3">In contemporary plain vellum wallet binding; faded contemporary ink titling to back cover: George Foljambe ... 1733 ... 1734.</note>
   </record>
   <record bib="16491608">
     <title>John Seton notebook of private expenses : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Manuscript in ink; octavo; 18 numbered pages interleaved with blanks, with seven blank leaves at the end; stitched as issued in contemporary limp calf.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Manuscript in ink; octavo; 18 numbered pages interleaved with blanks, with seven blank leaves at the end; stitched as issued in contemporary limp calf.</note>
   </record>
   <record bib="16548396">
     <title>James Weldon Johnson letter, to Charles H. Wesley, 1937 August 11 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Place of production from stationery: Five Acres, Seekonk Road, Great Barrington, Mass.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Place of production from stationery: Five Acres, Seekonk Road, Great Barrington, Mass.</note>
   </record>
   <record bib="16582496">
     <title>John H. Pleasonton letter to his father, 1823 June 13.</title>
-    <note type="" num="1">Autograph letter, signed.</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
+    <note type="" note_num="1">Autograph letter, signed.</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
   </record>
   <record bib="16592391">
     <title>Citizen Kane : pre-production script, a Mercury Production : typescript / direction-production Orson Welles ; screenplay Herman J. Mankiewicz [and] Orson Welles.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Typescript draft has original wrappers with split pins. Includes two leaves numbered 69. Autograph note, signed by Harriett Roeg, in pencil on title page: "From the library of Nicolas Roeg."</note>
-    <note type="" num="3">Accompanying letter is on Beverly Wilshire Hotel stationery.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Typescript draft has original wrappers with split pins. Includes two leaves numbered 69. Autograph note, signed by Harriett Roeg, in pencil on title page: "From the library of Nicolas Roeg."</note>
+    <note type="" note_num="3">Accompanying letter is on Beverly Wilshire Hotel stationery.</note>
   </record>
   <record bib="16600188">
     <title>Emily Griffin commonplace book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Pages numbered in ink, the first leaf presumably intended as a title but never completed. Sketches in pen and ink, watercolor and pencil. Paper watermarked 1823. Bound in original dark brown panelled morocco decorated in gilt and blind, spine in compartments, one lettered in gilt ‘Album’, gilt edges.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Pages numbered in ink, the first leaf presumably intended as a title but never completed. Sketches in pen and ink, watercolor and pencil. Paper watermarked 1823. Bound in original dark brown panelled morocco decorated in gilt and blind, spine in compartments, one lettered in gilt ‘Album’, gilt edges.</note>
   </record>
   <record bib="16640284">
     <title>Diary and commonplace book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Original blue paper wrappers.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Original blue paper wrappers.</note>
   </record>
   <record bib="16641586">
     <title>880-02 Berāt of Abdülhamid II : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Romanization supplied by cataloger.</note>
-    <note type="" num="3">In dīwānī script.</note>
-    <note type="" num="4">Sultanic tughra and el-Ġāzi (الغازي) written in gold. Rubrication.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Romanization supplied by cataloger.</note>
+    <note type="" note_num="3">In dīwānī script.</note>
+    <note type="" note_num="4">Sultanic tughra and el-Ġāzi (الغازي) written in gold. Rubrication.</note>
   </record>
   <record bib="16663817">
     <title>Houghton family leases and library catalogue : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Sewn within contemporary marbled wrappers.</note>
-    <note type="" num="3">Internal evidence suggests a mid-18th century date for cataloging the library. The watermark (Pro Patria, with countermark GR) suggests that the laid paper dates from around 1750. The latest publication date of the volumes listed is Whiston’s Josephus (London 1737). Perhaps the library left by John Houghton and inherited by his son John.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Sewn within contemporary marbled wrappers.</note>
+    <note type="" note_num="3">Internal evidence suggests a mid-18th century date for cataloging the library. The watermark (Pro Patria, with countermark GR) suggests that the laid paper dates from around 1750. The latest publication date of the volumes listed is Whiston’s Josephus (London 1737). Perhaps the library left by John Houghton and inherited by his son John.</note>
   </record>
   <record bib="16807408">
     <title>Debt acknowledgement of Robert Borthwick of Vergennes to John Love of Shoreham for $200.00 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Signed: Royall Tyler, Chief Judge of the Sup. Court writ dated January 26 1810.</note>
-    <note type="" num="3">On verso: Writ of error, thereof Benajah Place et al. vs. John Love, Addison, Jan. 4 1810, no. 1 under new act.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Signed: Royall Tyler, Chief Judge of the Sup. Court writ dated January 26 1810.</note>
+    <note type="" note_num="3">On verso: Writ of error, thereof Benajah Place et al. vs. John Love, Addison, Jan. 4 1810, no. 1 under new act.</note>
   </record>
   <record bib="16860290">
     <title>John Eliot financial accounts and letterbooks : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">First volume: Contents page and approximately 140 text pages (numbered to page 96), followed by 16 blank leaves. Bound in green vellum, initialled "J E III" in manuscript to front board. Written in the same neat, clear copper-plate hand, on paper with watermark: Fleur-de-lis above GR; countermark: C Taylor.</note>
-    <note type="" num="3">Second volume: Letterbook of approximately 170 text pages, and approximately 60 pages of accounts (together 230 pages, excluding a few blanks). Some pages excised at each end. Bound in green vellum, one clasp intact. Ruled in red for accounts. Probably a stationer's book. Text and accounts written in the same neat, clear italic hand, on paper with watermark: Pro Patria above GR. Manuscript inscription laid on back pastedown: "Gulielma Briggins her book March 1734".</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">First volume: Contents page and approximately 140 text pages (numbered to page 96), followed by 16 blank leaves. Bound in green vellum, initialled "J E III" in manuscript to front board. Written in the same neat, clear copper-plate hand, on paper with watermark: Fleur-de-lis above GR; countermark: C Taylor.</note>
+    <note type="" note_num="3">Second volume: Letterbook of approximately 170 text pages, and approximately 60 pages of accounts (together 230 pages, excluding a few blanks). Some pages excised at each end. Bound in green vellum, one clasp intact. Ruled in red for accounts. Probably a stationer's book. Text and accounts written in the same neat, clear italic hand, on paper with watermark: Pro Patria above GR. Manuscript inscription laid on back pastedown: "Gulielma Briggins her book March 1734".</note>
   </record>
   <record bib="17070862">
     <title>Letter from Henry Rivington Hill to his sister describing George IV's Coronation, 1821 July 26 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">With a detailed hand-drawn map of the procession route, along with the original envelope addressed to "Miss Hannah Maria Hill" and annotated "Containing what I saw of the procession at the Coronation of George the 4th in 1821." Also with a small piece of black fabric claimed to be from the Coronation robe.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">With a detailed hand-drawn map of the procession route, along with the original envelope addressed to "Miss Hannah Maria Hill" and annotated "Containing what I saw of the procession at the Coronation of George the 4th in 1821." Also with a small piece of black fabric claimed to be from the Coronation robe.</note>
   </record>
   <record bib="17132920">
     <title>Diplomas and certificates granted to Giovanni Maria : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Contemporary gold-tooled brown leather binding.</note>
-    <note type="" num="3">First page is decorated with a coat of arms. Next to the coat of arms are a skeleton and a skinless individual. Cherub carrying banner with "In Dei nomine. Amen" on pages three and eleven.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Contemporary gold-tooled brown leather binding.</note>
+    <note type="" note_num="3">First page is decorated with a coat of arms. Next to the coat of arms are a skeleton and a skinless individual. Cherub carrying banner with "In Dei nomine. Amen" on pages three and eleven.</note>
   </record>
   <record bib="17141366">
     <title>Buch von den probierten Künsten : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Includes an illustration depicting Helm's concept of a rocket cat, i.e. the use of incendiary devices strapped to animals to penetrate fortifications.</note>
-    <note type="" num="3">The first leaf begins: "Ain Buech durch ainen Kriegesverstenndgen auss viele probierten Kinsten zusammengezogen, wie ein Zeughauss samptaller Monitur soll gehalten werden. Von Salbetter, Schwefell, Kolen, Pulver, Prechzeug, Fewrpfeil, Mordtfeur, Vergifft, Reuch oder Dempf Wie man sich derselben erweren soll. Auch ainen Bericht der Wagenburg, wie man diselbigen schlagen soll." Dated MDLXX.</note>
-    <note type="" num="4">Folio 63 is missing.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Includes an illustration depicting Helm's concept of a rocket cat, i.e. the use of incendiary devices strapped to animals to penetrate fortifications.</note>
+    <note type="" note_num="3">The first leaf begins: "Ain Buech durch ainen Kriegesverstenndgen auss viele probierten Kinsten zusammengezogen, wie ein Zeughauss samptaller Monitur soll gehalten werden. Von Salbetter, Schwefell, Kolen, Pulver, Prechzeug, Fewrpfeil, Mordtfeur, Vergifft, Reuch oder Dempf Wie man sich derselben erweren soll. Auch ainen Bericht der Wagenburg, wie man diselbigen schlagen soll." Dated MDLXX.</note>
+    <note type="" note_num="4">Folio 63 is missing.</note>
   </record>
   <record bib="17173073">
     <title>Scrapbook with caricatures and other prints, manuscripts, cuttings, drawings, silhouettes, poems]</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">With some French and Italian prints including prints from the series: Caricatures parisiennes, Métamorphoses du jour. Scenes of London.</note>
-    <note type="" num="3">Interest in France and Italy; the Americas; India and the Middle East.</note>
-    <note type="" num="4">Album is inscribed by "HH", probably Hubert Hutchings, who references his mother Elizabeth Clark Savery Hutchings (1777-1845).</note>
-    <note type="" num="5">Album paper watermarked "1823".</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">With some French and Italian prints including prints from the series: Caricatures parisiennes, Métamorphoses du jour. Scenes of London.</note>
+    <note type="" note_num="3">Interest in France and Italy; the Americas; India and the Middle East.</note>
+    <note type="" note_num="4">Album is inscribed by "HH", probably Hubert Hutchings, who references his mother Elizabeth Clark Savery Hutchings (1777-1845).</note>
+    <note type="" note_num="5">Album paper watermarked "1823".</note>
   </record>
   <record bib="17175708">
     <title>Francis A. Harris letter to Benjamin Coates, 1845 January 25 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Letter written on a 25 x 40 cm sheet of paper folded in half to create pages measuring 25 x 20 cm, then further folded, addressed, and sealed with red wax.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Letter written on a 25 x 40 cm sheet of paper folded in half to create pages measuring 25 x 20 cm, then further folded, addressed, and sealed with red wax.</note>
   </record>
   <record bib="17175712">
     <title>Samuel Huntington letter, to Heman Swift, 1787 May 17 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Sections of page detached at folds; some vermin damage; blue paper fragment affixed to bottom of verso.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Sections of page detached at folds; some vermin damage; blue paper fragment affixed to bottom of verso.</note>
   </record>
   <record bib="17190602">
     <title>Herbert Feis memoir : typescript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Donor inherited this copy of the memoir in 2000. Date span of authorship estimated from information in text.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Donor inherited this copy of the memoir in 2000. Date span of authorship estimated from information in text.</note>
   </record>
   <record bib="17196755">
     <title>Thomas Tipton accounts and memoranda book : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Bound in contemporary reverse calf, with a stamp "T. Tipton" on front pastedown.</note>
-    <note type="" num="3">On recto of front flyleaf: West of England Fire Insurance Company. John Gildon [probably John Gliddon who was secretary from 1807-1810]. West of England Fire Insurance Company was established in 1806 and changed its name to West of England Fire and Life Insurance Company in August of 1808.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Bound in contemporary reverse calf, with a stamp "T. Tipton" on front pastedown.</note>
+    <note type="" note_num="3">On recto of front flyleaf: West of England Fire Insurance Company. John Gildon [probably John Gliddon who was secretary from 1807-1810]. West of England Fire Insurance Company was established in 1806 and changed its name to West of England Fire and Life Insurance Company in August of 1808.</note>
   </record>
   <record bib="17199833">
     <title>Notebook of poems : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Date estimated from pencilled note on front free endpaper.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Date estimated from pencilled note on front free endpaper.</note>
   </record>
   <record bib="17203396">
     <title>Student notes on and drawings of human anatomy : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Binding: sheets of paper are housed in a contemporary brown marbled paper binding over pasteboard, though unbound. Binding's spine has broken apart; hence, binding now consists of separated front and back cover.</note>
-    <note type="" num="3">Anatomical drawings: of a skull in profile, of a skull in 3/4 view (manuscript note: non omnis moriar, Στεφανος τους [sic] αθανατοις), of the clavicle and its articulations, of the larynx (3 different perspectives), of the lungs and heart (also includes a sketch of the same drawing; heart itself lifts up to reveal the vascular system), of the male reproductive system (covered by different layers of drawn feathers; includes a copious amount of moveable flaps), of the brain (also with moveable flaps), of the muscles of the ear, and of a man's head. The last drawing is particularly intricate: the top flap shows the man's skin; the three following flaps show muscles; the next shows the skull with an additional flap for the eye; then a flap for the brain matter; final few flaps show a variety of muscles and the larynx. Drawings measure from about 20 x 20 cm to 46.5 cm x 33 cm. They are housed in a large white paper sheet, separately from the notes.</note>
-    <note type="" num="4">Printed certificate is unsigned, undated, and otherwise unidentified: Theatre London Hospital, Mr. ... has diligently attended ... course of Anatomical Demonstrations and Dissection delivered during the Session ... Certificate was meant to be filled out with manuscript material, but was left unfilled.</note>
-    <note type="" num="5">Also includes engraved hand-coloured print of an eye: A Diagram of the Human Eye. Published as the Act directs; 1803, J. Murray, Fleet Street.</note>
-    <note type="" num="6">Sheets with student notes generally consist of multiple sheets of folio paper glued together (up to 9 sheets) and are folded. Longest sheet measures about 195 cm.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Binding: sheets of paper are housed in a contemporary brown marbled paper binding over pasteboard, though unbound. Binding's spine has broken apart; hence, binding now consists of separated front and back cover.</note>
+    <note type="" note_num="3">Anatomical drawings: of a skull in profile, of a skull in 3/4 view (manuscript note: non omnis moriar, Στεφανος τους [sic] αθανατοις), of the clavicle and its articulations, of the larynx (3 different perspectives), of the lungs and heart (also includes a sketch of the same drawing; heart itself lifts up to reveal the vascular system), of the male reproductive system (covered by different layers of drawn feathers; includes a copious amount of moveable flaps), of the brain (also with moveable flaps), of the muscles of the ear, and of a man's head. The last drawing is particularly intricate: the top flap shows the man's skin; the three following flaps show muscles; the next shows the skull with an additional flap for the eye; then a flap for the brain matter; final few flaps show a variety of muscles and the larynx. Drawings measure from about 20 x 20 cm to 46.5 cm x 33 cm. They are housed in a large white paper sheet, separately from the notes.</note>
+    <note type="" note_num="4">Printed certificate is unsigned, undated, and otherwise unidentified: Theatre London Hospital, Mr. ... has diligently attended ... course of Anatomical Demonstrations and Dissection delivered during the Session ... Certificate was meant to be filled out with manuscript material, but was left unfilled.</note>
+    <note type="" note_num="5">Also includes engraved hand-coloured print of an eye: A Diagram of the Human Eye. Published as the Act directs; 1803, J. Murray, Fleet Street.</note>
+    <note type="" note_num="6">Sheets with student notes generally consist of multiple sheets of folio paper glued together (up to 9 sheets) and are folded. Longest sheet measures about 195 cm.</note>
   </record>
   <record bib="17251678">
     <title>À l'ombre des jeunes filles en fleurs : galley proof, with autograph corrections and additions.</title>
-    <note type="" num="1">The text corresponds to pages 28-42 of the 1919 French edition of À l'ombre des jeunes filles en fleurs published by Gallimard, in which the narrator discusses his family's relations with Mr. de Norpois and watches the actress Berma in Racine's rendition of Phaedra.</note>
-    <note type="a" num="2">Title devised by cataloger.</note>
-    <note type="" num="3">Date from printer's stamp.</note>
+    <note type="" note_num="1">The text corresponds to pages 28-42 of the 1919 French edition of À l'ombre des jeunes filles en fleurs published by Gallimard, in which the narrator discusses his family's relations with Mr. de Norpois and watches the actress Berma in Racine's rendition of Phaedra.</note>
+    <note type="a" note_num="2">Title devised by cataloger.</note>
+    <note type="" note_num="3">Date from printer's stamp.</note>
   </record>
   <record bib="17253427">
     <title>Naval log book describing voyages and engagements in Central America and China : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Naval log book of thirty-seven leaves, including 72 pages of manuscript entries in ink on pale blue ruled paper, divided into four sections separately paginated: [4],1-17, [3], 1-21, 1-29 pages</note>
-    <note type="" num="3">Contemporary quarter sheep and marbled boards, binding rubbed and worn, spine mostly perished in later custom case.</note>
-    <note type="" num="4">Title in manuscript on front free endpaper: Log of a cruise in the U.S. Sloop of War Cyane 1851, 1852, 1853, 1854; at top of page in a different hand: Kept by Daniel C. Brayton, sailmaker.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Naval log book of thirty-seven leaves, including 72 pages of manuscript entries in ink on pale blue ruled paper, divided into four sections separately paginated: [4],1-17, [3], 1-21, 1-29 pages</note>
+    <note type="" note_num="3">Contemporary quarter sheep and marbled boards, binding rubbed and worn, spine mostly perished in later custom case.</note>
+    <note type="" note_num="4">Title in manuscript on front free endpaper: Log of a cruise in the U.S. Sloop of War Cyane 1851, 1852, 1853, 1854; at top of page in a different hand: Kept by Daniel C. Brayton, sailmaker.</note>
   </record>
   <record bib="17264062">
     <title>Pali-language fragments.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Layout: 5 lines.</note>
-    <note type="" num="3">Script: Khmer/Khom.</note>
-    <note type="" num="4">Binding: no binding; covered in paper wrapper.</note>
-    <note type="" num="5">Place of creation either Siam (Thailand) or Cambodia due to use of specific, local letter forms. Identified by Trent Walker (personal correspondence).</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Layout: 5 lines.</note>
+    <note type="" note_num="3">Script: Khmer/Khom.</note>
+    <note type="" note_num="4">Binding: no binding; covered in paper wrapper.</note>
+    <note type="" note_num="5">Place of creation either Siam (Thailand) or Cambodia due to use of specific, local letter forms. Identified by Trent Walker (personal correspondence).</note>
   </record>
   <record bib="17265765">
     <title>Medical manuscript fragment.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Script: gothic minuscule.</note>
-    <note type="" num="3">Layout: single column of 27 lines.</note>
-    <note type="" num="4">Decoration: one large miniature showing a doctor letting a lady's blood in front of a sky and grass background. Rubrication. Large two-line initials in red and blue ink.</note>
-    <note type="" num="5">Folds in parchment likely indicate fragment's use as binding waste.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Script: gothic minuscule.</note>
+    <note type="" note_num="3">Layout: single column of 27 lines.</note>
+    <note type="" note_num="4">Decoration: one large miniature showing a doctor letting a lady's blood in front of a sky and grass background. Rubrication. Large two-line initials in red and blue ink.</note>
+    <note type="" note_num="5">Folds in parchment likely indicate fragment's use as binding waste.</note>
   </record>
   <record bib="17357730">
     <title>Richard Worsam Meade diary and copy book on his first trip to England and Europe : including details of the extralegal seizure of American vessels by the British Navy : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">In duodecimo leatherbound journal, leather covers worn and flaked.</note>
-    <note type="" num="3">Manuscript accomplished in a mixture of ink and pencil.</note>
-    <note type="" num="4">30 pages with text, consisting of 20 pages of journal entries, with additional sheet laid in of shorter diary entries, and 10 pages related to accounts, dated December, 1794, through March, 1795, with rest of leaves blank.</note>
-    <note type="" num="5">Journal entries record Meade’s arrival in England in June, 1795, and portions of his travels through France in August of the same year; journal portion approximately 2100 words.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">In duodecimo leatherbound journal, leather covers worn and flaked.</note>
+    <note type="" note_num="3">Manuscript accomplished in a mixture of ink and pencil.</note>
+    <note type="" note_num="4">30 pages with text, consisting of 20 pages of journal entries, with additional sheet laid in of shorter diary entries, and 10 pages related to accounts, dated December, 1794, through March, 1795, with rest of leaves blank.</note>
+    <note type="" note_num="5">Journal entries record Meade’s arrival in England in June, 1795, and portions of his travels through France in August of the same year; journal portion approximately 2100 words.</note>
   </record>
   <record bib="17358368">
     <title>Seven fragments from the Aṣṭasāhasrikā Prajñāpāramitā Sūtra.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Layout: 6 lines.</note>
-    <note type="" num="3">Script: rañjanā script.</note>
-    <note type="" num="4">Binding: unbound.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Layout: 6 lines.</note>
+    <note type="" note_num="3">Script: rañjanā script.</note>
+    <note type="" note_num="4">Binding: unbound.</note>
   </record>
   <record bib="17373873">
     <title>Collection of treatises, translations, and correspondence : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">No binding.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">No binding.</note>
   </record>
   <record bib="17405592">
     <title>Aziel Barnes poetry : composed between 1815 and 1843 : manuscript.</title>
-    <note type="a" num="1">Title devised by cataloger.</note>
-    <note type="" num="2">Several passages underlined in red in an unidentified hand.</note>
+    <note type="a" note_num="1">Title devised by cataloger.</note>
+    <note type="" note_num="2">Several passages underlined in red in an unidentified hand.</note>
   </record>
   </records>
