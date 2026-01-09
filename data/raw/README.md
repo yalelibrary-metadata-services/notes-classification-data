@@ -28,8 +28,8 @@ raw/
 
 **Formats:**
 - **XML**: Root `<records>` with `path` attribute; `<record>` contains `<title>` and `<note num="...">` children
-- **CSV**: One row per note: `bib_id`, `title`, `note_num`, `note` (plus `source` for `all_raw`)
-- **JSON**: Array of records with `bib_id`, `title`, `notes` array (plus `source` for `all_raw`)
+- **CSV**: One row per note: `bib`, `title`, `note_num`, `note` (plus `source` for `all_raw`)
+- **JSON**: Array of records with `bib`, `title`, `notes` array (plus `source` for `all_raw`)
 
 ---
 
