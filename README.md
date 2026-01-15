@@ -17,12 +17,12 @@
 │   ├── type_codes.yaml         # Classification schema (w/o/a + hybrids)
 │   └── people.yaml             # Team members and roles
 │
-└── data/                        # Processed data (source of truth: raw/)
+└── data/                        # Processed data (source of truth: stage1_raw/)
     │
-    ├── raw/                     # Source records: 11,770 records, 50,173 notes
+    ├── stage1_raw/              # Source records: 11,770 records, 50,173 notes
     │   └── by_format/          # XML | CSV | JSON
     │
-    ├── classified/              # Classified records: 3,921 records, 14,247 notes
+    ├── stage2_classify/        # Classified records: 3,921 records, 14,247 notes
     │   ├── fully_classified/   # 3,148 records (all notes typed)
     │   │   ├── by_format/      # XML | CSV | JSON
     │   │   └── by_type/        # CSV (w/o/a/hybrids/unknown)
@@ -31,12 +31,16 @@
     │   │   ├── by_format/      # XML | CSV | JSON
     │   │   └── by_type/        # CSV (w/o/a/hybrids/unknown)
     │   │
+    │   ├── unclassified/       # Snapshot: 7,849 records, 35,926 notes
+    │   │   └── by_format/      # XML | CSV | JSON
+    │   │
     │   └── reports/             # Validation and analysis
     │       ├── reports_2025-12-17/
     │       └── reports_2025-11-14/
     │
-    └── unclassified/            # Snapshot: 7,849 records, 35,926 notes
-        └── by_format/          # XML | CSV | JSON
+    └── stage3_review/           # Reviewed records with normalized classifications
+        ├── by_format/          # XML | CSV | JSON
+        └── contentions/         # Notes where reviewers disagree with classification
 ```
 
 ---
@@ -45,16 +49,17 @@
 
 **Data Pipeline:**
 ```
-_temporary_staging/ → preprocessing → data/raw/ → data/classified/ → data/reviewed/
+_temporary_staging/ → preprocessing → data/stage1_raw/ → data/stage2_classify/ → data/stage3_review/
 ```
 
 - **`_temporary_staging/`**: Files land here before preprocessing into `data/`
-- **`data/raw/`**: Source bibliographic records (11,770 records)
-- **`data/classified/`**: Records with classification applied (3,921 records)
+- **`data/stage1_raw/`**: Source bibliographic records (11,770 records)
+- **`data/stage2_classify/`**: Records with classification applied (3,921 records)
   - **fully_classified**: All notes have type values (3,148 records)
   - **partially_classified**: Mix of typed and empty type notes (773 records)
-- **`data/reviewed/`**: Second classifier review with normalized classification files
-- **`data/unclassified/`**: Snapshot of records not yet classified (7,849 records)
+  - **unclassified**: Snapshot of records not yet classified (7,849 records)
+- **`data/stage3_review/`**: Second classifier review with normalized classification files
+  - **contentions**: Notes where reviewers disagree with original classification
 
 **Partially Classified:** Records containing both typed and empty type notes. Binary split: entire record moved if any note has empty type. Unlike `unclassified/`, these records have at least one typed note.
 
@@ -99,7 +104,8 @@ _temporary_staging/ → preprocessing → data/raw/ → data/classified/ → dat
 
 ## Documentation
 
-- `data/raw/README.md` - Raw data structure
-- `data/classified/README.md` - Classified details and type distributions  
-- `data/unclassified/by_format/README.md` - Unclassified snapshot
+- `data/stage1_raw/README.md` - Raw data structure
+- `data/stage2_classify/README.md` - Classified details and type distributions  
+- `data/stage2_classify/unclassified/by_format/README.md` - Unclassified snapshot
+- `data/stage3_review/README.md` - Review process and contentions
 - `config/type_codes.yaml` - Classification schema
