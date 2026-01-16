@@ -4,13 +4,13 @@
 **Status:** Active  
 **Last updated:** 2026-01-15
 
-*See root [`README.md`](../../README.md) for project workflow and context.*
+*See root [`README.md`](../../README.md) for project overview.*
 
 ---
 
 ## Overview
 
-Records with classification applied. New `type` attribute added to notes (not present in `stage1_raw/` files). Organized into `fully_classified/` (all notes typed), `partially_classified/` (mix of typed and empty), and `unclassified/` (no notes typed).
+Records with classification applied. New `type` attribute added to notes. Organized into three datasets based on type completeness.
 
 **Statistics:** 3,921 records, 14,247 notes (10,549 typed, 3,698 empty)
 
@@ -35,10 +35,10 @@ stage2_classify/
 ```
 
 **Formats:**
-- **XML**: Root `<records>` with `path` attribute; `<record>` contains `<title>` and `<note type="..." num="...">` children
+- **XML**: Root `<records>` with `path` attribute (e.g., `stage2_classify/fully_classified/by_format/XML/all_classified.xml`); `<record>` contains `<title>` and `<note type="..." num="...">` children
 - **CSV**: One row per note: `bib`, `title`, `note_num`, `note`, `type` (plus `source` for aggregated files)
 - **JSON**: Array of records with `bib`, `title`, `notes` array (`text`, `note_num`, `type`) (plus `source` for aggregated files)
-- **by_type/**: CSV files organized by classification type (CSV only for ease of use)
+- **by_type/**: CSV files organized by classification type (w, o, a, ow, aw, ao, unknown)
 
 ---
 
@@ -81,38 +81,14 @@ Records with both empty and non-empty type notes (binary split: entire record mo
 
 ---
 
-## Structure Examples
+## Dataset Splits
 
-### fully_classified
-```xml
-<?xml version='1.0' encoding='utf-8'?>
-<records path="stage2_classify/fully_classified/by_format/XML/daniel_classified.xml">
-  <record bib="17516867">
-    <title>The "last best west" Canada west : homes for millions.</title>
-    <note type="w" num="1">From collection: Canada Pamphlets</note>
-    <note type="a" num="2">Please note: Some of the metadata...</note>
-  </record>
-</records>
-```
-
-### partially_classified
-```xml
-<?xml version='1.0' encoding='utf-8'?>
-<records path="stage2_classify/partially_classified/by_format/XML/combined.xml">
-  <record bib="14526311" source="martin">
-    <title>Example title</title>
-    <note type="w" num="1">Classified note</note>
-    <note type="" num="2">Unclassified note</note>
-    <note type="a" num="3">Classified note</note>
-  </record>
-</records>
-```
+- **fully_classified/**: All notes have type values (3,148 records)
+- **partially_classified/**: Mix of typed and empty type notes (773 records). Binary split: entire record moved if any note has empty type.
+- **unclassified/**: Snapshot of records not yet classified (7,849 records)
 
 ---
 
-## Validation Reports
+## Reports
 
-- `reports/reports_2025-12-17/` - Latest validation reports including meta-validation and by-type accounting
-- `reports/reports_2025-11-14/` - Initial validation and processing reports
-
-*Note: File and folder names referenced in past reports may have changed due to reorganization.*
+- `reports/summary.md` - Current statistics summary

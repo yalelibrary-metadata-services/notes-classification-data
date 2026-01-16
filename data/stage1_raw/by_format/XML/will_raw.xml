@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<records path="stage1_raw/XML/will_raw.xml">
+<records path="stage1_raw/by_format/XML/will_raw.xml">
   <record bib="1975084">
     <title>Inventaire sommaire des manuscrits et imprimés chinois de la Bibliothèque vaticane (13 juin-6 juillet 1922) [microform] / par Paul Pelliot.</title>
     <note note_num="1">Typescript.</note>
