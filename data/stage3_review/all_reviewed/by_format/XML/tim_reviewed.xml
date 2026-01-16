@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<records path="stage3_review/by_format/XML/tim_reviewed.xml">
+<records path="stage3_review/all_reviewed/by_format/XML/tim_reviewed.xml">
   <record bib="3668927">
     <title>[Lectures on surgery].</title>
     <note type="o" num="1" review="n" reviewer="wn">Binder's title; though lettered Volume 1, 1829, contents are complete.</note>
